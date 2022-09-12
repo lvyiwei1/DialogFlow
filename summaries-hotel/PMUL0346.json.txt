@@ -1,0 +1,7 @@
+
+
+
+1. Finding a hotel in the customer's desired location
+2. Identifying the customer's preferred price range
+3. Checking for any special amenities the customer might want
+4. Booking the reservation and providing the customer with a reference number

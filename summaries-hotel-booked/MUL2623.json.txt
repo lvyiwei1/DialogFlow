@@ -1,0 +1,7 @@
+
+
+1. Ask the customer if they have a preferred section of town.
+2. If they do not have a preferred section of town, recommend Autumn House in the east part of town.
+3. Ask the customer if they would like to book a room for 7 people for 4 nights starting Tuesday.
+4. If the hotel is unavailable, ask the customer if they would like to book a room for 2 nights instead.
+5. If the customer confirms, book the hotel and give the customer a reference number.

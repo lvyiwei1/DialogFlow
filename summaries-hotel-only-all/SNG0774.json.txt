@@ -1,0 +1,7 @@
+
+
+1. Asking the customer if they have a preferred area of the city they would like to stay in.
+2. If the customer does have a preference, finding a hotel in that area that is moderately priced and has free parking.
+3. If the customer does not have a preference, finding a hotel that is moderately priced and has free parking.
+4. Booking the hotel for the customer.
+5. Thanking the customer for their business.

@@ -1,0 +1,8 @@
+
+
+1. Ask customer where they are headed.
+2. Ask customer when they would like to depart.
+3. Ask customer what type of guesthouse they are looking for.
+4. Ask customer if they have a preferred location.
+5. Book the room for the customer.
+6. Get the customer the reference number for their train tickets.

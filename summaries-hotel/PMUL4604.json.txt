@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+2. Ask the customer if they have a preference for price range or star rating.
+3. Ask the customer if they need a taxi to commute.
+4. Book the hotel for the customer.
+5. Give the customer the reference number for the hotel booking.

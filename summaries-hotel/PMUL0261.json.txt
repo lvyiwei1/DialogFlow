@@ -1,0 +1,9 @@
+
+
+1. Help the customer identify what type of accommodations they are looking for.
+
+2. Find hotel options that match the customer's budget and preferences.
+
+3. Make a reservation for the customer.
+
+4. Provide the customer with the reference number for their reservation.

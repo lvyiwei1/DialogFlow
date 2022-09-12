@@ -1,0 +1,8 @@
+
+
+- Finding a hotel that is available on the required date
+- Checking the hotel amenities to see if they match the customer's needs
+- Booking the hotel room
+- Confirming the booking with the customer
+- Ensuring the customer has the hotel's contact information
+- Booking a taxi to and from the hotel

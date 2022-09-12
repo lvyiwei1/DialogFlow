@@ -1,0 +1,5 @@
+
+
+1. Get the customer's information (name, contact info, number of people, days of stay)
+2. Find the hotel (check spelling, look up location, find contact info)
+3. Book the hotel (give reference number)

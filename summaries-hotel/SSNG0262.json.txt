@@ -1,0 +1,7 @@
+
+
+1) Determine what the customer is looking for in a hotel (e.g. price range, amenities, location, etc.)
+
+2) Find a hotel that meets the customer's needs
+
+3) Book the hotel for the customer

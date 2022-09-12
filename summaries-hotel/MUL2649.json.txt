@@ -1,0 +1,8 @@
+
+
+In order to help a customer book a hotel, the following key steps must be completed: 
+
+1. Determine the customer's location
+2. Find hotels in the vicinity of the customer's location
+3. Select a hotel that meets the customer's needs
+4. Book the hotel for the customer

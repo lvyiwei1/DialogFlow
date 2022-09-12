@@ -1,0 +1,8 @@
+
+
+1. Ask if the customer is looking for a hotel in a particular area.
+2. If so, ask for the customer's preferred budget.
+3. If the customer does not have a preference, recommend the Allenbell hotel.
+4. Ask if the customer needs any information on attractions in the same area.
+5. If so, provide the requested information.
+6. Thank the customer and end the conversation.

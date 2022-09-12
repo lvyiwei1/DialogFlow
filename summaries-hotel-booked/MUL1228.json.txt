@@ -1,0 +1,9 @@
+
+
+1. Get information about the customer's preferences (e.g. price range, type of food, location).
+
+2. Find a hotel that meets the customer's needs.
+
+3. Book the hotel for the customer.
+
+4. Order a taxi to take the customer to the hotel.

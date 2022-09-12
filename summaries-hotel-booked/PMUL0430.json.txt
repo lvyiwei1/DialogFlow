@@ -1,0 +1,6 @@
+
+
+1. Asking the customer what they are looking for in a hotel.
+2. Offering suggestions based on the customer's preferences.
+3. Booking the hotel for the customer.
+4. Giving the customer the reference number for their booking.

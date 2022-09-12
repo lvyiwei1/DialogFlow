@@ -1,0 +1,9 @@
+
+
+service: There are four options available, do you have a preference for the price range?
+
+- help customer identify price range
+- find options within that price range
+- determine if customer has any additional preferences
+- make a recommendations
+- book the reservation if requested

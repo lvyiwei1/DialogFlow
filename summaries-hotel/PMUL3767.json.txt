@@ -1,0 +1,8 @@
+
+
+1. Prompt customer for what type of lodging they are looking for.
+2. Determine customer's budget.
+3. Ask customer for their preferred location.
+4. Find a hotel that meets the customer's criteria.
+5. If the hotel is available, book the room for the customer.
+6. Provide the customer with information about their reservation.

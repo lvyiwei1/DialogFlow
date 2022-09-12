@@ -1,0 +1,8 @@
+
+
+1. Ask customer for location, number of people, and number of days for stay.
+2. Look for 4 star places to stay with desired amenities in location using a booking website.
+3. Show customer a list of options that meet their requirements.
+4. Allow customer to select desired hotel and book reservation.
+5. Get reference number from booking website for confirmation.
+6. Book taxi to desired location, if needed.

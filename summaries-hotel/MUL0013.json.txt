@@ -1,0 +1,8 @@
+
+
+1. Find out the customer's location
+2. Ask what type of hotel they are looking for
+3. Find a hotel that meets the customer's needs
+4. Ask if the customer would like to book a room
+5. If so, confirm the details of the booking
+6. Thank the customer and end the conversation

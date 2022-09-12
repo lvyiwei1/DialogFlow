@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+2. If the customer is looking for a specific type of hotel, ask them if they have a price range in mind.
+3. If the customer is looking for a specific type of hotel, ask them if they have a preferred location.
+4. If the customer is looking for a specific type of hotel, ask them if they would like to make a reservation.
+5. If the customer is looking for a specific type of hotel, ask them for the hotel's address.
+6. If the customer is also looking for a restaurant, ask them what type of food they are looking for.
+7. If the customer is also looking for a restaurant, ask them if they have a preferred price range.
+8. If the customer is also looking for a restaurant, ask them if they have a preferred location.
+9. If the customer is also looking for a restaurant, ask them if

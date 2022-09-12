@@ -1,0 +1,9 @@
+
+
+1. First, ask the customer for their travel dates and destination.
+
+2. Next, ask the customer how many rooms they need and for how many nights.
+
+3. Then, search for hotels that match the customer's criteria and provide them with a list of options.
+
+4. Finally, help the customer book their rooms and provide them with a reference number.

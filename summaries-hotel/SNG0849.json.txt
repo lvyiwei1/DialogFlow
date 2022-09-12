@@ -1,0 +1,5 @@
+
+
+1. get customer's specifications for the hotel (price, star rating, wifi)
+2. provide customer with list of available hotels that meet their specifications
+3. book the hotel room for the customer

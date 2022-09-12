@@ -1,0 +1,8 @@
+
+
+1. Ask if the customer needs help.
+2. Ask what type of help the customer needs.
+3. Ask the customer for more information about their needs.
+4. Find the customer a hotel that meets their needs.
+5. Give the customer the contact information for the hotel.
+6. Ask if the customer needs any more help.

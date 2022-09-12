@@ -1,0 +1,8 @@
+
+
+1. Get the customer's destination and travel dates.
+2. Find a hotel that meets the customer's needs.
+3. Book the hotel for the customer.
+4. Get the customer's payment information.
+5. Confirm the booking with the customer.
+6. Thank the customer for their business.

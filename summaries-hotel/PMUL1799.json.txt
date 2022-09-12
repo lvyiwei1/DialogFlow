@@ -1,0 +1,6 @@
+
+
+1. Ask for the name of the hotel.
+2. Look up the address of the hotel.
+3. Ask if the customer wants any additional information about the hotel.
+4. Book the hotel for the customer.

@@ -1,0 +1,7 @@
+
+
+1. Ask the customer where they would like to travel from and to.
+2. Find a train that meets the customer's needs.
+3. Give the customer the price and arrival time for the train.
+4. Find the hotel the customer is interested in.
+5. Book the hotel room for the customer.

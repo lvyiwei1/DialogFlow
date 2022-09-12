@@ -1,0 +1,6 @@
+
+
+1. Determine customer needs
+2. Identify appropriate hotel
+3. Book hotel reservation
+4. Confirm details with customer

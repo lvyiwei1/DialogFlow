@@ -1,0 +1,15 @@
+
+
+1. Ask for the customer's desired location.
+
+2. Ask for the name of the specific hotel the customer is looking for.
+
+3. If the hotel cannot be found, ask for additional information about the hotel.
+
+4. Once the hotel is found, provide the customer with the hotel's phone number, postcode, and address.
+
+5. Ask the customer if they are looking for any attractions in the area and make a recommendation if they are not sure.
+
+6. Find out the entrance fee for the attraction and provide that information to the customer.
+
+7. Thank the customer for their inquiry and bid them farewell.

@@ -1,0 +1,7 @@
+
+
+1. Asking the customer when they would like to stay
+2. Telling the customer about the price range for the hotel they are interested in
+3. Recommending a restaurant to the customer
+4. Booking a table at the restaurant for the customer
+5. Booking a taxi for the customer

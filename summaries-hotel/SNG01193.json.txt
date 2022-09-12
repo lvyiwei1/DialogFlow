@@ -1,0 +1,7 @@
+
+
+1. Find out where the customer would like to stay.
+2. Ask if they have any specific requirements for their stay.
+3. Make recommendations based on their requirements.
+4. Book the hotel for the customer.
+5. Thank the customer and wish them a pleasant stay.

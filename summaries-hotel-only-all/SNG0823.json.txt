@@ -1,0 +1,7 @@
+
+
+- Identify customer need
+- Search for available options
+- Select hotel
+- Make booking
+- Thank customer

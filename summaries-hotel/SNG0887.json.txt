@@ -1,0 +1,7 @@
+
+
+1. Ask about the customer's preferences for location, price, and amenities.
+2. Offer several options that fit the customer's preferences.
+3. Ask if the customer would like to make a reservation.
+4. If the customer does want to make a reservation, confirm the details of the reservation.
+5. Thank the customer for their business.

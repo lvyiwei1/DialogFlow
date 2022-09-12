@@ -1,0 +1,7 @@
+
+
+1. Suggest hotels that match the customer's stated preferences.
+2. Book a room at the customer's chosen hotel.
+3. Get the contact information for the hotel.
+4. Recommend restaurants to the customer.
+5. Get the contact information for the restaurant.

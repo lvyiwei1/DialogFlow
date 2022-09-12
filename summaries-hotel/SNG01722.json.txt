@@ -1,0 +1,9 @@
+
+
+1. Ask for the name of the hotel the customer is looking for.
+2. Repeat the name of the hotel back to the customer to confirm.
+3. Ask the customer what dates they would like to stay.
+4. Ask the customer how many people will be staying.
+5. Inform the customer if the booking was successful.
+6. Give the customer the reference number for their booking.
+7. Thank the customer and goodbye.

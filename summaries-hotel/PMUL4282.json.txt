@@ -1,0 +1,6 @@
+
+
+1.Inquire about the customer's needs
+2.Make recommendations based on the customer's needs
+3.Make reservations for the customer
+4.Provide the customer with information about the hotel, such as the address, amenities, and policies.

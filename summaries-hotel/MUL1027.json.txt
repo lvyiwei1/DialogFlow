@@ -1,0 +1,10 @@
+
+
+1. Asking the customer which area they would like to stay in.
+2. Asking the customer what their price range is.
+3. Asking the customer how many people they need accommodation for.
+4. Asking the customer what day they need the reservation for.
+5. Asking the customer how long they will need the accommodation for.
+6. Finding hotels that match the customer's specifications.
+7. Telling the customer the price ranges for the hotels that have been found.
+8. Booking the taxi to pick the customer up from the swimming pool.

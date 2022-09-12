@@ -1,0 +1,7 @@
+
+
+1.Identify the customer's needs 
+2.Offer a few options that meet the customer's needs 
+3.Get additional information from the customer to finalize the booking 
+4.Make the booking 
+5.Give the customer the reference number for the booking

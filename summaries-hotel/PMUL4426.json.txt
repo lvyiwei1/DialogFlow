@@ -1,0 +1,6 @@
+
+
+1. Get the customer's arrival date and train information.
+2. Ask the customer how many people will be staying and for how many nights.
+3. Find hotels that match the customer's needs.
+4. Book the room for the customer.

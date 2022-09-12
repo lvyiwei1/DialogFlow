@@ -1,0 +1,9 @@
+
+
+1. Help customer select a moderate priced hotel with free wifi
+
+2. Choose a location that meets the customer's additional requirements
+
+3. Book the hotel for the customer
+
+4. Provide the customer with a reference number for their booking

@@ -1,0 +1,7 @@
+
+
+1. Ask customer which area they would like to stay in.
+2. Find a hotel in that area that has free parking.
+3. Book the hotel for the customer.
+4. Ask the customer if they need a taxi to the museum.
+5. Book the taxi for the customer.

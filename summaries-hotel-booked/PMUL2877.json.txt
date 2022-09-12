@@ -1,0 +1,7 @@
+
+
+1) Asking the customer what type of accommodation they are looking for
+2) If the customer is looking for a specific type of accommodation, asking for clarification on what type of accommodation they are looking for
+3) Providing the customer with options for accommodation
+4) Asking the customer to confirm their booking
+5) Once the booking is confirmed, providing the customer with the contact details for the hotel

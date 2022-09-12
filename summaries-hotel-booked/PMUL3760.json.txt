@@ -1,0 +1,6 @@
+
+
+-The customer provides their budget
+-The service recommends a hotel that meets the customer's needs
+-The customer makes a reservation
+-The service provides the customer with a reference number

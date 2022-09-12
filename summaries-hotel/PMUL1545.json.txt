@@ -1,0 +1,7 @@
+
+
+1. Asking the customer where they would like to stay.
+2. Asking the customer their preferred price range.
+3. Recommending a suitable hotel in the area.
+4. Booking the hotel for the customer.
+5. Providing the customer with the contact information for the hotel.

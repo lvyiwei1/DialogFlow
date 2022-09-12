@@ -1,0 +1,10 @@
+
+
+8. Asking for the customer's train ticket preferences
+7. Booking the train ticket
+6. Asking for the customer's travel details
+5. Asking for the customer's contact information
+4. Giving the customer the reference number
+3. Asking for the customer's payment information
+2. Asking for the customer's name
+1. Welcoming the customer

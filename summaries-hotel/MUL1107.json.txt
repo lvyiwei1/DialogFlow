@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+2. Ask the customer if they have a preferred location for the hotel.
+3. If the customer does not have a preferred location, recommend a hotel in a desirable area.
+4. Give the customer the address and contact information for the hotel.
+5. Book a taxi for the customer if needed.

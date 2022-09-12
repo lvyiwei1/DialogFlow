@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what they need.
+
+2. Ask the customer for additional details.
+
+3. Find a hotel that meets the customer's needs.
+
+4. Book the hotel for the customer.
+
+5. Confirm the booking with the customer.

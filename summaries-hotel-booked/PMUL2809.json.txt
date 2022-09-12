@@ -1,0 +1,6 @@
+
+
+1. Ask what area of town they would like to stay.
+2. Ask what price range they are looking for.
+3. Make a recommendation based on their answers.
+4. Book the hotel for them.

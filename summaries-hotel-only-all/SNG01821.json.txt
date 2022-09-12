@@ -1,0 +1,6 @@
+
+
+
+1. Book a hotel for the customer.
+2. Get a reference number for the customer.
+3. Confirm that the hotel includes free parking and wifi.

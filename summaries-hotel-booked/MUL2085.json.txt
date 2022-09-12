@@ -1,0 +1,6 @@
+
+
+1. Determine customer needs (e.g. location, type of hotel, number of nights, number of guests, etc.)
+2. Find available hotels that meet customer needs
+3. provide customer with information on available hotels
+4. Book hotel for customer

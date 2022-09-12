@@ -1,0 +1,13 @@
+
+
+1. Ask the customer what their budget is.
+
+2. Ask the customer how many people will be staying in the hotel room.
+
+3. Ask the customer what dates they will be staying at the hotel.
+
+4. Find a hotel room that meets the customer's needs.
+
+5. Make a reservation for the customer.
+
+6. Provide the customer with the contact information for the hotel.

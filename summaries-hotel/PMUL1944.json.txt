@@ -1,0 +1,13 @@
+
+
+
+
+1. Ask customer what kind of hotel they are looking for.
+2. Ask customer for their preferred price range.
+3. Ask customer for their desired dates of stay.
+4. Ask customer if they have any other specific requests or needs.
+5. Find hotels that match the customer's preferences.
+6. Recommend hotels to the customer.
+7. Book the hotel for the customer.
+8. Get confirmation from customer.
+9. Give customer information about their hotel booking.

@@ -1,0 +1,6 @@
+
+
+1. Finding the hotel
+2. Checking the price
+3. Booking the hotel
+4. Providing a reference number

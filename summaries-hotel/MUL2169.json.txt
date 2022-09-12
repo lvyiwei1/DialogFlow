@@ -1,0 +1,9 @@
+
+
+1. Ask what the customer is looking for.
+2. Find out if the customer wants to book a room.
+3. Get the price range for the hotel.
+4. Ask what day and time the customer wants to leave.
+5. Book the train for the customer.
+6. Get the reference number for the train.
+7. Tell the customer the total fee for the train.

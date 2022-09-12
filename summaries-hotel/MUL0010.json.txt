@@ -1,0 +1,9 @@
+
+
+1. Find out the customer's preferred location, price range, and type of hotel.
+
+2. Use this information to search for hotels that meet the customer's criteria.
+
+3. Once a hotel is found, provide the customer with the contact information and car type.
+
+4. Book a taxi to take the customer between the two locations.

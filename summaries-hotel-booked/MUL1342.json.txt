@@ -1,0 +1,5 @@
+
+
+1. Finding a suitable hotel that meets the customer's needs in terms of location, price, and amenities.
+2. Booking a room at the hotel for the required number of nights.
+3. Ordering a taxi to pick the customer up from the hotel and take them to the restaurant.

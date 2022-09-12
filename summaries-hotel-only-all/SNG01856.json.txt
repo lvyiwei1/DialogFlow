@@ -1,0 +1,7 @@
+
+
+1. Find out what the customer's budget is.
+2. Find out what the customer's dates of travel are.
+3. Find out how many people the customer is traveling with.
+4. Find a hotel that meets the customer's budget, dates of travel, and number of people traveling.
+5. Book the hotel for the customer.

@@ -1,0 +1,9 @@
+
+
+1. Ask the customer if they have any preferences in terms of price range or number of stars.
+
+2. Based on the customer's preferences, provide a list of available options.
+
+3. Ask the customer to choose one of the options.
+
+4. Once the customer has chosen an option, provide the necessary information such as address, phone number, and reference number.

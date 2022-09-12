@@ -1,0 +1,6 @@
+
+
+1. Ask if the customer is looking for a specific type of accommodation.
+2. If they are looking for a specific type of accommodation, ask if they have a preference for area.
+3. If they have a preference for area, recommend a specific hotel or guesthouse.
+4. Make a reservation for the customer.

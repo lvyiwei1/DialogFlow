@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what their preferred price range is.
+2. Ask the customer if they need parking.
+3. Ask the customer if they want a hotel or a guesthouse.
+4. Book the customer's room.
+5. Provide the customer with a reference number.

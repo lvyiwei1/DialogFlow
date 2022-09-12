@@ -1,0 +1,7 @@
+
+
+1. Ask for customer preferences in regards to price, location, type of accommodation, and other amenities.
+
+2. Based on the preferences, recommend specific hotels.
+
+3. Book the room for the customer.

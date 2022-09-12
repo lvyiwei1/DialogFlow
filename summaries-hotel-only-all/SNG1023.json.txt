@@ -1,0 +1,11 @@
+
+
+1. Ask if the customer has a preference for location.
+
+2. If they have a preference, ask if they have a preference for type of hotel.
+
+3. Ask if they have a price preference.
+
+4. Once the customer has given you their preferences, make a recommendation.
+
+5. Make the reservation for the customer.

@@ -1,0 +1,7 @@
+
+
+1. Ask customer if they are looking for a specific type of lodging.
+2. If they are looking for a specific type of lodging, ask them if they have any preferences in terms of price or amenities.
+3. If they have no specific preferences, give them some options that meet their general criteria.
+4. Ask the customer if they would like to book one of the options.
+5. If the customer decides to book one of the options, help them book it.

@@ -1,0 +1,7 @@
+
+
+1. Getting the customer's destination
+2. Asking if the customer has any preference for the hotel
+3. Finding hotels that match the customer's preferences
+4. Checking if the customer needs any additional services
+5. Booking the hotel for the customer

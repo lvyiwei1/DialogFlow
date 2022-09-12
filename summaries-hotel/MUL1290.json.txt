@@ -1,0 +1,6 @@
+
+
+
+1. Help customer find a hotel called Autumn House
+2. Make a reservation for them
+3. Find out their phone number

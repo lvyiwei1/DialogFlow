@@ -1,0 +1,8 @@
+
+
+1. Find out customer preference between a hotel or guesthouse 
+2. Based on customer preference, look for available options 
+3. Recommend a suitable option to the customer 
+4. If the customer is satisfied with the option, make a reservation 
+5. Give the customer a reference number for the reservation 
+6. Thank the customer for their business

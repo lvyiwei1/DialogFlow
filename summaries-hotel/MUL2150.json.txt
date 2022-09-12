@@ -1,0 +1,11 @@
+
+
+1. Show the customer options that match their preferences.
+
+2. Ask the customer if they need any additional services.
+
+3. Book the room for the customer.
+
+4. Give the customer their reference number.
+
+5. Ask the customer if they need any additional assistance.

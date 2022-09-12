@@ -1,0 +1,9 @@
+
+
+1. Ask the customer if they have a preferred area or price range.
+2. If they do not have a preferred area or price range, provide options that fit their needs.
+3. Ask the customer if they are ready to book. If they are, gather the necessary information to complete the booking.
+4. Complete the booking and provide the customer with a reference number.
+5. If the customer needs help finding a place to eat, ask them if they have a preferred area or cuisine.
+6. provide the customer with options that fit their needs.
+7. If the customer chooses a restaurant, provide the necessary information to find it.

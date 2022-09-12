@@ -1,0 +1,5 @@
+
+
+1. Ask the customer if they would like to book a room.
+2. If the customer confirms, ask for their credit card information to complete the booking.
+3. If the customer declines, ask if they have any other questions about the hotel.

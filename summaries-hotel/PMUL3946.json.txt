@@ -1,0 +1,9 @@
+
+
+1. Finding a train that leaves Cambridge and goes to Bishops Stortford.
+
+2. Booking a ticket for the customer.
+
+3. Retrieving information on the huntingdon marriott hotel.
+
+4. Telling the customer if the hotel has free parking.

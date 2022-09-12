@@ -1,0 +1,10 @@
+
+
+1. Ask the customer what type of accommodation they are looking for.
+2. Ask the customer if they have a preference for location.
+3. Ask the customer if they have any specific requirements for their accommodation.
+4. Suggest some accommodation options that meet the customer's needs.
+5. Ask the customer if they would like to book a room at one of the suggested options.
+6. If the customer would like to book a room, ask for details such as dates of stay and number of guests.
+7. Book the room for the customer and provide confirmation details.
+8. Thank the customer and let them know to contact again if they need anything else.

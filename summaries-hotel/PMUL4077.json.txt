@@ -1,0 +1,8 @@
+
+
+1) Asking the customer what their preferred location is.
+2) Asking the customer what their preferred type of accommodation is.
+3) Asking the customer what their preferred price range is.
+4) Finding accommodation options that match the customer's preferences.
+5) Providing the contact information for the chosen hotel to the customer.
+6) Booking a taxi to the chosen hotel for the customer, if requested.

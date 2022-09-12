@@ -1,0 +1,7 @@
+
+
+1. Ask where the customer wants to stay.
+2. Ask what star rating the customer prefers.
+3. Ask what the price range is.
+4. Ask if the customer has any preferences.
+5. Ask if the customer needs a reference number.

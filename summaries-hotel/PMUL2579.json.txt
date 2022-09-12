@@ -1,0 +1,18 @@
+ 
+
+
+1. Ask the customer where they would like to go.
+
+2. Ask the customer what type of place they are interested in.
+
+3. Suggest the Whale of a Time entertainment venue to the customer.
+
+4. Provide the customer with the phone number and entrance fee for the venue.
+
+5. Ask the customer if they need anything else.
+
+6. If the customer needs a place to stay, suggest the Hobsons House hotel.
+
+7. Book the hotel for the customer.
+
+8. If the customer needs a taxi, book the taxi for the customer.

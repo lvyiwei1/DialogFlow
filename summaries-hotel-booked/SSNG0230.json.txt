@@ -1,0 +1,7 @@
+
+
+1. Look for a hotel that meets the customer's criteria.
+2. Suggest a hotel that the customer might like.
+3. Ask the customer if they would like to book the hotel.
+4. If the customer would like to book the hotel, help them complete the booking process.
+5. Thank the customer for their business.

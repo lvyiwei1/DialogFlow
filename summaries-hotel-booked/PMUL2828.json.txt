@@ -1,0 +1,9 @@
+
+
+1. Ask the customer if they have any special requests or preferences.
+2. If the customer needs wifi, find guesthouses that have free wifi.
+3. If the customer wants a 1 star rated guesthouse, find all hotels that have a 1 star rating.
+4. If the customer wants a 2 star rated hotel, find all hotels that have a 2 star rating.
+5. Book the hotel for the customer.
+6. Get the reference number for the customer.
+7. If the customer needs a taxi, book the taxi for the customer.

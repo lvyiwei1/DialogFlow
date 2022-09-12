@@ -1,0 +1,6 @@
+
+
+1. First, the customer needs to decide on the location for the guest house. 
+2. Then, the customer needs to check the availability of the guest house. 
+3. Once the guest house is available, the customer needs to confirm the booking. 
+4. Finally, the customer needs to provide their contact information and submit their payment.

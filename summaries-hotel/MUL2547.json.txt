@@ -1,0 +1,5 @@
+
+
+1. Help the customer narrow down the area they would like to stay in.
+2. Find a 3 star hotel in the area that the customer has chosen.
+3. Give the customer the phone number for the hotel.

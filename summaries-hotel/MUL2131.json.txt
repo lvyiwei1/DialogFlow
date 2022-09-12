@@ -1,0 +1,6 @@
+
+
+1. Find out the number of people and the number of nights they need the hotel for.
+2. Find out the day they need to stay.
+3. Find a hotel that meets their needs.
+4. Book the hotel and give the customer a reference number.

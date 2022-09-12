@@ -1,0 +1,11 @@
+
+
+1. Collect basic information about what the customer is looking for (e.g.location, price range, dates, number of people, number of nights).
+
+2. Do a search for hotels that meet the customer's criteria.
+
+3. Present the results of the search to the customer.
+
+4. Help the customer choose a hotel and book the room (s).
+
+5. Provide the customer with a reference number for the booking.

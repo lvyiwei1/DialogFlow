@@ -1,0 +1,6 @@
+
+
+1. Help the customer identify their desired location.
+2. Assist the customer in finding a hotel that meets their needs in that location.
+3. Book the hotel for the customer.
+4. Provide the customer with the relevant information about the hotel, such as the type, phone number, and address.

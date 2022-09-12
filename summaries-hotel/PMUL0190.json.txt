@@ -1,0 +1,7 @@
+
+
+1. Ask the customer if they need help finding a hotel.
+2. If the customer does need help, ask what type of hotel they are looking for.
+3. Ask the customer for the name and location of the hotel they are interested in.
+4. Find the hotel's contact information and give it to the customer.
+5. Ask the customer if they would like to book a room.

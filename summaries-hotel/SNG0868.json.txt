@@ -1,0 +1,5 @@
+
+
+1. Ask for the name of the hotel.
+2. Ask if the customer would like to know anything else about it.
+3. Give the customer the requested information.

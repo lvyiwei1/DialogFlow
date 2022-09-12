@@ -1,0 +1,7 @@
+
+
+1. Find the customer's desired hotel 
+2. Find the customer's desired restaurant 
+3. Book the hotel for the customer 
+4. Book the restaurant for the customer 
+5. Book a taxi for the customer

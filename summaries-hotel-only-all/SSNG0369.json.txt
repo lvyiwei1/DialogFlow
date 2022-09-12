@@ -1,0 +1,6 @@
+
+
+1. Finding hotels that match the customer's criteria
+2. Narrowing down the options to a preferred area or hotel
+3. Booking the hotel for the customer
+4. Providing any additional information or assistance that the customer may need

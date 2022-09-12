@@ -1,0 +1,9 @@
+
+
+1. Find out what the customer's needs are.
+
+2. Book the hotel for the customer.
+
+3. Get a reference number for the booking.
+
+4. Help the customer with anything else they need.

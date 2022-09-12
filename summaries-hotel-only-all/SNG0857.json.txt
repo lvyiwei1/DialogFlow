@@ -1,0 +1,6 @@
+
+
+1. Get the customer's preferred location.
+2. Get the customer's preferred star rating.
+3. Book the hotel for the customer.
+4. Give the customer the reference number for their booking.

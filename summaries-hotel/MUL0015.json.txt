@@ -1,0 +1,6 @@
+
+
+1. Find a hotel that meets the customer's needs
+2. Book the hotel for the customer
+3. Find a restaurant for the customer
+4. Book a taxi for the customer

@@ -1,0 +1,8 @@
+
+
+1. Ask customer for their price range.
+2. Identify available hotels that meet the customer's price range.
+3. Ask the customer if they would like to book one of the available hotels.
+4. If the customer would like to book a hotel, assist them in doing so.
+5. Confirm with the customer that the booking was successful.
+6. Ask the customer if they need any additional information about the hotel.

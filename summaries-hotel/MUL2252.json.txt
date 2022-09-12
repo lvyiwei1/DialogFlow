@@ -1,0 +1,8 @@
+
+
+1. Find out the customer's location.
+2. Find out the customer's budget.
+3. Find out the customer's dates of stay.
+4. Find out the number of people the customer is traveling with.
+5. Find a hotel that meets the customer's needs.
+6. Send the customer the hotel information.

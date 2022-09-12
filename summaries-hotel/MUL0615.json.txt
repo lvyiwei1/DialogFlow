@@ -1,0 +1,8 @@
+
+
+1. Help customer identify their need
+2. Find out customer's desired location
+3. Give customer choices of different hotels
+4. Help customer make a decision
+5. Book the hotel for the customer
+6. Give the customer the reference number

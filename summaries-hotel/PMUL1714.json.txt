@@ -1,0 +1,11 @@
+
+
+1. Free up staff to handle customer requests.
+
+2. Book the customer's train tickets.
+
+3. Provide the customer with a reference number for their train booking.
+
+4. Make reservations for the customer at the Lensfield hotel.
+
+5. Provide the customer with the contact information for the hotel.

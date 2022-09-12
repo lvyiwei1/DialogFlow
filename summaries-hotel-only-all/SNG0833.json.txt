@@ -1,0 +1,6 @@
+
+
+1. Ask the customer their preferred location, price range, and amenities.
+2. Use that information to find hotels that match their criteria.
+3. Ask the customer if they would like to book a room at one of the recommended hotels.
+4. If the customer is interested, help them book the room.

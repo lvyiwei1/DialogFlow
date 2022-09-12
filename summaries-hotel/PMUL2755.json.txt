@@ -1,0 +1,10 @@
+
+
+1. Ask customer what type of accommodation they are looking for.
+2. If they are looking for a 4 star hotel, inform them that there are no 4 star hotels in the east side of town, but offer guesthouses as an alternative.
+3. Ask customer their price range.
+4. If they are looking for a guesthouse, recommend Autumn House.
+5. Book the hotel for the customer. 
+6. Ask customer if they need a taxi and what time they need to leave. 
+7. Book the taxi for the customer. 
+8. Thank the customer and enjoy their stay!

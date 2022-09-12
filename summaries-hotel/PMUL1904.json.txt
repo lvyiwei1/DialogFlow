@@ -1,0 +1,8 @@
+
+
+1. Ask the customer where they are traveling from.
+2. Find out what the customer's budget is.
+3. Find out what star rating the customer would like.
+4. Determine the customer's preferred location.
+5. Find a hotel that meets the customer's criteria.
+6. Book the hotel for the customer.

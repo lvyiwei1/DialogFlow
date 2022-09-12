@@ -1,0 +1,7 @@
+
+
+1. The customer must state their requirements for the hotel, such as star rating, price range, and location.
+2. The customer must choose a hotel from the options given.
+3. The customer must provide their details for the reservation, such as number of people, length of stay, and arrival date.
+4. The customer must confirm the booking.
+5. The customer must be given their reference number for the booking.

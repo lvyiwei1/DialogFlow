@@ -1,0 +1,11 @@
+
+
+1. Find out the name of the customer's desired hotel.
+
+2. Find out the customer's desired dates of stay.
+
+3. Find out the customer's desired length of stay.
+
+4. Find out the customer's desired number of guests.
+
+5. Make the reservation for the customer.

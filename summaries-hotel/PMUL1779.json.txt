@@ -1,0 +1,9 @@
+
+
+1. Find out the customer's needs and preferences.
+
+2. Recommend a hotel that meets their needs and preferences.
+
+3. Book the hotel for the customer.
+
+4. Help the customer with any other needs they have, such as booking a train.

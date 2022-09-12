@@ -1,0 +1,9 @@
+
+
+1. Ask what kind of place the customer wants to stay in.
+2. Ask what their budget is.
+3. Ask what their preferred location is.
+4. Ask what other amenities they require.
+5. Narrow down the options based on the customer's preferences.
+6. Book the room for the customer.
+7. Send a confirmation message with the booking details.

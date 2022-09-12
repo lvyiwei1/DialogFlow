@@ -1,0 +1,7 @@
+
+
+1. Ask for customer's preferred location.
+2. Ask for customer's preferred price range.
+2. Ask for customer's room requirements (e.g. number of guests).
+3. Recommend available hotels based on customer's preferences.
+4. Book hotel for customer and provide reference number.

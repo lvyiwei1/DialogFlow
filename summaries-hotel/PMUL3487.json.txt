@@ -1,0 +1,9 @@
+
+
+1. Ask what the customer's budget is for their stay.
+
+2. Ask what area of town they would like to stay in.
+
+3. Once you have found a hotel that meets the customer's budget and location requirements, book the reservation and give them the reference number.
+
+4. Verify with the customer that they have all the information they need, such as wifi and parking availability.

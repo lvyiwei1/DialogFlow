@@ -1,0 +1,6 @@
+
+
+1. Ask for customer preferences in terms of location and type.
+2. Book the hotel according to the customer's specifications.
+3. Help the customer find a swimming pool in town.
+4. Book a taxi to pick the customer up from the pool.

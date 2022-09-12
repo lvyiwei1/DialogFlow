@@ -1,0 +1,8 @@
+
+
+1. Asking the customer what their budget is for the hotel
+2. Asking the customer when they will be arriving and for how long they will be staying
+3. Asking the customer what kind of amenities they are looking for in a hotel
+4. Booking the hotel for the customer
+5. Giving the customer the reference number for their booking
+6. Asking the customer if there is anything else they need help with

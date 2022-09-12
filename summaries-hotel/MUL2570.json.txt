@@ -1,0 +1,11 @@
+
+
+1. Finding out the customer's needs.
+
+2. Recommending a hotel that matches the customer's needs.
+
+3. Giving the customer the contact information and entrance fee for the recommended hotel.
+
+4. Booking the hotel for the customer.
+
+5. Giving the customer the contact information for the taxi service.

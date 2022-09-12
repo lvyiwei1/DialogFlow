@@ -1,0 +1,10 @@
+
+
+1. Asking the customer for the name of the restaurant.
+2. Providing the customer with the location and contact information for the restaurant.
+3. Booking a table for the customer at the desired time.
+4. Providing the customer with information about local accommodations, including pricing and amenities.
+5. Booking a room for the customer at the desired accommodation.
+6. Asking the customer for the desired check-in date.
+7. Asking the customer how many people will be staying in the room.
+8. Booking the room for the customer.

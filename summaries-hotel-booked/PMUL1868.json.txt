@@ -1,0 +1,9 @@
+
+
+1. Asking the customer what they are looking for in a hotel.
+
+2. Pulling up a list of options that match the customer's preferences.
+
+3. Booking the hotel room for the customer.
+
+4. Thanking the customer for using the service.

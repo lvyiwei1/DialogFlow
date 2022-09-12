@@ -1,0 +1,7 @@
+
+
+1. Query the customer for their check-in date and time, as well as their desired price range and amenities.
+
+2. Based on the customer's inputs, recommend a hotel that meets their criteria.
+
+3. If the customer desires, book a room at the hotel for them.

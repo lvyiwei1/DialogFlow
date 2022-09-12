@@ -1,0 +1,7 @@
+
+
+1. Ask customer what their budget is
+2. Ask customer if they have any specific requirements
+3. Ask customer what dates they need the room
+4. Ask customer how many people will be staying
+5. Ask customer if they need anything else

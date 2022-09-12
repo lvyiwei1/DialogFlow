@@ -1,0 +1,9 @@
+
+
+1. Ask for customer preferences in terms of price, location, and amenities.
+
+2. Find hotel options that match the customer's preferences.
+
+3. Book the hotel for the customer.
+
+4. Train the customer on how to use the booking system.

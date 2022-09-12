@@ -1,0 +1,9 @@
+
+
+1. Get the customer's preferences for their stay.
+
+2. Recommend a hotel that meets the customer's preferences.
+
+3. Book the customer's stay at the recommended hotel.
+
+4. Confirm the customer's booking and provide them with a reference number.

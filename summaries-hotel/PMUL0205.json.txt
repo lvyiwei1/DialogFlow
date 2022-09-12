@@ -1,0 +1,17 @@
+
+
+1. Find out what the customer is looking for.
+
+2. Ask the customer what their budget is.
+
+3. Recommend a hotel that meets the customer's needs.
+
+4. Book the hotel for the customer.
+
+5. Get the reference number for the customer's booking.
+
+6. Find a restaurant that the customer will enjoy.
+
+7. Book a table at the restaurant for the customer.
+
+8. Find a taxi to take the customer to their hotel and to the restaurant.

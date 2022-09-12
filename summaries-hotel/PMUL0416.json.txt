@@ -1,0 +1,7 @@
+
+
+1. Ask The Customer For Their Location Preferences
+2. Ask The Customer For Their Budget
+3. Find A Hotel That Matches Their Preferences And Budget
+4. Book The Hotel
+5. Ask The Customer If They Need Any Other Services

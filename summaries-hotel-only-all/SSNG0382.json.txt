@@ -1,0 +1,12 @@
+
+
+
+1. Find out what kind of accommodation the customer is looking for.
+
+2. Determine the customer's budget.
+
+3. Find out if the customer has any specific requirements.
+
+4. Make a booking based on the customer's needs.
+
+5. Send the customer a confirmation code.

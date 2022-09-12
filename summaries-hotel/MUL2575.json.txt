@@ -1,0 +1,8 @@
+ 
+
+1. Ask if the customer needs help booking a hotel room. 
+2. If so, ask for the customer's preferred dates of stay. 
+3. Search for hotels that have availability on those dates. 
+4. Ask the customer to choose a preferred hotel. 
+5. Book the hotel room on the customer's behalf. 
+6. Confirm the hotel reservation with the customer.

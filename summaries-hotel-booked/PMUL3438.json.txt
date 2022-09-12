@@ -1,0 +1,7 @@
+
+
+1. Establish what kind of accommodation the customer is looking for.
+2. Find out the customer's preferred location.
+3. Identify the customer's budget.
+4. Run a search for accommodation options that meet the customer's criteria.
+5.Present the customer with the options and book the chosen accommodation.

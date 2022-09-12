@@ -1,0 +1,8 @@
+
+
+
+1. Ask for customer's desired location.
+2. Ask for customer's budget.
+3. Ask for customer's dates of stay.
+4. Offer hotel options that meet the customer's criteria.
+5. Book the customer's hotel reservation.

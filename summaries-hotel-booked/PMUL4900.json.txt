@@ -1,0 +1,11 @@
+
+
+1. Inquire about the customer's travel dates and which days they need a room.
+
+2. Ask how many people will be staying in the room.
+
+3. Find out if the customer needs any specific amenities, like free wifi.
+
+4. Search for available rooms that meet the customer's criteria.
+
+5. Book the room and give the customer the reference number.

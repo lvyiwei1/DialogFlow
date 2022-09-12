@@ -1,0 +1,7 @@
+
+
+1) Find out where the hotel is located.
+2) Find out the phone number for the hotel.
+3) Find out the star rating for the hotel.
+4) Book a room at the hotel.
+5) Get the reference number for the reservation.

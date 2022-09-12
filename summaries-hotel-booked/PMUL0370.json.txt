@@ -1,0 +1,15 @@
+
+
+1. Ask if the customer has a price range in mind.
+
+2. Ask if the customer has a preferred area.
+
+3. Recommend a hotel that meets the customer's preferences.
+
+4. Ask if the customer would like to book the hotel.
+
+5. If the customer does want to book the hotel, confirm the details and process the booking.
+
+6. Ask if the customer needs any restaurant recommendations in the area.
+
+7. If the customer does need restaurant recommendations, recommend a few options.

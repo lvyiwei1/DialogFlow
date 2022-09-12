@@ -1,0 +1,6 @@
+
+
+1. Ask the customer if they have a preferred price range for their hotel.
+2. If the customer does not have a preferred price range, recommend a hotel within their budget.
+3. Book the hotel for the customer.
+4. Get the taxi information for the customer.

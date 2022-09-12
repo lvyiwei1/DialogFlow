@@ -1,0 +1,7 @@
+
+
+1. Asking for customer's location
+2. Getting the customer's train details
+3. Finding a hotel that meets the customer's needs
+4. Booking the hotel for the customer
+5. Providing the customer with the reference number for the hotel booking

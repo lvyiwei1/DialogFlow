@@ -1,0 +1,7 @@
+
+
+1. Find out what type of hotel the customer is looking for.
+
+2. If the customer is looking for a cheap hotel, recommend the Cambridge Belfry.
+
+3. Book the stay at the hotel for the customer.

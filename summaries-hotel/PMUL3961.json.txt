@@ -1,0 +1,8 @@
+
+
+1. Ask the customer where they are traveling from.
+2. Ask the customer what city they are traveling to.
+3. Ask the customer what day they are traveling.
+4. Give the customer the travel time for all trains on that route.
+5. Ask the customer if they need any additional information about the hotel.
+6. Thank the customer and end the conversation.

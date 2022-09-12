@@ -1,0 +1,7 @@
+ 
+
+1. Ask the customer how much money they want to spend.
+2. Ask the customer what type of restaurant they are looking for.
+3. Ask the customer if they have any specific requests for their stay.
+4. Book the hotel room and restaurant reservations.
+5. Make sure the customer has a way to get to their destination.

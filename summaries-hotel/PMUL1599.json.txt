@@ -1,0 +1,11 @@
+
+
+1. The customer must first express an interest in booking a hotel room.
+
+2. The customer must provide the desired location of the hotel.
+
+3. Once the customer provides the desired location, the service can provide a list of available hotels that meet the customer's needs.
+
+4. The customer can then select a hotel from the list and the service can provide further information about the hotel, such as price, amenities, and reviews.
+
+5. Once the customer has selected a hotel, the service can help the customer book the room by providing the necessary information and making the reservation.

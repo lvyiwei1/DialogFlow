@@ -1,0 +1,7 @@
+
+
+1. Find out how many people are in the customer's group.
+2. Determine what kind of room the customer would like.
+3. Find out the customer's preferred dates and times.
+4. Make the reservation.
+5. Give the customer the reference number.

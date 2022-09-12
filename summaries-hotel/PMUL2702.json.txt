@@ -1,0 +1,9 @@
+
+
+
+1. The customer contacts the service.
+2. The service asks the customer for their preferences.
+3. The service recommends a hotel that meets the customer's needs.
+4. The customer decides whether to book a room.
+5. If the customer decides to book a room, the service books the room and provides the customer with the necessary information.
+6. The customer thanks the service.

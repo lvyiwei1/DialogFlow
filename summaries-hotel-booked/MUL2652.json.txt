@@ -1,0 +1,8 @@
+
+
+1. Get customer's budget
+2. Get customer's preferred location
+3. Book hotel
+4. Get customer's details (name, number of people, number of nights)
+5. Give customer reference number
+6. Ask if customer needs any other assistance

@@ -1,0 +1,8 @@
+
+
+1. Ask when the customer will be staying.
+2. Find the hotel that the customer is looking for.
+3. Make a reservation for the customer.
+4. Give the customer the reference number for the reservation.
+5. Find an expensive restaurant in the south for the customer.
+6. Give the customer the phone number, postcode, and address for the restaurant.

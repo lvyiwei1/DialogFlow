@@ -1,0 +1,7 @@
+
+
+1. Ask the customer where they would like to stay.
+2. Ask the customer what type of room they need.
+3. Ask the customer how many people will be staying in the room.
+4. Book the room for the customer.
+5. Thank the customer.

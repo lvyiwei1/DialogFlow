@@ -1,0 +1,7 @@
+
+
+1. get customer's criteria for the hotel
+2. recommend hotels that match the customer's criteria
+3. help customer book the hotel
+4. provide reference number for the hotel booking
+5. provide information about local entertainment options

@@ -1,0 +1,9 @@
+
+
+1. Get the customer's name, number of guests, and intended dates of stay.
+
+2. Book the reservation for the customer.
+
+3. Get the customer's confirmation number for the reservation.
+
+4. If applicable, book a taxi for the customer.

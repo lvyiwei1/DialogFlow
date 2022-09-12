@@ -1,0 +1,8 @@
+
+
+
+1. Asking the customer what their needs are and what type of room they are looking for
+2. Narrowing down the search to a specific location
+3. Checking for available rooms that match the customer's needs
+4. Booking the room for the customer
+5. Giving the customer a reference number for their booking

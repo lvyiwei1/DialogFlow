@@ -1,0 +1,8 @@
+
+
+1. Asking the customer for their requirements
+2. Searching for the hotel that meets the customer's needs
+3. Booking the hotel for the customer
+4. Confirming the details of the booking with the customer
+5. Providing the customer with the contact information for the hotel
+6. Assisting the customer with any other questions they may have

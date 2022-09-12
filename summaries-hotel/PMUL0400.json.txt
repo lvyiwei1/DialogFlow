@@ -1,0 +1,8 @@
+
+
+1) Finding out the customer's needs - in this case, the customer needs a hotel with free parking
+2) Suggesting a hotel that meets the customer's needs - in this case, Kirkwood House
+3) Booking the hotel room for the customer - in this case, the customer wants a room for 7 people for 5 nights starting on Monday
+4) Giving the customer the contact information for the hotel - in this case, the phone number and address
+5) Booking a table at a restaurant - in this case, Pipasha
+6) Booking a taxi to pick up the customer from the hotel - in this case, a black honda will be waiting to pick the customer up at 11:30

@@ -1,0 +1,6 @@
+
+
+1. The customer contact the service and state they need a hotel room.
+2. The service ask what kind of room the customer wants and if they have a preferred price range.
+3. The service provides the customer with a list of options that fit the customer's needs.
+4. The customer chooses a hotel and the service books the room.

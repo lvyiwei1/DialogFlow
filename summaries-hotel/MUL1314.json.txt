@@ -1,0 +1,10 @@
+
+
+1) Ask if they need help finding a hotel
+2) Find the hotel they are looking for
+3) Ask if they need help booking the hotel
+4) Book the hotel
+5) Ask if they need help finding a restaurant
+6) Help them find a restaurant
+7) Ask if they need help booking a table
+8) Book a table for them

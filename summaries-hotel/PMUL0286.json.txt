@@ -1,0 +1,13 @@
+
+
+
+
+1. Find out what the customer is looking for in a hotel.
+
+2. Find hotels that match the customer's requirements.
+
+3. Provide the customer with the hotel's address, area, and postcode.
+
+4. Make a reservation for the customer.
+
+5. Arrange for a taxi to pick up the customer from the restaurant.

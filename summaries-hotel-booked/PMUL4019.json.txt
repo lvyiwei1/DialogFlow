@@ -1,0 +1,9 @@
+
+
+1. Ask customer if they need help planning their trip
+2. Ask customer what type of accommodation they are looking for
+3. Ask customer what their budget is for accommodation
+4. Ask customer what their preferred location is for accommodation
+5. Ask customer for the dates of their stay
+6. Book the hotel for the customer
+7. Send the customer a confirmation of their booking.

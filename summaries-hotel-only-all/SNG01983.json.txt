@@ -1,0 +1,7 @@
+
+
+-Ask the customer what their budget is for their stay
+- Ask the customer what their preferred location is 
+- Ask if the customer has any specific amenities they are looking for 
+- Find hotels that meet the customer's specifications 
+- Help the customer book their stay

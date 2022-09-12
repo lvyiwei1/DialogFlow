@@ -1,0 +1,7 @@
+
+
+1. Get customer's preferences for type of lodging and price range.
+2. Suggest a specific guesthouse or hotel that meets their preferences.
+3. Get additional information from the customer as needed, such as parking requirements, dietary restrictions, etc.
+4. Make a reservation for the customer and provide them with a reference number.
+5. Follow up with the customer to see if they need any additional assistance.

@@ -1,0 +1,6 @@
+
+
+1. Identify customer's need
+2. Find hotels that match customer's need
+3. Help customer choose a hotel
+4. Book hotel for customer

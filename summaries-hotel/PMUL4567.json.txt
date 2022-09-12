@@ -1,0 +1,7 @@
+
+
+1. Get customer information (name, number of guests, dates of stay, etc.)
+2. Find hotels that meet the customer's needs
+3. Book the hotel for the customer
+4. Provide the customer with a reference number for the booking
+5. Follow up with the customer to see if they need any additional assistance

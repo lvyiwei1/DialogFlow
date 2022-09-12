@@ -1,0 +1,3 @@
+
+
+To help a customer book a hotel, you would need to ascertain what the customer's needs are in terms of location, type of accommodation, and amenities. Once you have this information, you can start making recommendations. Once the customer has selected a property, you can then help to book the reservation.

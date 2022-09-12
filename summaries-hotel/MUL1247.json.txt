@@ -1,0 +1,7 @@
+
+
+1. Ask about preferences for hotel type, internet, and parking.
+2. Book the hotel room based on customer preference.
+3. Find a restaurant in the same area that is moderately priced.
+4. Book the restaurant reservation.
+5. Provide the customer with the confirmation code.

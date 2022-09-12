@@ -1,0 +1,9 @@
+
+
+1. Find out the customer's needs and preferences.
+
+2. Make recommendations based on the customer's needs and preferences.
+
+3. Give the customer the information they need to make a decision.
+
+4. Book the hotel for the customer if they wish.

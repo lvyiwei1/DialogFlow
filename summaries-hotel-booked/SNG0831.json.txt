@@ -1,0 +1,9 @@
+
+
+1. Ask customer what they are looking for in a hotel
+2. Listen to customer's needs and budget
+3. Suggest the Acorn Guest House
+4. Ask customer if they would like to book the hotel
+5. Get customer information to book the hotel
+6. Confirm booking with customer
+7. Thank customer for their business

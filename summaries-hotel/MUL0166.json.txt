@@ -1,0 +1,4 @@
+
+1. Customer gives location preference.
+2. Service provider gives list of options that match the customer's preference.
+3. Customer makes a reservation.

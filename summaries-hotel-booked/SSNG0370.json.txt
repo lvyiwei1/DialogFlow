@@ -1,0 +1,6 @@
+
+
+1. Ask the customer what their preferred hotel star rating is, and what their preferred location is.
+2. Based on the customer's response, recommend a hotel that meets their needs.
+3. If the customer is happy with the recommendation, book the hotel for them.
+4. If the customer is not happy with the recommendation, recommend a different hotel.

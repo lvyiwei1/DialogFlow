@@ -1,0 +1,9 @@
+
+
+1. Ultimately, the customer needs a train that leaves on Friday after 20:45. The customer should depart from Cambridge and go to London Liverpool Street.
+
+2. Suggest the TR9557, which leaves Cambridge at 21:59 and arrives at the destination at 23:27.
+
+3. Book the train ticket and provide the customer with the details.
+
+4. Help the customer also book a reservation at Rosa's bed and breakfast. Make sure to check for availability of free parking and free internet.

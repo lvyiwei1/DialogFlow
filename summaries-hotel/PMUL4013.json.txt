@@ -1,0 +1,5 @@
+
+
+1. Ask if they have any preferences for location or price range
+2. Make a number of suggestions based on the customer's preferences
+3. Provide the customer with contact details and car type for the taxi service

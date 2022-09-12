@@ -1,0 +1,3 @@
+
+
+The customer should specify the number of people staying in the room, the type of room desired, the dates of stay, any special requests, and a contact method for the guesthouse.

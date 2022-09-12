@@ -1,0 +1,9 @@
+
+
+1. Determine the customer's needs.
+
+2. Find a hotel that meets the customer's needs.
+
+3. Make a reservation for the customer.
+
+4. Book a taxi for the customer.

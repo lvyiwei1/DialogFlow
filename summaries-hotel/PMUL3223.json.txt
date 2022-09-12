@@ -1,0 +1,6 @@
+
+
+1. Ask for the customer's travel dates.
+2. Ask for the number of people who will be staying at the hotel.
+3. Book the hotel room.
+4. Give the customer the reference number for the hotel room.

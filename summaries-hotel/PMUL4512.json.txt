@@ -1,0 +1,7 @@
+
+
+1. The customer should specify what type of hotel they are looking for (e.g. 3-star, East).
+2. The customer should specify what amenities they are looking for (e.g. free parking).
+3. The customer should specify their preferred location (e.g. center of town).
+4. The customer should specify the number of people and nights they will be staying.
+5. The customer should specify their preferred dining options (e.g. area and price range).

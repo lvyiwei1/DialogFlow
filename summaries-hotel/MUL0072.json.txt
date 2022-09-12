@@ -1,0 +1,8 @@
+
+
+1. Ask the customer what type of property they are looking for.
+2. Ask the customer what their budget is.
+3. Ask the customer if they have any specific requirements or amenities they are looking for.
+4. Find a list of properties that match the customer's criteria.
+5. Send the customer the list of options and ask them to choose one.
+6. Once the customer has chosen a property, make the reservation and send them the confirmation.

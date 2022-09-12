@@ -1,0 +1,7 @@
+
+
+1. Help the customer find a hotel with the right amenities at the right price.
+
+2. Book the hotel for the customer.
+
+3. Make sure the customer has a way to get to and from the hotel.

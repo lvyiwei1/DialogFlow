@@ -1,0 +1,6 @@
+
+
+1. Finding a hotel in the customer's budget
+2. Checking the hotel's amenities
+3. Booking the hotel
+4. Arranging transportation to and from the hotel

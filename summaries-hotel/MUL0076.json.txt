@@ -1,0 +1,6 @@
+
+
+1. Ask the customer what type of room they are looking for.
+2. Find a guesthouse that meets the customer's needs.
+3. Book the room for the customer.
+4. Get a contact number and car type for the customer's taxi.

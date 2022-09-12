@@ -1,0 +1,6 @@
+
+
+1. Ask customer for the name of the hotel they are looking for.
+2. Ask customer for the dates they need a room.
+3. Ask customer for the number of people who will be staying in the room.
+4. Ask customer if they need help with anything else.

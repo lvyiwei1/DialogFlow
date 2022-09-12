@@ -1,0 +1,8 @@
+
+
+1. Asking the customer for their preferred location.
+2. Asking the customer for their preferred price range.
+3. Asking the customer for the dates of their stay.
+4. Asking the customer for the number of people staying.
+5. Booking the hotel for the customer.
+6. Confirming the booking with the customer.

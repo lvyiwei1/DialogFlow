@@ -1,0 +1,11 @@
+
+
+1.Get the customer's preferences for location, price, and amenities.
+
+2.Based on the customer's preferences, recommend a hotel.
+
+3.Provide the customer with the contact information for the hotel.
+
+4.If the customer needs it, provide directions to the hotel.
+
+5.Make sure the customer has all the information they need and offer to help with anything else they may need.

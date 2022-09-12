@@ -1,0 +1,6 @@
+
+
+1. Determine the customer's location preferences.
+2. Identify the customer's preferred type of accommodation.
+3. Suggest specific hotels that meet the customer's needs.
+4. Book a room at the hotel if the customer desires.

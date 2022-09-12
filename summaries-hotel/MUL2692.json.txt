@@ -1,0 +1,5 @@
+
+
+1) Determine the customer's budget
+2) Find hotels that match the customer's budget
+3) Provide the customer with the contact information for the hotel

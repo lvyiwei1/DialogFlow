@@ -1,0 +1,6 @@
+
+
+1. Asking the customer what their preferences are for the hotel they would like to stay in. 
+2. Checking to see if the hotel is available for the dates that the customer needs. 
+3. If the hotel is available, booking it for the customer and giving them the reference number. 
+4. Thanking the customer for their business.

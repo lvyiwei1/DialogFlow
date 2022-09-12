@@ -1,0 +1,10 @@
+
+
+1. Get the customer's location information.
+2. Get the customer's contact information.
+3. Ask the customer what type of hotel they are looking for.
+4. Ask the customer what their budget is for the hotel.
+5. Find a hotel that meets the customer's criteria.
+6. Book the hotel for the customer.
+7. Get the customer's credit card information.
+8. Confirm the hotel booking with the customer.

@@ -1,0 +1,7 @@
+
+
+1. Asking the customer if they are looking for a specific type of hotel. 
+2. Asking the customer if they have a preferred location for their hotel. 
+3. Checking the availability of the hotels that match the customer's criteria. 
+4. Booking the hotel for the customer. 
+5. Thanking the customer for using the service.

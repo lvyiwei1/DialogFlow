@@ -1,0 +1,8 @@
+
+
+1. Get the customer's name.
+2. Get the customer's contact information.
+3. Get the customer's credit card information.
+4. Get the customer's desired dates of stay.
+5. Make the reservation.
+6. Give the customer the reference number for their reservation.

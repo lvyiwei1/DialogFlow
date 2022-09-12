@@ -1,0 +1,7 @@
+
+
+1. Ask customer for their desired check-in date and length of stay.
+2. Ask customer for the number of people that will be staying in the room.
+3. Book the hotel room based on the customer's specifications.
+4. Give the customer the reference number for the booking.
+5. Thank the customer.

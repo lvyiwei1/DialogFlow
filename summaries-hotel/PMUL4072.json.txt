@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's dates of travel.
+2. Ask the customer if they have any preferences for their accommodation.
+3. Find out the customer's budget.
+4. Look up the guesthouse on the TownInfo website.
+5. Give the customer the reference number for their booking.

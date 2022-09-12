@@ -1,0 +1,10 @@
+
+
+1. Identify the customer's location.
+2. Suggest local hotels.
+3. Ask if the customer has a preference for price range.
+4. Book the hotel for the customer.
+5. Confirm the booking with the customer.
+6. Provide the customer with the reference number for their booking.
+7. Confirm that the hotel has free wifi.
+8. Thank the customer for using the service.

@@ -1,0 +1,9 @@
+
+
+1. Get customer info (e.g. name, contact info, dates of stay, etc.)
+
+2. Look up hotels in the area that fit the customer's criteria.
+
+3. Present the options to the customer and get feedback.
+
+4. Make the booking and provide the customer with a reference number.

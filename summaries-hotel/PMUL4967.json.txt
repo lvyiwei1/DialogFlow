@@ -1,0 +1,7 @@
+
+
+1. First, ask the customer what their preferred price range is for the hotel.
+2. Based on the customer's price range, recommend a few different 4-star hotels in the desired location.
+3. Once the customer has chosen a hotel, ask for their desired dates of stay.
+4. Based on the customer's preferred dates, book a reservation for them at their chosen hotel.
+5. Finally, provide the customer with the reference number for their reservation.

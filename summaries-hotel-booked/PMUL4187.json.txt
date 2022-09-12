@@ -1,0 +1,5 @@
+
+
+1. Booking train transportation
+2. Finding a place to stay
+3. Booking a room at a hotel

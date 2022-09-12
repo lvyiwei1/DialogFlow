@@ -1,0 +1,6 @@
+
+
+1. Ask about the customer's budget and desired location.
+2. Make a recommendation based on the customer's preferences.
+3. Book the room for the customer.
+4. Follow up to see if the customer needs help with anything else.

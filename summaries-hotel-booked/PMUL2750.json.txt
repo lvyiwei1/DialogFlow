@@ -1,0 +1,7 @@
+
+
+1. Get the customer's dates of travel
+2. Ask the customer what type of accommodation they would like
+3. Based on the customer's answers, recommend some hotels
+4.Get the customer's preferred hotel
+5. Book the hotel for the customer

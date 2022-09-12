@@ -1,0 +1,8 @@
+
+
+1. Find out the customer's preferred location.
+2. Identify the guesthouse hotels in the area with free parking.
+3. Determine the customer's preferred type of hotel.
+4. Get the contact information for the hotel.
+5. Book a taxi for the customer to the hotel.
+6. Provide the customer with the car type and contact information.

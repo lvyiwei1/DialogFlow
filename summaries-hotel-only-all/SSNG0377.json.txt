@@ -1,0 +1,7 @@
+
+
+1) Asking the customer what their preferred location, price range, and amenities are for their hotel.
+
+2) Finding hotels that match the customer's preferences and providing them with options.
+
+3) Booking the hotel for the customer and providing them with a reference number.

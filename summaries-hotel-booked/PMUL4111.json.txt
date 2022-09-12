@@ -1,0 +1,8 @@
+
+
+1. Find out the customer's preferred location.
+2. Ask the customer if they have a preferred type of accommodation.
+3. Suggest accommodation options based on the customer's preferences.
+4. Help the customer book their chosen accommodation.
+5. Provide the customer with a reference number for their booking.
+6. If necessary, help the customer book a taxi to their chosen accommodation.

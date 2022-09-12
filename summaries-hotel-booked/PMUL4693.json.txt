@@ -1,0 +1,8 @@
+
+
+1. Get the customer's criteria for the hotel.
+2. Find hotels that match the criteria.
+3. Get the customer's preferences for the hotel.
+4. Book the hotel for the customer.
+5. Get the customer's train information.
+6. Book the train for the customer.

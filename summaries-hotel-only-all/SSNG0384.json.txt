@@ -1,0 +1,9 @@
+
+
+1. Get customer's requirements (location, price, amenities, etc.).
+
+2. Find hotels that match the customer's requirements.
+
+3. Contact the hotel to book the room.
+
+4. Give the customer the details of the reservation.

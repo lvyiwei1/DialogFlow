@@ -1,0 +1,9 @@
+
+
+1. Find out what type of hotel the customer is looking for.
+2. Find out the price range the customer is looking for.
+3. Find out if the customer has any other preferences.
+4. Find a hotel that meets the customer's needs.
+5. Make the reservation for the customer.
+6. Provide the customer with the reference number for the reservation.
+7. Thank the customer for contacting the Cambridge TownInfo Centre.

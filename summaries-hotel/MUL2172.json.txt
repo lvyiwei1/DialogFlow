@@ -1,0 +1,11 @@
+
+
+1. Hello, I need a place to stay in the center please.
+2. I have 5 establishments in the center. Did you have preference in price?
+3. I'm looking to slum it a little bit, do you have any 0-star places?
+4. We sure do! There is a guesthouse in the cheap price range as well as a hotel in the moderate price range. Would you like more information on these?
+5. It should have wifi please give me the postcode
+6. They both have wifi. Postcode for the guesthouse is CB11EG and the postcode for the hotel is CB12TZ. Do you need any further information?
+7. Thank you for that, I am also looking for a train as well. It should depart from Cambridge on Monday.
+8. Where would you like to go? Is there a specific time you'd like to leave or arrive?
+9. I need to

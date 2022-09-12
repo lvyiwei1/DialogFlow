@@ -1,0 +1,9 @@
+
+
+1. Identify the customer's location.
+2. Identify the customer's preferred price range.
+3. Identify the customer's dates of travel.
+4. Search for hotels that meet the customer's criteria.
+5. Present the customer with a list of options.
+6. Help the customer make a reservation.
+7. Provide the customer with the reservation information.

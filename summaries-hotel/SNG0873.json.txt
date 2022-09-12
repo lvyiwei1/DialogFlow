@@ -1,0 +1,6 @@
+
+
+1. Find out the customer's preferences (location, type of lodging, amenities, etc).
+2. Find lodgings that match the customer's preferences.
+3. Book the lodging for the customer.
+4. Give the customer the reference number for their booking.

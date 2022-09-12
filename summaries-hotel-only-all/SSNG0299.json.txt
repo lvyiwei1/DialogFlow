@@ -1,0 +1,6 @@
+
+
+1. Ask about customer preferences including price range, number of people, internet availability, and location.
+2. Make recommendations based on customer preferences.
+3. Book the hotel and provide the customer with a reference number.
+4. Customer may ask for the address and phone number of the hotel.

@@ -1,0 +1,11 @@
+
+
+1. Find out what the customer is looking for.
+
+2. Give the customer some information about the hotel.
+
+3. Ask if the customer needs help booking a reservation.
+
+4. If the customer needs help, book a reservation for them.
+
+5. Thank the customer for using the service.

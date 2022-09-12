@@ -1,0 +1,5 @@
+
+
+1. Asking the customer where they would like to go.
+2. Booking the hotel for the customer.
+3. Giving the customer their confirmation number.

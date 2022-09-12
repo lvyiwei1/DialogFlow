@@ -1,0 +1,7 @@
+
+
+1. Find the customer's desired hotel.
+2. Provide the customer with the hotel's contact information.
+3. Help the customer book a stay at the hotel.
+4. Provide the customer with the train information.
+5. Help the customer book a train ticket.

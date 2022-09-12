@@ -1,0 +1,9 @@
+
+
+1. Get the customer's location preference.
+2. Get the customer's dates of travel.
+3. Get the customer's party size.
+4. Get the customer's room type preference.
+5. Send the customer the available options that match their preferences.
+6. Get the customer's confirmation of the booking.
+7. Send the customer the booking confirmation.

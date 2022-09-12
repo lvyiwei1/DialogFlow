@@ -1,0 +1,6 @@
+
+
+1. Ask the customer if they would like to book a room at the hotel.
+2. Get the customer's dates of stay and send them a reference number.
+3. Ask the customer if they need help with any other activities or services.
+4. Assist the customer with booking a taxi to and from the hotel.

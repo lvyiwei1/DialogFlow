@@ -1,0 +1,7 @@
+
+
+1. The customer expresses a need for a hotel room on the west side.
+2. The service provides two options, a cheaper and more moderately priced option.
+3. The service provides information on amenities offered by each hotel.
+4. The customer makes a selection and the service books the room.
+5. The service provides the customer with a reference number.

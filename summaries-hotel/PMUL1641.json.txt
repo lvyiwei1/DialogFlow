@@ -1,0 +1,12 @@
+
+
+1. Ask what type of property the customer is looking for.
+2. Ask what area of town the customer would like to stay in.
+3. Ask what the customer's budget is.
+4. Ask what the customer's star preference is.
+5. Ask what the customer's parking preference is.
+6. Ask what the customer's check-in and check-out dates are.
+7. Ask how many people will be staying in the room.
+8. Ask if the customer has any special requests.
+9. Book the room and give the customer the confirmation number.
+10. Thank the customer for their business.

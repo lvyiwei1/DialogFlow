@@ -1,0 +1,7 @@
+
+
+1. The customer contacts the service.
+2. The service provides the customer with information about the hotel Cityroomz.
+3. The customer requests additional information about the hotel, such as the phone number and address.
+4. The service provides the customer with the requested information.
+5. The customer thanks the service and ends the interaction.

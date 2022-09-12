@@ -1,0 +1,7 @@
+
+
+1. Ask customer what day they would like to travel.
+2. Ask customer what time they would like to travel.
+3. Book the train for the customer.
+4. Recommend a hotel to the customer.
+5. Book the hotel for the customer.

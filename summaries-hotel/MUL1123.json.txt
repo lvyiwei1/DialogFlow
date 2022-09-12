@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what location they would like to be in.
+
+2. If the customer wants to be near the swimming pool, suggest the Autumn House hotel.
+
+3. Give the customer the address and price range of the hotel.

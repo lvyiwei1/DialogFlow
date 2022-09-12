@@ -1,0 +1,8 @@
+
+
+1. Ask the customer what their needs are for the hotel room.
+2. Find hotels that meet the customer's needs.
+3. Ask the customer if they would like to narrow their search by area and/or price range.
+4. Ask the customer what part of town they are hoping for.
+5. Book the customer in a hotel that meets their needs.
+6. Give the customer the reference number for their booking.

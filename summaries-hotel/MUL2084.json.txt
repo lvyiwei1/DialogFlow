@@ -1,0 +1,9 @@
+
+
+1. Find out the customer's desired location.
+
+2. Find out the customer's desired price range.
+
+3. Find out whether the customer needs free wifi and parking.
+
+4. Book a room at the hotel for the customer.

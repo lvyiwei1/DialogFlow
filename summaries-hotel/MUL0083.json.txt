@@ -1,0 +1,11 @@
+
+
+1. Identify the customer's needs.
+
+2. Find hotel options that fit the customer's needs.
+
+3. Book the hotel for the customer.
+
+4. Provide the customer with a reference number for their reservation.
+
+5. Assist with any additional needs the customer may have.

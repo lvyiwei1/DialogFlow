@@ -1,0 +1,11 @@
+
+
+1. Asking for customer preference for location, price range, and type of food.
+
+2. Based on customer preferences, finding a list of potential restaurants and hotels.
+
+3. Giving customer information about potential restaurants and hotels.
+
+4. Helping customer make a reservation at the chosen restaurant or hotel.
+
+5. Giving customer the reference number for the reservation.

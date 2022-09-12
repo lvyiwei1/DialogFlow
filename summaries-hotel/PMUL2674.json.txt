@@ -1,0 +1,7 @@
+
+
+
+1) Finding out which side of town the customer will be on. 
+2) Finding a suitable hotel on that side of town. 
+3) Making a reservation for the customer. 
+4) Helping the customer book a taxi to their destination.

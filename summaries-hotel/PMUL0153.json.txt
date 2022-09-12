@@ -1,0 +1,6 @@
+
+
+1. Get the name of the hotel.
+2. Book the hotel for the customer.
+3. Get the name of the restaurant.
+4. Book a table at the restaurant.

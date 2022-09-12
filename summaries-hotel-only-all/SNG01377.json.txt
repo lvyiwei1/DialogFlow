@@ -1,0 +1,9 @@
+
+
+1. Help the customer identify their location.
+2. Help the customer identify their price range.
+3. Help the customer identify their desired date of stay.
+4. Help the customer identify their desired length of stay.
+5. Help the customer identify any special requirements they have.
+6. Book the hotel for the customer.
+7. Thank the customer.

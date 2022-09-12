@@ -1,0 +1,6 @@
+
+
+1. Find out what type of lodging the customer is looking for.
+2. Find out the customer's budget.
+3. Suggest suitable lodgings.
+4. Book the room for the customer.

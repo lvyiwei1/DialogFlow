@@ -1,0 +1,8 @@
+
+
+1. Find out the customer's travel dates.
+2. Find a train that meets the customer's needs.
+3. Give the customer the train information and price.
+4. Find a hotel that meets the customer's needs.
+5. Book the hotel for the customer.
+6. Give the customer the hotel information and price.

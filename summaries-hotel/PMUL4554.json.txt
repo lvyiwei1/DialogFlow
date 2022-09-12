@@ -1,0 +1,9 @@
+
+
+1. Ask the customer for their dates of stay and the number of nights they need a room for.
+
+2. Ask the customer what type of amenities they are looking for in a hotel room.
+
+3. Recommend a hotel that meets the customer's needs and budget.
+
+4. Book the hotel room for the customer and provide them with a reference number.

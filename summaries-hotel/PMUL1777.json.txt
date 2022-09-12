@@ -1,0 +1,7 @@
+
+
+1. Customer asks for help booking a hotel.
+2. Service asks for customer preferences (price, location, amenities, etc).
+3. Service recommends a hotel based on customer preferences.
+4. Service books the hotel for the customer.
+5. Customer thanks the service.

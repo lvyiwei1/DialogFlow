@@ -1,0 +1,6 @@
+
+
+1. Finding a hotel with the desired specifications
+2. Booking the hotel
+3. Confirming the reservation
+4. Sending the customer the reservation information

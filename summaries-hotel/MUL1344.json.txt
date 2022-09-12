@@ -1,0 +1,7 @@
+ 
+
+1. Gather the customer's preferences for the hotel stay.
+2. Find a hotel that meets the customer's preferences.
+3. Book the hotel for the customer.
+4. Get the contact information for the hotel and the taxi service.
+5. Confirm the details of the hotel booking with the customer.

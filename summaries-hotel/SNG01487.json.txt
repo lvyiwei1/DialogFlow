@@ -1,0 +1,6 @@
+
+
+1. Ask if the customer is looking for a place to stay.
+2. If so, recommend a hotel.
+3. Get more information about the hotel from the customer.
+4. Make a reservation for the hotel if requested.

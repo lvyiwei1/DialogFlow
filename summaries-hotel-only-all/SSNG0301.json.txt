@@ -1,0 +1,9 @@
+
+
+1. Asking the customer what type of room they are looking for.
+2. Asking the customer what their budget is for the room.
+3. Asking the customer what their preferred location is.
+4. Asking the customer if they have any other preferences.
+5. Checking for available rooms that match the customer's preferences.
+6. Booking the room for the customer.
+7. Giving the customer a reference number for the booking.

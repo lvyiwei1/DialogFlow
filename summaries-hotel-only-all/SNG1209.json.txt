@@ -1,0 +1,6 @@
+
+
+1. Determine customer's price range
+2. Determine customer's star rating preference
+3. Determine customer's location preference
+4. Book the hotel for the customer

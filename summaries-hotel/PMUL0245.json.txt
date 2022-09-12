@@ -1,0 +1,9 @@
+ 
+
+-Identify customer need
+-Locate options that meet customer need
+-Get additional information from customer (e.g. price range, number of people, length of stay, etc.)
+-Make a recommendation
+-Book the hotel
+-Get additional information from customer (e.g. time they want to leave, etc.)
+-Book a taxi

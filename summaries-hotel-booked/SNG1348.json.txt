@@ -1,0 +1,13 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+
+2. If the customer is looking for a specific type of hotel that is not available, ask if they would be willing to consider other types of hotels.
+
+3. Once the customer has selected a type of hotel, ask if they have any specific requirements.
+
+4. Search for hotels that meet the customer's requirements.
+
+5. Ask the customer if they would like to book one of the hotels that was found.
+
+6. If the customer would like to book a hotel, provide the customer with the reference number for the booking.

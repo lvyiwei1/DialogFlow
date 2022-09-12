@@ -1,0 +1,6 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+2. Ask the customer if they have a preferred location for the hotel.
+3. Recommend a hotel that meets the customer's criteria.
+4. Give the customer the contact information for the hotel.

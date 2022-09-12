@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what their budget is for the hotel.
+2. Ask the customer what type of amenities they are looking for in the hotel.
+3. Ask the customer what their preferred location is for the hotel.
+4. Find a hotel that meets the customer's budget, preferences, and location.
+5. Give the customer the contact information for the hotel.
+6. If necessary, arrange transportation for the customer to the hotel.
+7. Thank the customer for their business.

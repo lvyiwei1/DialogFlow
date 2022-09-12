@@ -1,0 +1,7 @@
+
+
+1. Ask for the name of the hotel.
+2. Find the hotel using the name or partial name given.
+3. Ask if the customer would like to book a room.
+4. If the customer does want to book a room, book the room and give the reference number.
+5. Ask if there is anything else the customer needs help with.

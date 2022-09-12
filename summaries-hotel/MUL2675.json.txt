@@ -1,0 +1,9 @@
+
+
+1. Ask the customer for information about their desired hotel, such as location, price range, and amenities.
+
+2. Use this information to identify a suitable hotel for the customer, such as The Cambridge Belfry.
+
+3. Ask the customer if they would like to book The Cambridge Belfry, and provide the necessary information such as the address and phone number.
+
+4. If the customer is satisfied, confirm the booking and provide any additional information the customer may need.

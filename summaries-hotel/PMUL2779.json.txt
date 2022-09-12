@@ -1,0 +1,5 @@
+
+
+1. Find out the customer's arrival date, number of nights, and number of people in the party.
+2. Book the hotel room.
+3. Book a taxi to transport the customer between the hotel and the attraction.

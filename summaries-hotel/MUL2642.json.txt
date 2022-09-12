@@ -1,0 +1,8 @@
+
+
+1. Ask customer what their budget is for a hotel.
+2. Ask customer what their preferred amenities are in a hotel.
+3. Ask customer what their preferred location is for a hotel.
+4. Ask customer if they have any specific hotel requests.
+5. Make recommendations to the customer based on their budget, preferred amenities, and location.
+6. Help customer book their hotel room.

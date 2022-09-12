@@ -1,0 +1,7 @@
+
+
+1. Choose the dates for their stay
+2. Choose how many people will be staying
+3. Choose the hotel they will be staying at
+4. Book the hotel room
+5. Provide the customer with a reference number

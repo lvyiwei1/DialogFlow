@@ -1,0 +1,7 @@
+
+
+1. Ask the customer which side of town they prefer and what their price range is.
+2. Recommend a hotel based on the customer's preferences.
+3. Book the hotel room for the customer.
+4. Give the customer the reference number for the booking.
+5. Ask the customer if they need any other assistance.

@@ -1,0 +1,9 @@
+
+
+1. Find out what type of hotel the customer is looking for.
+2. Find out if there are any 1 star hotels in the area.
+3. If there are no 1 star hotels, look for a 3 star option.
+4. If the customer is willing to step up to a 4 star hotel, recommend the Cambridge Belfry.
+5. Find out if the customer needs any additional information about the hotel.
+6. If the customer needs a taxi, find out when they need it and get the car type and contact number.
+7. Thank the customer and end the conversation.

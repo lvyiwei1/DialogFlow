@@ -1,0 +1,5 @@
+
+
+1. Ask the customer what their needs are in a hotel room.
+2. Find a hotel that meets those needs.
+3. Provide the customer with a reference number to check in.

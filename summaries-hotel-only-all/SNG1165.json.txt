@@ -1,0 +1,9 @@
+
+
+1. In order to help the customer, the service must first ask the customer what their needs are.
+
+2. The service must then search for hotels that match the customer's needs.
+
+3. Once a hotel is found, the service must then book the room for the customer.
+
+4. The service must then provide the customer with a reference number for their booking.

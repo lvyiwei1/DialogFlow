@@ -1,0 +1,6 @@
+
+
+1. Ask for the customer's desired dates for their stay.
+2. Ask for the customer's desired number of nights.
+3. Ask for the customer's desired number of guests.
+4. Book the customer's stay and provide them with a confirmation number.

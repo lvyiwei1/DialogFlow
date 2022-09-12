@@ -1,0 +1,11 @@
+
+
+1. Ensure that the customer has the correct hotel name.
+
+2. Find out more about the hotel, including its price range, star rating, and amenities.
+
+3. Book the room for the customer, ensuring that they have a reference number.
+
+4. Find out more about the customer's destination, including its postcode.
+
+5. Help the customer book a taxi to their destination.

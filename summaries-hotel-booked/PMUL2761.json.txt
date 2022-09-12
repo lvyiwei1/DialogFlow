@@ -1,0 +1,6 @@
+
+
+1. Get the customer's name, dates of stay, and number of guests.
+2. Choose a hotel that meets the customer's criteria and make a reservation.
+3. Give the customer the reference number for the reservation.
+4. Thank the customer and end the interaction.

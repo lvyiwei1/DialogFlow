@@ -1,0 +1,7 @@
+
+
+1. $_Get customer's desired location
+2. $_Get customer's budget
+3. $_Find hotel near desired location that meets budget
+4. $_Make reservation for customer
+5. $_Give customer reference number for reservation

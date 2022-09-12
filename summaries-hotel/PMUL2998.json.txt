@@ -1,0 +1,12 @@
+
+
+1. Ask the customer if they know the name of the hotel they are looking for.
+2. Look up the hotel online.
+3. Give the customer the location and price range of the hotel.
+4. Ask the customer if they are interested in the hotel.
+5. If the customer is not interested, ask if they have a preference on the area.
+6. Find a hotel in the area and price range that the customer is looking for.
+7. Ask the customer if they are interested in the hotel.
+8. If the customer is not interested, ask if they would like you to look for another hotel.
+9. Repeat steps 6-8 until the customer is satisfied.
+10. Thank the customer for their inquiry.

@@ -1,0 +1,7 @@
+
+
+1. The customer contacts the service.
+2. The service provides options for the customer.
+3. The customer decides on the criteria for their stay.
+4. The service provides options that match the customer's criteria.
+5. The customer chooses an option and the service books it.

@@ -1,0 +1,7 @@
+
+
+1. Determine the customer's desired location.
+2. Suggest hotel options that meet the customer's needs.
+3. Obtain customer contact information to complete the booking.
+4. Book the hotel and send confirmation information to the customer.
+5. Arrange for transportation to the hotel, if necessary.

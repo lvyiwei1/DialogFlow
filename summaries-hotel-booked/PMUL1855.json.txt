@@ -1,0 +1,11 @@
+
+
+1. Requesting the customer's budget for accommodations;
+
+2. Requesting the customer's preferred amenities in accommodations;
+
+3. Suggesting the Acorn Guest House, a moderate-priced establishment with 4-star rating, to the customer;
+
+4. Booking the room for the customer;
+
+5. Providing the customer with a reference number for the reservation.

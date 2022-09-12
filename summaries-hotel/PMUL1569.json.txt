@@ -1,0 +1,9 @@
+
+
+1. Asking the customer if they need help
+2. Asking the customer what their destination is
+3. Asking the customer when they need to arrive
+4. Asking the customer if they need help booking a train
+5. Asking the customer what their budget is for a hotel
+6. Asking the customer if they want to book a hotel
+7. Asking the customer if they need help with anything else

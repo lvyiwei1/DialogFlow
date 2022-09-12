@@ -1,0 +1,6 @@
+
+
+1. Ask the customer if they need help booking a hotel room.
+2. If the customer does need help, ask for the location of the hotel they would like to stay in.
+3. Once the location is known, look for hotels in the area and provide the customer with a list of options.
+4. Help the customer choose a hotel and book the room.

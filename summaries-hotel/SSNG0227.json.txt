@@ -1,0 +1,11 @@
+
+
+Find out what type of hotel the customer is looking for.
+
+Find out the customer's budget.
+
+Find out the customer's preferred amenities.
+
+Find a hotel that meets the customer's needs.
+
+Make a reservation for the customer.

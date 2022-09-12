@@ -1,0 +1,7 @@
+
+
+1. Asking the customer for their location
+2. Asking the customer for their price range
+3. Asking the customer for their desired amenities
+4. Asking the customer for their dates of stay
+5. Booking the hotel for the customer

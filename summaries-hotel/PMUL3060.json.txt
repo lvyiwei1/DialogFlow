@@ -1,0 +1,9 @@
+
+
+
+
+1) Finding hotels in the area 
+2) Checking rates and availability 
+3) Making a reservation 
+4) Confirming the reservation 
+5) Giving the customer the reference number

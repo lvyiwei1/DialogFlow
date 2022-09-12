@@ -1,0 +1,8 @@
+
+
+1. Ask if the customer is looking for a hotel in a specific location. 
+2. If the customer gives a location, search for hotels in that area and make recommendations. 
+3. If the customer is looking for a specific type of hotel, make recommendations based on that. 
+4. Book the hotel for the customer. 
+5. Provide the customer with the contact information for the hotel. 
+6. If the customer needs transportation to the hotel, provide information on train schedules and fares.

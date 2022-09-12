@@ -1,0 +1,8 @@
+
+
+1. Ask the customer if they have a specific hotel in mind.
+2. If they have a specific hotel in mind, ask for the name of the hotel.
+3. If they do not have a specific hotel in mind, ask them their budget and their preferred location.
+4. Once you have this information, you can use it to find a list of suitable hotels.
+5. Present the customer with a list of hotels that match their needs.
+6. Help the customer choose a hotel and book it.

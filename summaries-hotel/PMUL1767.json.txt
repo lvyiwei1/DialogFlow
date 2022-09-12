@@ -1,0 +1,9 @@
+
+
+1. Get the customer's dates of travel.
+2. Get the customer's budget.
+3. Get the customer's preferred location.
+4. Get the customer's preferred amenities.
+5. Find a hotel that meets the customer's criteria.
+6. Book the hotel for the customer.
+7. Give the customer the reference number for the booking.

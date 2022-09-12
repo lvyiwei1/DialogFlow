@@ -1,0 +1,8 @@
+
+
+1. Identify the customer's location
+2. Identify the customer's budget
+3. Identify the customer's preferred dates
+4. Identify the customer's preferred amenities
+5. Book the hotel room based on the customer's specifications
+6. Thank the customer and provide relevant information about their booking

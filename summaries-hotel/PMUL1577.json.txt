@@ -1,0 +1,8 @@
+
+
+1. Asking the customer what dates they need the hotel for.
+2. Checking if the hotel is available on those dates.
+3. Booking the hotel for the customer.
+4. Checking for other things the customer might need, such as a train to get to the hotel.
+5. Helping the customer with other requests, such as finding a train schedule.
+6. Saying goodbye to the customer.

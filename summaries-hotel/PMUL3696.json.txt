@@ -1,0 +1,11 @@
+
+
+1. Customer service representative (CSR) asks what the customer is looking for.
+
+2. Customer requests information on a specific hotel in the area.
+
+3. CSR provides the customer with information on the hotel, including price range.
+
+4. Customer decides to book a room at the hotel.
+
+5. CSR makes a reservation for the customer.

@@ -1,0 +1,6 @@
+
+
+1. Asking the customer what type of hotel they are looking for.
+2. Narrowing down the list of options based on the customer's needs.
+3. Checking availability for the customer's desired dates.
+4. Making the reservation for the customer.

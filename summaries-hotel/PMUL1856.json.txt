@@ -1,0 +1,8 @@
+
+
+-Get the customer's dates of travel
+-Ask the customer how many people will be staying in the hotel
+-Ask the customer if they have any preference on location
+-Offer the customer 3 star hotels in the area
+-Book the hotel for the customer
+-Give the customer a reference number for their reservation

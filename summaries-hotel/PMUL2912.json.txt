@@ -1,0 +1,8 @@
+
+
+1. Get the customer's desired location.
+2. Pull up information on hotels in the area.
+3. Get the customer's budget.
+4. Get the customer's desired amenities.
+5. Book the hotel for the customer.
+6. Get the customer a taxi to the hotel.

@@ -1,0 +1,8 @@
+
+
+-Get the dates the customer needs
+-Get the number of people the customer needs to accommodate
+-Get the desired amenities of the hotel
+-Find a hotel that meets the customer's specifications
+-Book the hotel for the customer
+-Give the customer a reference number

@@ -1,0 +1,6 @@
+
+
+1. Ask for customer's preferred location.
+2. Provide options for guesthouses in moderate price range.
+3. Confirm availability of room with customer.
+4. Make a booking request for the room.

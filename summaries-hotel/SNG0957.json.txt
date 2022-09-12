@@ -1,0 +1,9 @@
+
+
+
+1. Ask if the customer needs help
+2. Offer information on the Avalon Hotel
+3. Ask if the customer would like to book a room
+4. Provide the Avalon Hotel's phone number
+5. Ask if there is anything else the customer needs help with
+6. Thank the customer and say goodbye

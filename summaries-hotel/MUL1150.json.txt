@@ -1,0 +1,6 @@
+
+
+1. The customer provides the desired location, star ranking, and additional amenities.
+2. The service provides a list of options that meet the customer's criteria.
+3. The customer chooses an option.
+4. The service makes the reservation and provides the customer with a reference number.

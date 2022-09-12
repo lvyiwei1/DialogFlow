@@ -1,0 +1,9 @@
+
+
+1. Find out the customer's desired check-in date and length of stay.
+
+2. Find a hotel that meets the customer's needs and price range.
+
+3. Make a reservation for the customer at the chosen hotel.
+
+4. Provide the customer with the confirmation details and reference number.

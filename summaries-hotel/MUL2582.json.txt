@@ -1,0 +1,7 @@
+
+
+1. Ask what the customer is looking for in a hotel.
+2. Ask what the customer's budget is.
+3. Ask what other amenities the customer is looking for.
+4. Find a hotel that meets the customer's criteria.
+5. Ask if the customer would like to book the hotel.

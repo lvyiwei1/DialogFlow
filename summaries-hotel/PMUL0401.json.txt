@@ -1,0 +1,11 @@
+
+
+1. Find out what type of hotel the customer is looking for.
+
+2. Find out the price range of the hotel the customer is looking for.
+
+3. Find out the location of the hotel the customer is looking for.
+
+4. Find out if there are any available rooms at the hotel the customer is interested in.
+
+5. If there are available rooms, book the room for the customer and provide them with a reference number.

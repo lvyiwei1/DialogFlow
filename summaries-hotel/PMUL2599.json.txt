@@ -1,0 +1,17 @@
+
+
+1. Find out what the customer is looking for in a hotel.
+
+2. See if there are any hotels that match the customer's criteria.
+
+3. If there are no hotels that match the customer's criteria, try to find a hotel that is close to what the customer is looking for.
+
+4. Make reservations for the customer at the hotel.
+
+5. Provide the customer with the reference number for the reservations.
+
+6. Find out if the customer needs any additional information about the hotel or the area.
+
+7. If the customer needs additional information, provide them with the information they need.
+
+8. Thank the customer for their business.

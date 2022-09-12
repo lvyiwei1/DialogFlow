@@ -1,0 +1,9 @@
+
+
+1. Collect customer preferences including dates, number of guests, budget, and wifi availability.
+
+2. Make recommendations based on the customer's preferences.
+
+3. If the customer is happy with the recommendation, book the hotel and provide the customer with the relevant details including the reference number.
+
+4. If the customer has additional questions, provide helpful information and make any bookings or reservations that may be necessary.

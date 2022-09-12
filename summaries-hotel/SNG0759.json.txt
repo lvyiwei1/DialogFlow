@@ -1,0 +1,7 @@
+
+
+1. Ask the customer for their name, contact information, and the dates they will be staying.
+2. Ask the customer how many people will be staying and for how long.
+3. Confirm with the customer the dates and number of people.
+4. Book the room and give the customer the reference number.
+5. Thank the customer and offer any additional assistance.

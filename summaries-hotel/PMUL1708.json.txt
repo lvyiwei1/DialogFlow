@@ -1,0 +1,6 @@
+
+
+1. Find the customer's desired hotel.
+2. Determine if the hotel has free internet or not.
+3. If the customer wants to book a ticket, help them find a train that meets their needs.
+4. Give the customer the price of the ticket.

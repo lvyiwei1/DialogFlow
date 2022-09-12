@@ -1,0 +1,6 @@
+
+
+1. Get customer's requirements
+2. Find hotels that match their requirements
+3. Give customer information about the hotel, such as price, location, and amenities
+4. Help customer book the hotel

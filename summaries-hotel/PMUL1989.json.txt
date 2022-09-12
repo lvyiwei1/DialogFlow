@@ -1,0 +1,14 @@
+
+
+1. Hello. I'd like a train to ely please.
+2. I will be departing from Cambridge on Wednesday. I would like to leave after 21:00.
+3. Is there a time you would like to arrive by?
+4. No I don't have a specific time to arrive.
+5. TR8533 will leave Cambridge at 21:50. Would you like a ticket on that train?
+6. No thank you but I do need the arrival time and train ID.
+7. The train ID is TR8533. Is there anything else I can help you with?
+8. Yes, it does have free parking and internet. Would you like to make a reservation?
+9. No thanks, I just need their postcode, please.
+10. Their postcode is cb13lh. Can I help you with anything else today?
+11. No that will be all thank you. 
+12.

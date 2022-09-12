@@ -1,0 +1,10 @@
+
+
+
+1. Ask the customer what type of hotel they are looking for.
+
+2. Ask the customer what their budget is.
+
+3. Ask the customer what their preferred location is.
+
+4. Find a hotel that meets the customer's needs and provide the reference number.

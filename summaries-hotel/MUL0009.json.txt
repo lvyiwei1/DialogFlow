@@ -1,0 +1,6 @@
+
+
+1. Get the customer's specifications for the hotel, such as price range and star rating.
+2. Find a hotel that meets the customer's specifications.
+3. Book the hotel for the customer.
+4. If the customer needs a restaurant, help them find one that meets their specifications and make a reservation.

@@ -1,0 +1,6 @@
+
+
+1. Finding a list of hotels that match the customer's preferences
+2. Booking one of the hotels for the customer
+3. Providing the customer with the contact information for the hotel
+4. Arranging transportation from the restaurant to the hotel

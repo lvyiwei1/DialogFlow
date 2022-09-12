@@ -1,0 +1,6 @@
+
+
+1. Ask the customer what their preferences are (free parking, free wifi, price, location, etc)
+2. Narrow down the choices based on the customer's preferences
+3. Book the hotel room for the customer
+4. Thank the customer and goodbye

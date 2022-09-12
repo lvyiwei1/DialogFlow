@@ -1,0 +1,7 @@
+
+
+-Ask the customer what type of lodging they are looking for
+-Ask the customer if they have a preferred area
+-Make suggestions for lodging that fit the customer's search criteria
+-Get confirmation from the customer on the chosen lodging
+-Make the reservation for the customer

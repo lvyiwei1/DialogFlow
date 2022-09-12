@@ -1,0 +1,6 @@
+
+
+1. Asking the customer if they need help booking a hotel.
+2. Asking the customer if they have a certain time they would like to leave after or arrive by.
+3. Booking the hotel for the customer.
+4. Asking the customer if they need help with anything else today.

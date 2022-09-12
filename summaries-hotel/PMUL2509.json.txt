@@ -1,0 +1,6 @@
+
+
+1. Find out the customer's location.
+2. Ask the customer if they have a preference for type of hotel.
+3. If the customer does not have a preference, recommend a hotel in the area.
+4. Get the customer's contact information and book the hotel.

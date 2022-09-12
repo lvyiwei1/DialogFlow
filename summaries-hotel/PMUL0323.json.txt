@@ -1,0 +1,5 @@
+
+
+1. Ask the customer what type of cuisine they are looking for.
+2. Ask the customer what side of town they would prefer.
+3. Suggest the Oak Bistro as a nice place to try.

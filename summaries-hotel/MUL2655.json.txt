@@ -1,0 +1,7 @@
+
+
+1. Ask the customer if they have a particular area or attraction in mind.
+2. If they have a specific interest, ask them about it and recommend a hotel based on their answer.
+3. Get the customer's contact information and book the hotel room.
+4. Give the customer the details of their booking, including the reference number.
+5. Ask the customer if they need any other assistance.

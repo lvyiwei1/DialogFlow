@@ -1,0 +1,6 @@
+
+
+1. Ask the customer for their destination.
+2. Ask the customer what time they would like to leave.
+3. Find a train that meets the customer's needs.
+4. Book the train for the customer.

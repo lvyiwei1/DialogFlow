@@ -1,0 +1,12 @@
+
+
+1. Ask the customer which type of food they like.
+2. Ask the customer if they have specific restaurant in mind.
+3. Ask the customer how many people they are booking for.
+4. Ask the customer what day and time they would like to reserve.
+5. Book the table and give the customer the reference number.
+6. Ask the customer if they need help finding a guesthouse.
+7. Find a guesthouse that meets the customer's needs.
+8. Ask the customer when they would like to stay.
+9. Book the guesthouse and give the customer the reference number.
+10. Confirm with the customer that the hotel offers free wifi.

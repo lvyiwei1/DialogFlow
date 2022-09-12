@@ -1,0 +1,7 @@
+
+
+1. Obtain customer's hotel name request.
+
+2. Find hotel name and provide customer with information and booking details.
+
+3. Ask if customer needs any further assistance.

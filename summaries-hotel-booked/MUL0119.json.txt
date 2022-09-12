@@ -1,0 +1,7 @@
+
+
+1. The customer provides the desired criteria for the hotel, such as location, price, and number of guests.
+2. The customer asks for a reference number for the reservation.
+3. The service provides a list of available hotels that match the customer's criteria.
+4. The customer selects a hotel and the service books the reservation.
+5. The service provides the customer with a reference number for the reservation.

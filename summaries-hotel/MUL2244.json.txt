@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what type of room they need (e.g. four star).
+2. Ask the customer if they have a preference for location.
+3. Ask the customer their budget.
+4. Once you have a list of potential hotels, ask the customer if they need any special amenities (e.g. free parking, internet).
+5. Narrow down the list of hotels based on the customer's needs and preferences.
+6. If the customer needs help choosing a hotel, provide a suggestion.
+7. Book the hotel for the customer and provide them with a reference number.

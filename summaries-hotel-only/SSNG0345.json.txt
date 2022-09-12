@@ -1,0 +1,8 @@
+
+
+1. Ask the customer for their desired location, price range, and amenities.
+2. Use the customer's preferences to locate several suitable options.
+3. Present the guesthouses to the customer and help them choose one.
+4. Make the reservation for the customer.
+5. Give the customer the reference number for their booking.
+6. Thank the customer and wish them a pleasant stay.

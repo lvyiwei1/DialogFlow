@@ -1,0 +1,11 @@
+
+
+1. Get the customer's budget.
+
+2. Get the customer's specifications.
+
+3. Recommend a hotel that fits the customer's budget and specifications.
+
+4. Give the customer the contact information for the recommended hotel.
+
+5. Book the hotel for the customer if requested.

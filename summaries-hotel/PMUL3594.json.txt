@@ -1,0 +1,8 @@
+
+
+1. Ask what kind of property the customer is looking for (guesthouse, hotel, etc).
+2. Get an idea of the customer's budget.
+3. Ask what part of town the customer prefers.
+4. Get the customer's dates of stay.
+5. Make a reservation for the customer.
+6. Give the customer a reference number for the reservation.

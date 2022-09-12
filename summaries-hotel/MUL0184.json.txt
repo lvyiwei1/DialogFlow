@@ -1,0 +1,9 @@
+
+
+1. Ask if the customer has any preferences for their hotel stay.
+
+2. If the customer has no preferences, suggest a 4-star hotel in the vicinity of the restaurant.
+
+3. Book the hotel stay for the customer.
+
+4. Book a taxi to pick the customer up from the hotel and take them to the restaurant.

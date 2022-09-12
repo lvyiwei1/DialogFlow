@@ -1,0 +1,6 @@
+
+
+1. Ask the customer if they have any preferences (e.g. for area or price range)
+2. If the customer does have preferences, use these to recommend a hotel
+3. Ask the customer for the number of people in their party and how long they would like to stay
+4. Book the hotel room for the customer

@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what their budget is for the hotel.
+
+2. Ask the customer what their preferred location is.
+
+3. Ask the customer if they need any special amenities, such as free wifi.
+
+4. Based on the customer's requirements, recommend a hotel.
+
+5. Get the customer's contact information and book the room for them.

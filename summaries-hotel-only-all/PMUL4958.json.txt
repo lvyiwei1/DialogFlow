@@ -1,0 +1,9 @@
+
+
+1. Determine what kind of hotel the customer is looking for.
+
+2. Find a hotel that fits the customer's needs.
+
+3. Check to see if the hotel has free wifi.
+
+4. Book the hotel for the customer.

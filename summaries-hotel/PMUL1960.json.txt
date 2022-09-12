@@ -1,0 +1,7 @@
+
+
+-Get customer profile (name, contact information, etc.)
+-Find out what the customer needs (in this case, a train leaving Leicester after 21:45 on Thursday)
+-Offer options that meet the customer's needs
+-Get confirmation from the customer
+-Make the booking

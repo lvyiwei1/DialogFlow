@@ -1,0 +1,6 @@
+
+
+1. Ask where the customer is staying.
+2. Ask what the customer's price range is.
+3. Ask when the customer is staying.
+4. Book the hotel for the customer.

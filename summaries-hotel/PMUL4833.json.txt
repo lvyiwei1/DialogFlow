@@ -1,0 +1,11 @@
+
+
+1. Find out the customer's budget.
+
+2. Ask the customer for their preferred location.
+
+3. Ask the customer for their preferred type of accommodation.
+
+4. Find out the customer's preferred amenities.
+
+5. Make a booking for the customer at their preferred hotel.

@@ -1,0 +1,7 @@
+
+
+1. Determine what the customer is looking for in a hotel. In this case, the customer is looking for an expensive 4 star hotel with free parking.
+
+2. Find a hotel that meets the customer's needs. The Alexander Bed and Breakfast is a 4 star hotel with free parking.
+
+3. Book the hotel for the customer.

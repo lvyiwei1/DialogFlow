@@ -1,0 +1,8 @@
+
+
+1. Get the customer's name, address, phone number, and email address.
+2. Get the name of the hotel, its address, phone number, and star rating.
+3. Get the customer's taxi company preference and contact information.
+4. Have the customer confirm the taxi company, car type, and contact information.
+5. Have the customer confirm the time the taxi should arrive.
+6. Thank the customer and say goodbye.

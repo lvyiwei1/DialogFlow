@@ -1,0 +1,7 @@
+
+
+1. Collect customer requirements
+2. Search for available options
+3. Choose an option
+4. Book the option
+5. Provide the reference number

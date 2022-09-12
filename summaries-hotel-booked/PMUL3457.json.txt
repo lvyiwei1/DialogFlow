@@ -1,0 +1,6 @@
+
+
+1. Ask for customer's budget
+2. Ask for customer's preferred location
+3. Ask for customer's preferred amenities
+4. Book the hotel for the customer

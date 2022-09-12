@@ -1,0 +1,9 @@
+
+
+1. Find out the customer's preferred price range.
+
+2. Ask the customer if they have any specific requirements for their stay, such as free Wi-Fi.
+
+3. Suggest a few different hotels that meet the customer's needs.
+
+4. Book the customer's stay at their chosen hotel.

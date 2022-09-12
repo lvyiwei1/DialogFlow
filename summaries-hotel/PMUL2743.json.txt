@@ -1,0 +1,9 @@
+
+
+1. Identify the customer's need - in this case, information about the Cityroomz hotel.
+
+2. Find out as much as possible about the customer's request - in this case, location, star rating, price range.
+
+3. Offer help in booking the hotel - in this case, providing the hotel's location, star rating, and phone number.
+
+4. Follow up to see if the customer needs any further assistance.

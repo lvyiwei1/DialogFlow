@@ -1,0 +1,5 @@
+
+
+1. Find out customer's needs
+2. Recommend a hotel that meets the customer's needs
+3. Book the hotel room for the customer

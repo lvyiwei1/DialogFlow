@@ -1,0 +1,7 @@
+
+
+Get the customer's preferences (location, price, amenities, etc.).
+
+Search for hotels that meet the customer's preferences.
+
+Book the hotel for the customer.

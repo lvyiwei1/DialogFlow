@@ -1,0 +1,9 @@
+
+
+1. Ask for customer's lodging preferences including price, location, and number of days needed.
+
+2. If the customer has specific preferences, provide a list of available hotels that match those preferences.
+
+3. If the customer is satisfied with one of the options, help them book the hotel.
+
+4. If the customer needs further assistance, provide additional information or resources as needed.

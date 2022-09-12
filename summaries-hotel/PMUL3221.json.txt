@@ -1,0 +1,5 @@
+
+
+1. Find out train schedule
+2. Book train
+3. Customer pays for train

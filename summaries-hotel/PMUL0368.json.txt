@@ -1,0 +1,6 @@
+
+
+1. Ask customer where they will be staying in Cambridge.
+2. Find hotel options that are cheap and have a four-star rating.
+3. Recommend a hotel that has wifi and free parking.
+4. Book a reservation for the customer at a restaurant located in the centre.

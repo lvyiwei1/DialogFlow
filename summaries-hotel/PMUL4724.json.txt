@@ -1,0 +1,7 @@
+
+
+1. Choose a hotel based on the customer's budget and preferences.
+
+2. Confirm the hotel's availability for the customer's desired dates.
+
+3. Book the hotel room and provide the customer with a reference number.

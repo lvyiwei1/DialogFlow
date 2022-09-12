@@ -1,0 +1,7 @@
+
+
+1. Help the customer choose a hotel that meets their criteria.
+
+2. Book the hotel for the customer.
+
+3. Give the customer their reference number.

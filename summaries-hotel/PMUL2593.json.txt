@@ -1,0 +1,6 @@
+
+
+1. Finding out what type of hotel the customer is looking for.
+2. Narrowing down the results to hotels that match the customer's preferences.
+3. Booking the hotel for the customer.
+4. Providing the customer with the contact information and price range for the hotel.

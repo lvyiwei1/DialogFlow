@@ -1,0 +1,13 @@
+
+
+1. Verify the customer's train travel details.
+
+2. Retrieve the information for the requested train.
+
+3. Book the train tickets for the customer.
+
+4. Provide the customer with the reference number for their train tickets.
+
+5. Book a hotel room for the customer in the requested area.
+
+6. Provide the customer with the reference number for their hotel room.

@@ -1,0 +1,7 @@
+
+
+1. Identify customer needs
+2. Source hotels that match customer needs
+3. Make booking
+4. Confirm booking details with customer
+5. Provide reference number

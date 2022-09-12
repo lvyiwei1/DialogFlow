@@ -1,0 +1,11 @@
+
+
+1. Asking if the customer knows about the bridge guest house
+2. If yes, asking if they would like to make a reservation
+3. If yes, asking for the number of people and the number of nights
+4. If yes, booking the reservation and providing the customer with a reference number
+5. Asking if the customer needs help with anything else
+6. If yes, asking if they are looking for an expensive restaurant serving English food
+7. If yes, recommending an expensive Indian restaurant
+8. If yes, booking a table and providing the customer with a reference number
+9. If yes, thanking the customer and wishing them a great day

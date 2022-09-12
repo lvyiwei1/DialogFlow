@@ -1,0 +1,7 @@
+
+
+1. Ask if the customer wants help booking a hotel room.
+2. If so, ask for the hotel's name.
+3. Ask for the customer's budget.
+4. Book a room in the hotel for the customer.
+5. Thank the customer.

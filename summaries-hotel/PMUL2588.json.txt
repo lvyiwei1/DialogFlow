@@ -1,0 +1,7 @@
+
+
+1. Ask the customer if they have a preference in area.
+2. If the customer does not have a preference in area, ask the customer if they have a preference in price range.
+3. If the customer does not have a preference in price range, ask the customer if they need any specific amenities.
+4. Once the customer has chosen a hotel, ask for their contact information and billing information.
+5. Complete the booking and provide the customer with the driver's contact information.

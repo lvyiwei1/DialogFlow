@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's preferred location.
+2. Identify the customer's budget.
+3. Choose a suitable hotel based on the customer's budget and location preferences.
+4. Make a booking for the customer.
+5. Arrange transport for the customer to the hotel.

@@ -1,0 +1,7 @@
+
+
+1. Ask what kind of hotel they are looking for.
+2. If they are looking for a specific type of hotel, ask if there are any specific requirements.
+3. If they have specific requirements, find a hotel that meets those requirements.
+4. Book the hotel for the customer.
+5. Send the customer a confirmation.

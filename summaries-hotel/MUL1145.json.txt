@@ -1,0 +1,7 @@
+
+
+1. Ask customer for their budget
+2. Ask customer if they have any preferred amenities
+3. Ask customer what part of the city they would like to stay in
+4. Make a recommendation based on the customer's budget and preferences
+5. Ask the customer if they would like more information about the hotel or anything else

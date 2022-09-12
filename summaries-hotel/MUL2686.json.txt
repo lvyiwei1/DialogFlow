@@ -1,0 +1,8 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+2. Ask the customer for the dates they need the hotel.
+3. Ask the customer how many people will be staying.
+4. Book the hotel for the customer.
+5. Get the customer's contact information.
+6. Schedule a taxi for the customer.

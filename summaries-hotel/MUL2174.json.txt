@@ -1,0 +1,9 @@
+
+
+1. Helper finds out customer's needs (e.g. free parking, free wifi, moderately priced)
+
+2. Helper recommends hotels that match customer's needs
+
+3. Helper provides customer with information about the recommended hotels (e.g. price, location, number of stars)
+
+4. Helper helps customer book the hotel of their choice

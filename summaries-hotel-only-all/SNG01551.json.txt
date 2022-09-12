@@ -1,0 +1,7 @@
+
+
+1. In order to help the customer, the service needs to understand the customer's needs.
+
+2. Once the service understands the customer's needs, they can start searching for hotels that meet the customer's criteria.
+
+3. Once the service has found a hotel that meets the customer's criteria, they can book the hotel for the customer.

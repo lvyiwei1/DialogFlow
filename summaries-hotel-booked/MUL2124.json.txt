@@ -1,0 +1,6 @@
+
+
+1. Find out the customer's location preferences.
+2. Suggest a few options within the customer's budget.
+3. Book the hotel room for the customer.
+4. Train the customer on how to use the service in the future.

@@ -1,0 +1,7 @@
+
+
+- Listen to the customer's request
+- Ask clarifying questions as needed
+- Try to book the hotel room as requested
+- If unable to book, offer alternative dates or hotels
+- Thank the customer for their business

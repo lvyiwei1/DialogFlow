@@ -1,0 +1,11 @@
+
+
+1. Help customer identify their location.
+
+2. Ask customer if they have any preferences for their hotel.
+
+3. Help customer find a hotel that meets their preferences.
+
+4. Book the hotel for the customer.
+
+5. Send the customer the reference number for their booking.

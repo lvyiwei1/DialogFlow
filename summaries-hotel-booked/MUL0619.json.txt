@@ -1,0 +1,10 @@
+
+
+In order to help a customer book a hotel, the service provider should gather the following information:
+
+1. The customer's preferred dates of travel
+2. The customer's preferred destination
+3. The customer's preferred hotel
+4. The customer's contact information
+
+Once the service provider has this information, they can then begin to search for hotels that meet the customer's preferences. Once a suitable hotel is found, the service provider can then book the room on behalf of the customer.

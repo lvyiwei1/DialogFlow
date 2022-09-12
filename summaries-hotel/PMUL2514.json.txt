@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what their budget is for a hotel.
+
+2. Find a hotel that meets the customer's budget requirements.
+
+3. Ask the customer if they would like to book a room at the hotel.
+
+4. If the customer would like to book a room, provide them with the necessary information (e.g. address, contact information, etc.).

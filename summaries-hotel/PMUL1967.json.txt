@@ -1,0 +1,6 @@
+
+
+1. The customer needs to depart from Birmingham New Street on Tuesday morning.
+2. The customer needs to arrive in Cambridge by 08:45.
+3. The customer needs a 3 star hotel that offers free wifi in the centre of town.
+4. The customer needs the postcode for the hotel.

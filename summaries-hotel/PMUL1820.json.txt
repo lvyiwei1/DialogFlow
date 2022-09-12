@@ -1,0 +1,11 @@
+
+
+1. Book a hotel room for the customer.
+
+2. Find out if the hotel offers free parking.
+
+3. Get a reference number for the customer.
+
+4. Find out the train schedule for the customer.
+
+5. Inform the customer about the total duration of the train ride.

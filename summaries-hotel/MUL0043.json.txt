@@ -1,0 +1,6 @@
+
+
+1. Finding a hotel that meets the customer's needs
+2. Booking a room at the hotel
+3. Helping the customer find a restaurant
+4. Booking a table at the restaurant

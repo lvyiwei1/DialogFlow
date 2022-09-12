@@ -1,0 +1,8 @@
+
+
+1) ask the customer what location they would like to stay in
+2) ask the customer what their price range is
+3) ask the customer what their star preference is
+4) recommend a hotel
+5) book the hotel room
+6) give the customer the reference number

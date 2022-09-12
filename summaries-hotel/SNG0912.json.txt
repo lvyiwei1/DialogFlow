@@ -1,0 +1,11 @@
+
+
+1. Consider the customer's needs.
+
+2. Find a hotel that meets the customer's needs.
+
+3. Make a reservation for the customer.
+
+4. Get the customer's contact information.
+
+5. Send a confirmation of the reservation to the customer.

@@ -1,0 +1,7 @@
+ 
+
+-Find out what region the customer would like to stay in 
+-Find an available hotel in that region 
+-Tell the customer about the hotel, including amenities and price 
+-Confirm the booking with the customer 
+-Give the customer the reference number for the booking

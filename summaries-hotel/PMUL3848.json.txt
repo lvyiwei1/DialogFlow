@@ -1,0 +1,12 @@
+ 
+
+1. Find out where the customer is coming from.
+2. Find out where the customer wants to go.
+3. Find out what time the customer wants to arrive.
+4. Find out what time the customer wants to leave.
+5. Find out how many people the customer is traveling with.
+6. Find out what kind of room the customer wants.
+7. Find out how many nights the customer wants to stay.
+8. Find out if the customer has any special requests.
+9. Find out what the customer's budget is.
+10. Book the room for the customer.

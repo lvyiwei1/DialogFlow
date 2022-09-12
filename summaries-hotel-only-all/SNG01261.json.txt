@@ -1,0 +1,7 @@
+
+
+1. Ask customer what type of hotel they are looking for.
+2. Ask customer if there is a certain price range or location they need the hotel to be in.
+3. Inform customer about available hotels that match their requirements.
+4. Ask customer if they would like to book a room at one of the recommended hotels.
+5. If yes, confirm the booking and provide the customer with a confirmation code.

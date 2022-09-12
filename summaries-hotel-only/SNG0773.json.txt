@@ -1,0 +1,9 @@
+
+
+1. Find out the customer's budget for the hotel.
+
+2. Ask the customer what star rating they would like for the hotel.
+
+3. See if the customer has any other specific requirements for the hotel, such as Wi-Fi or parking.
+
+4. Once you have found a suitable hotel, book the reservation for the customer.

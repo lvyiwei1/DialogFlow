@@ -1,0 +1,7 @@
+
+
+1. In order to book a hotel for the customer, the service provider needs to know the number of people and the dates of stay.
+
+2. The service provider also needs to know the customer's price range for the hotel.
+
+3. The service provider books the hotel for the customer and provides them with a reference number.

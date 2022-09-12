@@ -1,0 +1,15 @@
+
+
+The key steps for helping a customer book a hotel are:
+
+1. Ask the customer if they have a hotel in mind or if they have a price range.
+
+2. If the customer has a hotel in mind, ask the customer for more information about their preferences.
+
+3. If the customer does not have a hotel in mind, recommend a hotel based on the customer's preferences.
+
+4. Book the hotel room for the customer.
+
+5. Provide the customer with the reference number for their booking.
+
+6. If the customer needs transportation to the hotel, help the customer book a train.

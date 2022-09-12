@@ -1,0 +1,12 @@
+
+
+
+1. Ask the customer what type of hotel they are looking for.
+
+2. Ask the customer how many nights they need the hotel for.
+
+3. Ask the customer if they need any additional services, such as parking or internet.
+
+4. Find a hotel that meets the customer's needs and book the room.
+
+5. Give the customer the reference number for their booking.

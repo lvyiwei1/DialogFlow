@@ -1,0 +1,9 @@
+
+
+1. To help a customer book a hotel, first ask them what type of hotel they are looking for, and then what their budget is.
+
+2. Once you have an idea of what the customer is looking for, give them a few options to choose from.
+
+3. If the customer has specific requirements, help them narrow down their options by asking them what they need.
+
+4. Once the customer has decided on a hotel, help them book it by providing the necessary information.

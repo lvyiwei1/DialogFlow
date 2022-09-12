@@ -1,0 +1,7 @@
+
+
+1. The customer provides the desired location, price range, and number of nights needed.
+
+2. The customer service agent looks for a hotel that meets the customer's needs and books a room.
+
+3. The customer service agent gives the customer the reference number for the reservation.

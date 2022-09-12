@@ -1,0 +1,7 @@
+
+
+1. Find hotels that meet the customer's requirements (free wifi, free parking, etc.)
+2. Help the customer narrow down the options by location, price, etc.
+3. Attempt to book the hotel for the customer.
+4. If the booking is unsuccessful, try a different hotel.
+5. Once the booking is successful, provide the customer with the reference number.

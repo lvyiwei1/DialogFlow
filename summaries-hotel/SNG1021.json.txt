@@ -1,0 +1,11 @@
+
+
+1. Ask the customer if they would like a room at the Aylesbury lodge guest house.
+
+2. If the customer says yes, ask them if they would like the phone number or a room.
+
+3. If the customer requests a room, check if there are any available for the requested nights.
+
+4. If there are rooms available, book them and provide the customer with a reference number.
+
+5. If there are no rooms available, try to find a room at another hotel.

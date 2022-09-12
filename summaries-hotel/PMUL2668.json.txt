@@ -1,0 +1,8 @@
+
+
+1. Get the name of the hotel.
+2. Look up the hotel and get information about it.
+3. Book the hotel.
+4. Get the information about the car that will pick up the customer.
+5. Book the car.
+6. Provide the customer with the reference number for their booking.

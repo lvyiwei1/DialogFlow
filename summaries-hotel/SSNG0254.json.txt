@@ -1,0 +1,7 @@
+
+
+1. Ask the customer for their preferred location in the city. 
+2. Narrow down the choices of hotels to those that are in the preferred location and offer free wifi and free parking. 
+3. Ask the customer if they have a preferred hotel rating. 
+4. Narrow down the choices of hotels to those that are in the preferred location, offer free wifi and free parking, and have the preferred rating. 
+5. Give the customer the address of the hotel.

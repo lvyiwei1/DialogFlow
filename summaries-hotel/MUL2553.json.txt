@@ -1,0 +1,7 @@
+
+
+1. Ask if the customer would like to book a room at the Express by Holiday Inn.
+2. If the customer would like to book a room, ask how many days they would like to stay.
+3. Ask the customer for their postcode and price range.
+4. Ask the customer if they need a taxi to take them from The Fez Club to their hotel.
+5. If the customer needs a taxi, ask for their departure time.

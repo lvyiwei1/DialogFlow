@@ -1,0 +1,9 @@
+
+
+1. Ask the customer for their preferred location.
+
+2. Recommend a few hotels in the area that match the customer's requirements.
+
+3. Once the customer chooses a hotel, book the room and provide the confirmation details.
+
+4. If the customer has any other requests, help them book a restaurant or other activity.

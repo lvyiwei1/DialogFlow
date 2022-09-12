@@ -1,0 +1,8 @@
+
+
+1. Ask if they are looking for a specific area.
+2. If they are not looking for a specific area, recommend one.
+3. Give them the address, phone number, and other relevant information about the hotel.
+4. Ask if they would like to book a room.
+5. If they do, help them book the room.
+6. Thank them for their business.

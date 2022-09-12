@@ -1,0 +1,6 @@
+
+
+1. Finding a hotel with specific amenities 
+2. Recommending a hotel 
+3. Booking the hotel 
+4. Providing information about attractions in the area

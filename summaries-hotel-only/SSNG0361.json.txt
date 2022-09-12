@@ -1,0 +1,9 @@
+
+
+1. Ask customer if they have any preferences for the type of hotel they would like.
+
+2. Find hotels that match the customer's preferences.
+
+3. Ask the customer to confirm the price for the package.
+
+4. Book the hotel for the customer.

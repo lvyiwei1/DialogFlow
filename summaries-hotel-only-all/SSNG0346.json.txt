@@ -1,0 +1,11 @@
+
+
+
+
+1. Ask the customer what they are looking for in a hotel.
+
+2. See if the hotel has any available rooms that meet the customer's needs.
+
+3. If there are available rooms, book the room for the customer.
+
+4. If there are no available rooms, try to find a similar hotel that does have available rooms.

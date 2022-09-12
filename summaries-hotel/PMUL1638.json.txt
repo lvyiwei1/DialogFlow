@@ -1,0 +1,8 @@
+
+
+1. Ask where they will be leaving from.
+2. Ask if they would like you to book a room for them.
+3. Get the details of their booking (number of people, dates, etc).
+4. Make a booking for them.
+5. Give them the reference number for their booking.
+6. Thank them for using the service.

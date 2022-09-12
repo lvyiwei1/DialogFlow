@@ -1,0 +1,13 @@
+
+
+Determine the customer's needs
+
+Identify the hotel
+
+Find the listing for the hotel
+
+Make the reservation
+
+Confirm the reservation
+
+Thank the customer

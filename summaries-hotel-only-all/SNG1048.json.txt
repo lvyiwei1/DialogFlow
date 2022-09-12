@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+2. Ask the customer if they have any preferences on the star rating or area.
+3. If the customer is looking for an expensive hotel with free parking, recommend 5 places.
+4. If the customer is looking for a cheap hotel, recommend the Allenbell guesthouse.
+5. Make a reservation for the customer.

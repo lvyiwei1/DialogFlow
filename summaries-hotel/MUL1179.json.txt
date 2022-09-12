@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's needs.
+
+2. Identify available hotels that meet the customer's needs.
+
+3. Book the room at the chosen hotel.

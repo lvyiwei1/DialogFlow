@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what their preferred specifications are for the hotel room.
+
+2. Find a hotel that meets the customer's specifications.
+
+3. Book the hotel for the customer.

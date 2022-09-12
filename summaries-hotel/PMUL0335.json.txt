@@ -1,0 +1,10 @@
+
+
+1. Find out the customer's location preference.
+2. Find out the customer's star rating preference.
+3. Find out the customer's dates of stay.
+4. Find an available hotel that meets the customer's preferences.
+5. Make the hotel reservation.
+6. Provide the customer with the reference number for the reservation.
+7. If requested, book a taxi to the hotel.
+8. Provide the customer with the contact information for the taxi.

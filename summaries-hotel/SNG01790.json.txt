@@ -1,0 +1,7 @@
+
+
+1. Determine the customer's desires, needs, and budget for their stay.
+
+2. Find a hotel that meets the customer's criteria and is available for the dates of their stay.
+
+3. Book the hotel for the customer.

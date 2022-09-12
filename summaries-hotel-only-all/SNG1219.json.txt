@@ -1,0 +1,6 @@
+
+
+1. The customer provides the criteria for their hotel room booking.
+2. The service assists the customer in finding hotels that match the customer's criteria.
+3. The customer chooses a hotel.
+4. The service makes a reservation for the customer at the chosen hotel.

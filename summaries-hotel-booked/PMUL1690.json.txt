@@ -1,0 +1,5 @@
+
+
+1. Ask for customer preferences including price range, internet and parking availability, and number of nights required.
+2. Search for hotels that meet the customer's criteria.
+3. Book the hotel and provide the customer with a reference number.

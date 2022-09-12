@@ -1,0 +1,7 @@
+
+
+1. Ask the customer if they have any preferences for their hotel stay.
+2. Based on the customer's preferences, suggest a hotel.
+3. Provide the customer with the available booking options for the hotel.
+4. Confirm the customer's booking details.
+5. Thank the customer for their business.

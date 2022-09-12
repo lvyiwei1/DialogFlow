@@ -1,0 +1,9 @@
+
+
+1. Determine customer's location.
+2. Determine customer's destination.
+3. Recommend a train that leaves at a certain time and arrives at the customer's destination by a certain time.
+4. Ask the customer if they would like to book the train.
+5. If the customer does want to book the train, ask for how many people and for how many nights.
+6. Book the train for the customer.
+7. Provide customer with a reference number for the booking.

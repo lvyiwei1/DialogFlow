@@ -1,0 +1,11 @@
+
+
+The key steps are as follows:
+
+1. Ask the customer what their budget is for the hotel accommodation.
+
+2. Ask the customer what their preferred location is for the hotel.
+
+3. Once the budget and location have been determined, search for hotels that match the customer's criteria.
+
+4. Book the hotel for the customer, and provide them with the reference number for their reservation.

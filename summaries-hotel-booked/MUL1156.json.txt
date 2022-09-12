@@ -1,0 +1,8 @@
+
+
+1. get hotel information
+2. ask customer what type of room they want
+3. provide customer with options
+4. check availability
+5. make booking
+6. provide customer with reference number

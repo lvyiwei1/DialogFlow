@@ -1,0 +1,6 @@
+
+
+1. Asking the customer where they would like to stay.
+2. Asking the customer if they have a price range in mind.
+3. Based on the customer's criteria, suggesting a specific location.
+4. Booking the reservation for the customer.

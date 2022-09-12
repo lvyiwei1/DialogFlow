@@ -1,0 +1,11 @@
+
+
+
+
+1. Ask the customer if they have a preferred location for their hotel.
+
+2. If the customer has a preferred location, inquire about specific hotels in that area that fit the customer's needs.
+
+3. If the customer does not have a preferred location, provide a list of hotels in different areas that fit the customer's needs.
+
+4. Once the customer has selected a hotel, confirm the booking and provide the customer with the reference number.

@@ -1,0 +1,11 @@
+
+
+1. Find the customer's desired hotel.
+
+2. Book a reservation for the customer.
+
+3. Find a restaurant serving the customer's desired type of food.
+
+4. Book a table at the restaurant.
+
+5. Arrange for a taxi to pick the customer up and take them to the restaurant.

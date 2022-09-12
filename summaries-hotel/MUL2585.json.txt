@@ -1,0 +1,6 @@
+
+
+1.Ask the customer what type of accommodation they are looking for.
+2. Ask the customer for their budget.
+3. Ask the customer for their preferred hotel star rating.
+4. Find accommodation that meets the customer's needs and provide the customer with the phone number and address.

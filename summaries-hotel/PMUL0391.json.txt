@@ -1,0 +1,5 @@
+ 
+
+1. Gather customer requirements – in this case, the customer wants an inexpensive hotel in the north with free wifi.
+2. Recommend a hotel – in this case, the customer is recommended the Acorn Guest House.
+3. Book the hotel – in this case, the customer books the hotel for 8 people for 3 nights starting on Wednesday.

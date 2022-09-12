@@ -1,0 +1,5 @@
+
+
+1. Find out the customer's dates of travel.
+2. Ask the customer if they have any specific needs, such as parking or internet access.
+3. Book the hotel room based on the customer's dates of travel and specific needs.

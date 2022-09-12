@@ -1,0 +1,6 @@
+
+
+1. Ask the customer which price range they are looking for.
+2. Ask the customer if they have any preferred amenities.
+3. Book the hotel for the customer.
+4. Send the customer the confirmation details.

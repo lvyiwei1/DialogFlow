@@ -1,0 +1,6 @@
+
+From the dialog, the key steps for helping a customer book a hotel are:
+
+1. Ask the customer which train route they will be taking and on what day.
+2. Find out the customer's preferences for their stay, such as location, free wifi, and free parking.
+3. Once the customer has confirmed their preferences, book the hotel for them and provide the reference number.

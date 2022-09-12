@@ -1,0 +1,9 @@
+
+
+- Get the customer's budget
+- Get the customer's preferred location
+- Get the customer's dates of stay
+- Find a hotel that meets the customer's criteria
+- Book the hotel for the customer
+- Get the reference number for the booking
+- Offer additional assistance, if needed

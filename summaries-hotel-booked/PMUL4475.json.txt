@@ -1,0 +1,13 @@
+
+
+- Find out customer's location preference
+- Find out customer's star rating preference
+- Find out customer's free wifi preference
+- Ask if customer needs help making a reservation
+- If yes, ask for dates and number of people in the party
+- Make the reservation and provide the customer with a reference number
+- Ask if customer needs help finding a restaurant
+- If yes, make a recommendation
+- Make a reservation for the restaurant and provide the customer with a reference number
+- Ask if customer needs help booking a taxi
+- If yes, provide the customer with the contact information for the taxi service

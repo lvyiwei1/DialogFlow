@@ -1,0 +1,7 @@
+
+
+1. Getting the customer's preferences for the type of hotel they want.
+
+2. Finding moderate priced hotels that match the customer's preferences in the east.
+
+3. Giving the customer the phone number, address, and postcode for the recommended hotel.

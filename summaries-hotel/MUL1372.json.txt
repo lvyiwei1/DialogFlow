@@ -1,0 +1,11 @@
+
+
+1. Ask what type of hotel they are looking for.
+2. Ask if they have a preferred location.
+3. Ask if they have a preferred price range.
+4. Ask if they have any other preferences.
+5. Based on the preferences, provide a list of options.
+6. Ask the customer to choose an option.
+7. Ask for contact information.
+8. Ask for credit card information.
+9. Book the hotel.

@@ -1,0 +1,6 @@
+
+
+1. Find the hotel.
+2. Book the room.
+3. Get the reference number.
+4. Enjoy the stay!

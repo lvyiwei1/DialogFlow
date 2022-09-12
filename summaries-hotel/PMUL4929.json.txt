@@ -1,0 +1,7 @@
+
+
+1. Get specific requirements from the customer.
+
+2. Find a hotel that meets the customer's requirements.
+
+3. Book a room at the hotel.

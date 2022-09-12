@@ -1,0 +1,6 @@
+
+
+1. Find hotels that match customer's preferences
+2. Give customer the address and name of the hotel
+3. Ask if customer would like to book a room
+4. If yes, book the room and give customer the reference number

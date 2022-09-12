@@ -1,0 +1,6 @@
+
+
+1. Customer expresses need for a hotel.
+2. Service suggests a hotel that meets the customer's needs.
+3. Customer makes a reservation for the hotel.
+4. Service confirms the reservation.

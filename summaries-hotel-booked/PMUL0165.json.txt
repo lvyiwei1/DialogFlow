@@ -1,0 +1,7 @@
+
+
+1. Gather customer information (e.g. location, number of people, time, etc.)
+2. Make a hotel booking based on the customer information
+3. Confirm the booking with the customer
+4. Give the customer the reference number for the booking
+5. If necessary, book a taxi for the customer

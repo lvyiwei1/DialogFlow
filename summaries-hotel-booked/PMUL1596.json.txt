@@ -1,0 +1,8 @@
+
+
+1. Determine dates of stay
+2. Number of people staying
+3. Price range
+4. Find available hotels
+5. Book hotel
+6. Get reference number

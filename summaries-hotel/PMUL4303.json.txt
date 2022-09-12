@@ -1,0 +1,8 @@
+
+
+1. Get the customer's name, contact information, and credit card number.
+2. Choose the hotel the customer wants to stay at.
+3. Choose the dates the customer wants to stay.
+4. Choose the number of people the customer wants to book the hotel for.
+5. Choose the type of room the customer wants.
+6. Send the customer a confirmation email.

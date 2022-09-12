@@ -1,0 +1,11 @@
+
+
+1. Ask what type of hotel the customer is looking for.
+2. Ask the customer's price range.
+3. Ask the customer's preferred amenities.
+4. Ask the customer's dates of travel.
+5. Ask the customer's number of travelers.
+6. Book the hotel for the customer.
+7. Give the customer the reference number.
+8. Ask if there is anything else the customer needs.
+9. Thank the customer and say goodbye.

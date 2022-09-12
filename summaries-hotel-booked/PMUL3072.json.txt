@@ -1,0 +1,5 @@
+
+
+1. Finding a hotel in the customer's desired location
+2. Checking the hotel's availability for the customer's desired dates
+3. Booking the hotel for the customer

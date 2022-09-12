@@ -1,0 +1,10 @@
+
+
+1. The customer indicates they are looking for a hotel room with free parking.
+2. The customer is asked if they have a preferred area.
+3. The customer is asked if they have a preferred price range.
+4. The customer is asked when they will need the room.
+5. The customer is asked how many people will be staying in the room.
+6. The customer is asked to provide contact information.
+7. The customer is given a reference number for their booking.
+8. The customer is thanked for using the service.

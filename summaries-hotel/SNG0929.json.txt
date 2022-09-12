@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+2. Ask the customer if they have a preferred location.
+3. Ask the customer if they have any other requirements.
+4. Find a hotel that meets the customer's needs.
+5. Ask the customer if they would like to book the hotel.
+6. If the customer would like to book the hotel, ask for the number of guests and the number of nights.
+7. Make the hotel reservation.

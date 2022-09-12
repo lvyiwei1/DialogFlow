@@ -1,0 +1,8 @@
+
+
+1. Asking the customer if they need help
+2. Asking the customer what kind of hotel they are looking for
+3. Finding a hotel that meets the customer's needs
+4. Booking the hotel for the customer
+5. Giving the customer the contact information for the hotel
+6. Thanking the customer for using the service

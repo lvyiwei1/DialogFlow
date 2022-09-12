@@ -1,0 +1,11 @@
+
+
+1. Get the customer's name, contact information, and credit card number.
+
+2. Choose the dates of the stay, the number of nights, and the number of people.
+
+3. Choose the type of room and price range.
+
+4. Choose the amenities that are important to the customer.
+
+5. Make the reservation and give the customer the reference number.

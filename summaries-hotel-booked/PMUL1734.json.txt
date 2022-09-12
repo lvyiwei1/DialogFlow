@@ -1,0 +1,6 @@
+
+
+1. Determine where the customer would like to stay.
+2. Find hotels in the area that meet the customer's criteria.
+3. Book the hotel for the customer.
+4. Thank the customer for their business.

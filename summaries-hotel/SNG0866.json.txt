@@ -1,0 +1,7 @@
+
+
+Inquire about the customer's budget
+Inquire about the customer's location preferences
+Inquire about the customer's WiFi needs
+Inquire about the customer's parking needs
+Book the hotel room for the customer

@@ -1,0 +1,9 @@
+
+
+1. Ask customer if they have any specificrequirements for their stay.
+
+2. If the customer does have specific requirements, find hotels that match those requirements.
+
+3. Once the customer has selected a hotel, book the room for them.
+
+4. If the customer has any other questions, try to answer them.

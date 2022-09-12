@@ -1,0 +1,12 @@
+
+
+
+1. Identifying what kind of information the customer is looking for.
+
+2. Identifying what the customer's budget is for the stay.
+
+3. Identifying what the customer's preferences are for the stay.
+
+4. Finding a hotel that matches the customer's preferences and budget.
+
+5. Booking the hotel for the customer.

@@ -1,0 +1,7 @@
+
+
+1. Determine customer needs
+2. Find available hotels that meet customer needs
+3. Book the hotel
+4. Confirm the booking
+5. Provide additional information (e.g. taxi service)

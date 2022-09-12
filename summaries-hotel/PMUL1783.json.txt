@@ -1,0 +1,8 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+2. Ask the customer if there are any specific amenities they are looking for.
+3. Ask the customer what their budget is for the hotel.
+4. Find a hotel that meets the customer's needs and budget.
+5. Book the hotel for the customer.
+6. Thank the customer for using the service.

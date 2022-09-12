@@ -1,0 +1,10 @@
+
+
+
+1. Gather the necessary information from the customer, including the hotel name, desired amenities, and contact information.
+
+2. Find the hotel in the specified location.
+
+3. Determine the cost of the hotel room and any additional amenities.
+
+4. Make the reservation for the customer and provide them with the contact information for the hotel.

@@ -1,0 +1,13 @@
+
+
+1. Find out what kind of hotel the customer is looking for.
+
+2. Ask the customer for their desired location.
+
+3. Suggest an expensive hotel that meets the customer's needs.
+
+4. If the customer is not interested in an expensive hotel, suggest a moderate hotel.
+
+5. Give the customer the contact information for the hotel.
+
+6. Book the hotel for the customer.

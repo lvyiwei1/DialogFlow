@@ -1,0 +1,11 @@
+
+
+1. Ask the customer for their specifications for the hotel, including price range, star rating, and amenities.
+
+2. Find hotels that meet the customer's specifications.
+
+3. Ask the customer if they would like to reserve a room at one of the hotels.
+
+4. If the customer does want to reserve a room, provide them with the details of the room, including the price, and ask them to confirm the reservation.
+
+5. Thank the customer and provide them with any additional information they may need, such as the address and postcode of the hotel.

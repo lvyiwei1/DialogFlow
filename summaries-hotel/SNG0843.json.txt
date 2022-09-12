@@ -1,0 +1,8 @@
+
+
+1. The customer contacts the Cambridge TownInfo Centre.
+2. The customer asks for a recommended guesthouse in the moderate price range.
+3. The TownInfo Centre recommends the Acorn guesthouse.
+4. The customer asks for the phone number of the guesthouse.
+5. The TownInfo Centre provides the phone number.
+6. The customer decides whether to book a room.

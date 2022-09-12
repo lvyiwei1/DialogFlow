@@ -1,0 +1,7 @@
+
+
+1. Ask for customer preferences including dates, number of people in party, price range, location, and type of accommodation.
+2. Search for options that meet the customer's preferences.
+3. Book the reservation for the customer.
+4. Give the customer the reference number for the reservation.
+5. If necessary, help the customer book transportation to and from the hotel.

@@ -1,0 +1,16 @@
+
+
+
+1. Find out what the customer is looking for in a hotel.
+
+2. Find out the price range the customer is willing to pay.
+
+3. Find out the location the customer wants to stay in.
+
+4. Find out the star rating the customer is looking for.
+
+5. Find out if the hotel has internet and/or free parking.
+
+6. Give the customer information about the hotel, including the address, phone number, and entrance fee.
+
+7. Ask if the customer needs any further assistance.

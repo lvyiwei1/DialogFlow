@@ -1,0 +1,8 @@
+
+
+-Determine the customer's location.
+-Determine the customer's preferred type of accommodation.
+-Determine the customer's budget.
+-Find accommodations that match the customer's criteria.
+-Make a reservation for the customer.
+-Provide the customer with the confirmation details.

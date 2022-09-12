@@ -1,0 +1,9 @@
+ 
+
+Help the customer find a hotel that meets their needs by providing information about the hotel's location, price, and star rating.
+
+Make a reservation for the customer at their chosen hotel.
+
+Book a taxi for the customer to travel from their hotel to the museum, and provide the customer with the taxi's contact information.
+
+Provide the customer with the postcode for the museum.

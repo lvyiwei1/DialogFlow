@@ -1,0 +1,9 @@
+
+
+1. Ask if the customer needs help finding a hotel room for their upcoming visit.
+2. If yes, ask if they have any preferences for location, price, or amenities.
+3. Based on the customer's preferences, recommend several hotels or a guesthouse.
+4. Ask if the customer would like to book a room at one of the recommended hotels or guesthouses.
+5. If the customer would like to book a room, confirm the details of the room and book it.
+6. Give the customer the address and contact information for the hotel or guesthouse.
+7. Thank the customer for using the service.

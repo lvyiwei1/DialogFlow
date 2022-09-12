@@ -1,0 +1,11 @@
+
+
+1. Finding a place to stay in a moderate price range with a star rating of 3.
+
+2. Booking a room for 8 people for 5 nights starting from Monday.
+
+3. Getting the reference number for the booking.
+
+4. Providing information about a concert hall in the area.
+
+5. Giving the phone number and address for the concert hall.

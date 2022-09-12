@@ -1,0 +1,6 @@
+
+
+1. Asking the customer what type of hotel they are looking for.
+2. Checking for availability of the hotel.
+3. Booking the hotel for the customer.
+4. Giving the customer information about attractions in the area.

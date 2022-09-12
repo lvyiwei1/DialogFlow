@@ -1,0 +1,6 @@
+
+
+1. Ask whether the customer has a preferred price range.
+2. Recommend a hotel within the customer's preferred price range.
+3. Verify that the hotel includes free wifi.
+4. Give the customer the contact information for the hotel.

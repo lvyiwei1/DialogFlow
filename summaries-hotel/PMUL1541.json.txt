@@ -1,0 +1,11 @@
+
+
+1. Get the customer's name.
+2. Get the customer's contact information.
+3. Get the customer's desired travel dates.
+4. Get the customer's desired room type.
+5. Get the customer's desired number of rooms.
+6. Book the customer's reservation.
+7. Get the customer's credit card information.
+8. Charge the customer's credit card.
+9. Send the customer a confirmation email.

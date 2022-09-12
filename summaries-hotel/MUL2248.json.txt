@@ -1,0 +1,9 @@
+
+
+1. Ask the customer for their desired location.
+
+2. Ask the customer if they have any preferences for their accommodations.
+
+3. If the customer is looking for a specific hotel, provide information about that hotel.
+
+4. Make a reservation for the customer if they are interested.

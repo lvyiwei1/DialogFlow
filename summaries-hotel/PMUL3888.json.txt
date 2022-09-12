@@ -1,0 +1,9 @@
+
+
+1. Ask customer for preferences regarding the hotel (location, price range, type of room, etc)
+
+2. Based on the preferences, find a list of matching hotels
+
+3. Ask the customer to choose a specific hotel from the list
+
+4. Make a reservation for the customer at the chosen hotel

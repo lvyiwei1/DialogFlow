@@ -1,0 +1,15 @@
+
+
+1. Asking the customer what type of accommodation they are looking for.
+
+2. Asking the customer if they have a preference for a particular area of town.
+
+3. Asking the customer how many people will be staying in the accommodation.
+
+4. Asking the customer what dates they will be needing the accommodation.
+
+5. Booking the accommodation for the customer.
+
+6. Giving the customer the reference number for their booking.
+
+7. Asking the customer if they need help with anything else.

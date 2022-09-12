@@ -1,0 +1,13 @@
+
+
+
+
+1. Ask the customer what type of hotel they are looking for.
+
+2. Ask the customer how much they are willing to spend on a hotel.
+
+3. Find a hotel that meets the customer's needs and budget.
+
+4. Provide the customer with the address and contact information for the hotel.
+
+5. Book a taxi for the customer to get to the hotel.

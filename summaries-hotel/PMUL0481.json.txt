@@ -1,0 +1,7 @@
+
+
+-Inquire about the customer's desired location
+-Make recommendations based on the customer's requirements
+- Succeed in making the booking
+- Provide the customer with the reference number for the booking
+- Confirm details of the taxi booking

@@ -1,0 +1,7 @@
+
+
+1. Ask customer what type of hotel they are looking for.
+2. Ask customer if they have a preference for price.
+3. Ask customer how many people are in their party.
+4. Ask customer what their arrival day is and how many nights they will be staying.
+5. Ask if there is anything else the customer needs help with.

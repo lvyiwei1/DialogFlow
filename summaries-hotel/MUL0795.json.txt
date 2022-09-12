@@ -1,0 +1,9 @@
+
+
+1. Ask the customer where they would like to stay.
+2. Tell the customer the location of the hotel.
+3. Ask the customer if they would like to book a room.
+4. If the customer does not yet want to book a room, provide them with the hotel's address and postcode.
+5. If the customer does want to book a room, provide them with available dates and room types.
+6. Confirm the booking with the customer.
+7. Thank the customer for using the service.

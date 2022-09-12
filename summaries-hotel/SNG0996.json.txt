@@ -1,0 +1,5 @@
+
+
+1. Ask the customer what they need to know about the hotel.
+2. Provide the customer with the requested information.
+3. Thank the customer for their inquiry.

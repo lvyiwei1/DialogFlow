@@ -1,0 +1,6 @@
+
+
+1. Ask the customer what their budget is for per night.
+2. Suggest hotel options that are available within the budget.
+3. Ask the customer for the address they would like to stay at.
+4. Book the hotel for the customer.

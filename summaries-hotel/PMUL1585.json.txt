@@ -1,0 +1,10 @@
+
+
+1. Ask customer what their budget is for the hotel.
+2. Ask customer what their preferred location is for the hotel.
+3. Ask customer how many people will be staying in the hotel room.
+4. Ask customer what dates they will need the hotel room.
+5. Ask customer if they have any other specific needs or requirements for the hotel room.
+6. Based on the customer's answers, suggest a few appropriate hotels.
+7. Ask the customer to choose a hotel.
+8. Book the hotel room for the customer.

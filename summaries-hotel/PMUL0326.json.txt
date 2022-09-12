@@ -1,0 +1,8 @@
+
+
+1. Choose a hotel based on the customer's needs
+2. Choose a room type
+3. Choose a rate
+4. Choose a date
+5. Enter the customer's information
+6. Complete the booking

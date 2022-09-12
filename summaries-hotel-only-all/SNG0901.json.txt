@@ -1,0 +1,6 @@
+
+
+1. The customer gives their budget and requirements for their stay.
+2. The service provider gives the customer options that match their budget and requirements.
+3. The customer chooses an option and the service provider reserves the room.
+4. The service provider gives the customer the reference number for their reservation.

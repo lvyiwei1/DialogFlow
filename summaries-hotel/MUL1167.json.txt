@@ -1,0 +1,13 @@
+
+
+1) Ask customer what type of guesthouse they are looking for (e.g. price range, star rating, location, etc.)
+
+2) Identify three locations that match the customer's criteria.
+
+3) Ask the customer if they have a particular price range or star rating in mind.
+
+4) Make a reservation for the customer at the chosen guesthouse.
+
+5) Ask the customer if they need any additional information or assistance.
+
+6) Thank the customer and goodbye.

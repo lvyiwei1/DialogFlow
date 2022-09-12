@@ -1,0 +1,6 @@
+
+
+1. Determine what the customer is looking for in a hotel.
+2. Make suggestions for hotels that meet the customer's needs.
+3. Book the hotel for the customer.
+4. Get a taxi for the customer from their current location to the hotel.

@@ -1,0 +1,9 @@
+
+
+1. The customer contacts the service to make a booking.
+2. The service asks the customer how many nights they would like to stay.
+3. The customer tells the service the dates they will be staying.
+4. The service asks how many people will be staying.
+5. The customer tells the service how many people will be staying.
+6. The service confirms the booking and provides a reference number.
+7. The customer thanks the service.

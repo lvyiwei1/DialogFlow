@@ -1,0 +1,7 @@
+
+
+1) Asking for the customer's preferences in regards to location, star rating, and type of accommodation.
+
+2) Narrowing down the options based on the customer's preferences.
+
+3) Booking the room for the customer.

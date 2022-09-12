@@ -1,0 +1,8 @@
+
+
+1. Get customer's requirements
+2. Search for options that match customer's requirements
+3. Give customer options to choose from
+4. Book hotel for customer
+5. Get additional information from customer as needed
+6. Thank customer

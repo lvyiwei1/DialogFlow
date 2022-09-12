@@ -1,0 +1,7 @@
+
+
+1. Find out what dates the customer is interested in staying.
+2. Find out what type of room the customer wants.
+3. Find a hotel that meets the customer's requirements.
+4. Book the hotel for the customer.
+5. Arrange for a taxi to pick the customer up from the hotel.

@@ -1,0 +1,6 @@
+
+
+1. Ask customer for the name of the desired hotel.
+2. Look up the hotel and see if it has available rooms for the desired dates.
+3. If rooms are available, help customer book the room(s).
+4. Ask customer if they need help with anything else.

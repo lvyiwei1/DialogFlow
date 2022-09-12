@@ -1,0 +1,7 @@
+
+
+1. Determine customer's needs
+2. Offer hotel options that meet customer's needs
+3. Book hotel for customer
+4. Provide customer with relevant information about their booking (e.g. star rating, postcode)
+5. Thank customer for their business

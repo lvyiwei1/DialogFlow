@@ -1,0 +1,6 @@
+
+
+1. Ask the customer which hotel they are looking for.
+2. Ask the customer what their price range is.
+3. Find a hotel that meets the customer's needs and provide the customer with the hotel's contact information.
+4. Book a taxi for the customer to travel between the hotel and the restaurant.

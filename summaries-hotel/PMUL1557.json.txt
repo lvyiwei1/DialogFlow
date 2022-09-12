@@ -1,0 +1,6 @@
+
+
+1. Ask the customer if they need help booking a hotel room.
+2. If the customer does need help, ask them for their preferences in terms of location, star rating, and amenities.
+3. Use this information to recommend one or more hotels to the customer.
+4. Once the customer has selected a hotel, provide them with the contact information so they can book the room themselves.

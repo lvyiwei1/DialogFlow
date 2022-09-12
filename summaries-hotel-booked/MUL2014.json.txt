@@ -1,0 +1,9 @@
+
+
+1. Ask customer what type of property they are looking for.
+2. Ask customer what their budget is.
+3. Ask customer what their preferred location is.
+4. Ask customer what dates they are looking to stay.
+5. Ask customer how many people will be staying.
+6. Make a booking for the customer.
+7. Provide the customer with a reference number.

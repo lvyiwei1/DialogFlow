@@ -1,0 +1,9 @@
+
+
+1. Determine the customer's preferences, including location, type of attraction, and amenities.
+
+2. Suggest attractions or hotels that meet the customer's preferences.
+
+3. Provide the contact information for the attractions or hotels.
+
+4. Confirm that the customer is satisfied with the suggestions.

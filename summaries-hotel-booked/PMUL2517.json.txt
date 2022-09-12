@@ -1,0 +1,5 @@
+
+
+1. Asking customer what kind of hotel they are looking for
+2. Narrowing down hotel options based on customer's preferences
+3. Booking the hotel for the customer

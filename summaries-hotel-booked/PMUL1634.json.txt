@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's preferred location and type of accommodation.
+2. Ask the customer if they have any specific requirements for their stay.
+3. Make recommendations based on the customer's needs.
+4. Check availability and make a booking if required.
+5. Give the customer a reference number for their booking.

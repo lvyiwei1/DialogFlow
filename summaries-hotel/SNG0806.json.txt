@@ -1,0 +1,15 @@
+
+
+1. Finding hotels on the north side of town – 13 hotels
+
+2. Finding a 4 star hotel that doesn’t need to include internet – 8 hotels
+
+3. Recommending the Acorn Guest House
+
+4. Providing the phone number
+
+5. Providing the hotel type and price range
+
+6. Confirming that the hotel has wifi
+
+7. Making a reservation (optional)

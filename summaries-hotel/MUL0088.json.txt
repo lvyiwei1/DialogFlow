@@ -1,0 +1,8 @@
+
+
+1. Find out customer's needs
+2. Find hotels that match customer's needs
+3. Tell customer about the hotel options
+4. Make a hotel reservation
+5. Book a taxi to the hotel
+6. Give customer hotel information

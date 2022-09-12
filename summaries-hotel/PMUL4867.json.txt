@@ -1,0 +1,5 @@
+
+
+1. Get customer requirements
+2. Find a hotel that meets customer requirements
+3. Make a booking for the customer

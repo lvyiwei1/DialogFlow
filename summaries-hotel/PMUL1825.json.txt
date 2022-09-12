@@ -1,0 +1,7 @@
+
+
+1. Ask what kind of information the customer is looking for.
+2. Give the customer basic information about the hotel.
+3. Ask if the customer would like more information or if they would like to book a room.
+4. If the customer would like to book a room, ask for their contact information and credit card information.
+5. Book the room for the customer and give them a confirmation number.

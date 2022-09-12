@@ -1,0 +1,5 @@
+
+
+1. Ask the customer how many people will be staying and for how many nights.
+2. Book the customer's stay at the hotel.
+3. Thank the customer for using the service.

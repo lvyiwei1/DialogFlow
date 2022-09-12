@@ -1,0 +1,9 @@
+
+
+1. Ask the customer where they would like to stay.
+2. Ask the customer what type of accommodation they are looking for.
+3. Ask the customer if they have any preferences for their stay.
+4.Recommend a few different options to the customer.
+5. Ask the customer if they would like to book one of the recommended options.
+6. If the customer would like to book, help them with the booking process.
+7. Thank the customer for calling.

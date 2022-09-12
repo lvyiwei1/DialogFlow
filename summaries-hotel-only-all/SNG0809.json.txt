@@ -1,0 +1,7 @@
+
+
+1. The customer expresses a need for a hotel room with free wifi.
+2. The service representative provides a list of options that meet the customer's needs.
+3. The customer narrows down the options by requesting a specific star rating.
+4. The service representative books the customer's room.
+5. The customer expresses gratitude.

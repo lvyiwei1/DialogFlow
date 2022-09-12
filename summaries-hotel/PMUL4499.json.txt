@@ -1,0 +1,11 @@
+
+
+1. Choose the location
+2. Choose the type of food
+3. Choose the price range
+4. Choose the number of people
+5. Choose the number of nights
+6. Choose the date
+7. Choose the time
+8. Choose the car type
+9. Choose the contact number

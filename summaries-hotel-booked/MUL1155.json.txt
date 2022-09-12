@@ -1,0 +1,15 @@
+
+
+1. Get the customer's price range.
+
+2. Get the customer's desired amenities.
+
+3. Choose a guesthouse that fits the customer's needs.
+
+4. Book the room for the customer.
+
+5. Provide the customer with the reference number for the booking.
+
+6. Book a taxi for the customer.
+
+7. Provide the customer with the contact information for the taxi.

@@ -1,0 +1,11 @@
+
+
+1. Customer initiates contact with service.
+2. Service confirms customer's desired destination and details.
+3. Service checks for availability and makes a booking if possible.
+4. Service provides customer with confirmation details.
+5. Customer expresses need for further assistance.
+6. Service provides recommended entertainment options.
+7. Service makes taxi arrangements if requested.
+8. Customer expresses satisfaction and asks no further questions.
+9. Service ends interaction.

@@ -1,0 +1,7 @@
+
+
+Asking for the customer's preferred location, price range, and number of guests.
+
+Searching for places that match the customer's preferences.
+
+Giving the customer the option to book a room.

@@ -1,0 +1,19 @@
+
+
+The steps for booking a hotel are as follows:
+
+1. Hello, I'm looking for some information about places to stay in Cambridge. I would like to know the most inexpensive price range located to the north.
+
+2. There are 2 guesthouses in the area I recommend worth house, would you like me to book that?
+
+3. Does that have free wifi?
+
+4. Yes, both options have free wifi. Worth House has four stars and is really quite nice. Would that work for you?
+
+5. That sounds like a great choice.
+
+6. What day would you like to reserve? How many days will you be staying and how many people will be staying in the reserved room?
+
+7. I would like the phone number, postcode, and star of the hotel
+
+8. Worth House has a 4-star rating and their postcode is cb41da. They can be reached by phone at

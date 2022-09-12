@@ -1,0 +1,6 @@
+
+
+1. Identify the customer's needs.
+2. Find hotels that match the customer's needs.
+3. Give the customer information about the hotel, such as the address and postcode.
+4. Ask the customer if they need any other assistance.

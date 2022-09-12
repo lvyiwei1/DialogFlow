@@ -1,0 +1,9 @@
+
+
+1. The customer explains what they are looking for, in this case a guesthouse in the central area near Cambridge University Botanic Gardens.
+
+2. The customer gives additional specifications, such as a zero star rating and requesting information on the price range and whether the guesthouse offers free parking.
+
+3. The service provides the customer with the relevant information, in this case the postcode, price range and whether the guesthouse offers free parking.
+
+4. The customer thanks the service and confirms they have everything they need.

@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what price range they are looking in.
+2. Ask the customer what night they will be checking in.
+3. Ask the customer how many people will be attending.
+4. Book the hotel for the customer.
+5. Get the entrance fee for the customer.

@@ -1,0 +1,6 @@
+
+
+1. Get the customer's contact information.
+2. Ask the customer what kind of room they need.
+3. Ask the customer for the dates of their stay.
+4. Book the room for the customer.

@@ -1,0 +1,7 @@
+
+
+1. Ask for the name of the hotel the customer is looking for.
+2. Provide information about the hotel, including its star rating, location, and price range.
+3. Ask the customer for the number of guests and the length of their stay.
+4. Book the hotel reservation and provide the customer with a reference number.
+5. Contact the customer if they need help with anything else.

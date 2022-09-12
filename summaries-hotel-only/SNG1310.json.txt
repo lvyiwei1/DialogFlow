@@ -1,0 +1,7 @@
+
+
+1. Finding a hotel that offers free wifi
+2. Finding a hotel in the east
+3. Finding a hotel with free parking
+4. Booking a room at the hotel
+5. Providing the customer with the reference number for the booking

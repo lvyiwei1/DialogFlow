@@ -1,0 +1,8 @@
+
+
+-Greet the customer 
+-Determine the customer's needs 
+-Offer options to the customer 
+-Make the reservation 
+-Provide the customer with a reference number 
+-Thank the customer

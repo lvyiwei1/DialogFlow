@@ -1,0 +1,11 @@
+
+
+1. The customer service representative should ask the customer which area they would like to stay in.
+
+2. The customer service representative should ask the customer their preferred price range.
+
+3. The customer service representative should ask the customer their preferred hotel amenities.
+
+4. The customer service representative should provide the customer with a list of available hotels that meet their preferences.
+
+5. The customer service representative should provide the customer with the contact information and car type for their taxi.

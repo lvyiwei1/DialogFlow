@@ -1,0 +1,6 @@
+
+
+1) Ask the customer what dates they need the hotel for.
+2) Ask the customer if they have a preferred hotel.
+3) Book the hotel for the customer.
+4) Get the reference number for the customer.

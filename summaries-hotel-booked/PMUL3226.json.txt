@@ -1,0 +1,13 @@
+
+
+1. Ask the customer if they would like the hotel to be in the same area as the attraction.
+
+2. If they do, recommend the University Arms Hotel.
+
+3. Ask the customer if they would like to make a booking.
+
+4. If they do, complete the booking and provide them with the reference number.
+
+5. Ask the customer if they would like a taxi from the theatre to the hotel.
+
+6. If they do, book the taxi and provide them with the contact number.

@@ -1,0 +1,9 @@
+
+
+1. Ask the customer if they have any preference in terms of price or location.
+
+2. Ask the customer how many nights they plan on staying.
+
+3. Make a booking at the chosen hotel and give the customer the reservation details.
+
+4. Give the customer the address and phone number of the hotel.

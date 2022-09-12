@@ -1,0 +1,6 @@
+
+
+1. The customer contacts the service desk and requests information on the Bridge Guest House.
+2. The service desk agent provides information on the hotel, including rates and amenities.
+3. The customer decides to book a room at the hotel and provides the necessary information to the service desk agent.
+4. The service desk agent books the room and provides the customer with a reference number.

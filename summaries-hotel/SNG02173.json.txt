@@ -1,0 +1,10 @@
+
+
+In order to help a customer book a hotel, you would need to ask them some questions in order to better understand their needs. Some key questions could include:
+
+-Are you looking for a specific type of hotel?
+-Do you have any preferences in terms of location?
+-What is your budget?
+-Would you like me to provide some recommendations?
+
+After understanding the customer's needs, you can then provide them with some specific hotel options that fit their criteria. Once the customer has chosen a hotel, you can then help them with the booking process.

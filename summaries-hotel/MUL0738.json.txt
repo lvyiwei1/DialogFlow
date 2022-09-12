@@ -1,0 +1,9 @@
+
+
+1. Get customer's location preferences
+2. Get customer's budget preferences
+3. Get customer's star rating preferences
+4. Find hotels that match the customer's preferences
+5. Give the customer the option to book the hotel themselves or book it for them
+6. If the customer books the hotel themselves, give them the contact information for the hotel
+7. If the customer wants the hotel to be booked for them, make the necessary arrangements

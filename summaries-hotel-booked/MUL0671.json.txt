@@ -1,0 +1,7 @@
+
+
+1. Ask how many people will be staying and for how many nights.
+2. Ask what part of town they would like to stay in.
+3. Suggest a hotel that meets their needs.
+4. Book the hotel for the customer.
+5. Give the customer a reference number for their booking.

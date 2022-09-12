@@ -1,0 +1,6 @@
+
+
+1. Ask the customer if they have a preference for the location of their hotel.
+2. Find a hotel that meets the customer's requirements in terms of price, amenities, and location.
+3. Provide the customer with the contact information for the hotel.
+4. Follow up to ensure that the customer is satisfied with their experience.

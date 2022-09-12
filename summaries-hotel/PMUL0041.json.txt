@@ -1,0 +1,7 @@
+
+
+1. Ask if they have a price range in mind
+2. Ask if they have a preference for star rating
+3. Ask if they have any other preferences
+4. Make a booking
+5. Book a taxi

@@ -1,0 +1,10 @@
+
+
+1. The customer expresses their need for an expensive hotel with free wifi.
+2. The service provider recommends the University Arms Hotel.
+3. The customer asks for the postcode and star rating of the hotel.
+4. The customer expresses their need for a train on Tuesday around 09:45.
+5. The service provider recommends the 11:35 train.
+6. The customer asks the service provider to book the train for four people.
+7. The service provider books the train and provides the customer with a reference number.
+8. The customer thanks the service provider for their help.

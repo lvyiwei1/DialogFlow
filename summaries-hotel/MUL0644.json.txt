@@ -1,0 +1,9 @@
+
+
+1. The customer tells the service what they need.
+
+2. The service askes the customer for more information to help them narrow down their options.
+
+3. The service provides the customer with options that meet their needs.
+
+4. The customer chooses an option and the service books it for them.

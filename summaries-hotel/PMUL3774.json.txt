@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's dates of stay.
+2. Ask the customer if they have any preferences for location or price.
+3. Recommend a hotel based on the customer's preferences.
+4. Give the customer the hotel's contact information and entrance fee.
+5. If the customer needs transportation, help them book a taxi.

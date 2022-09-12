@@ -1,0 +1,7 @@
+
+
+
+1. Ask for customer preference in price range, location, and type of hotel
+2. Based on customer preferences, recommend a hotel
+3. Book a reservation for the hotel
+4. Book a taxi from the hotel to the restaurant

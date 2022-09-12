@@ -1,0 +1,11 @@
+
+
+
+
+1. Find out which hotel the customer is interested in.
+
+2. Check for availability at the hotel.
+
+3. Book the hotel for the customer.
+
+4. Send the customer a confirmation of the booking.

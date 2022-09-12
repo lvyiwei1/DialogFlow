@@ -1,0 +1,8 @@
+
+
+1. Get the customer's information.
+2. Find hotels that match the customer's needs.
+3. Make a reservation at the chosen hotel.
+4. Give the customer the reference number for the reservation.
+5. If the customer needs a taxi, schedule it and give them the contact information.
+6. Thank the customer and offer additional help if needed.

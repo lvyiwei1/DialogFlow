@@ -1,0 +1,7 @@
+
+
+1. Find a hotel in the customer's desired location that fits their budget.
+
+2. Check if the hotel has available parking.
+
+3. Book the room for the customer and provide them with a reference number.

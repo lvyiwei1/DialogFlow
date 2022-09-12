@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what their budget is for the hotel.
+
+2. Ask the customer what their preferred location is for the hotel.
+
+3. Ask the customer whether they need any specific amenities at the hotel, such as free parking or internet.
+
+4. Find a hotel that meets the customer's needs and book it for them.
+
+5. Give the customer the reference number for their booking.

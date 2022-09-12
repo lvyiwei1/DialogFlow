@@ -1,0 +1,9 @@
+
+
+1. Find out where the customer is staying.
+2. Ask if they are looking for places to go nearby.
+3. If so, provide a list of options.
+4. Ask if the customer is interested in any particular option.
+5. Get more information about the option from the customer.
+6. Find a hotel that meets the customer's needs.
+7. Book the hotel for the customer.

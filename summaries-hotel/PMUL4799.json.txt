@@ -1,0 +1,6 @@
+
+
+1. The customer tells the service their travel dates and destination.
+2. The service provides the customer with available train times and prices.
+3. The customer selects a train and pays for their ticket.
+4. The service helps the customer book a hotel, providing options based on their budget and preferences.

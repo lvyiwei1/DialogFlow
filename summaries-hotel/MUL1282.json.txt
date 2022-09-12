@@ -1,0 +1,7 @@
+
+
+1. Ask if the customer needs a recommendation.
+2. Narrow the search according to the customer's specifications.
+3. Make a reservation for the hotel.
+4. Provide the customer with the reference number.
+5. Thank the customer and say goodbye.

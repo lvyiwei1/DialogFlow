@@ -1,0 +1,15 @@
+
+
+1. Find the customer's desired hotel.
+
+2. Ask the customer what day they would like to stay.
+
+3. Ask the customer how many people will be staying.
+
+4. Ask the customer if they need to book a train.
+
+5. If the customer needs to book a train, ask them which stations they will be traveling between.
+
+6. Ask the customer what time they would like to leave.
+
+7. Provide the customer with the booking information.

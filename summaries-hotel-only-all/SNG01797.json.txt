@@ -1,0 +1,6 @@
+
+
+1. Find out the customer's desired dates of stay.
+2. Ask how many guests will be staying.
+3. Ask for any additional requirements or preferences.
+4. Book the room and provide a reference number.

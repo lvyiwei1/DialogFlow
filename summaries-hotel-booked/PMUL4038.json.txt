@@ -1,0 +1,6 @@
+
+
+1. Finding out the customer's needs - in this case, the customer needs an expensive hotel in the centre of town, with a taxi to take them to the restaurant.
+2. search for hotels that meet the customer's needs - in this case, the Gonville Hotel.
+3. Book the hotel for the customer - in this case, the customer has booked the hotel for 5 nights.
+4.dispatch a taxi to take the customer to the restaurant - in this case, the customer has booked a red Volvo to take them to the restaurant.

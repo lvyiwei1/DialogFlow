@@ -1,0 +1,7 @@
+
+
+1. Ask the customer if they have any specific requirements for their hotel booking, such as price range or preferred location.
+
+2. If the customer has a specific hotel in mind, ask them for more information about the property and whether they would like to make a reservation.
+
+3. Once the customer has confirmed their booking, provide them with the necessary information, such as the hotel's postcode.

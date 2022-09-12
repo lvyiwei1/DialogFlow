@@ -1,0 +1,11 @@
+
+
+In order to help a customer book a hotel, the following steps should be taken:
+
+1. Understand the customer's needs in terms of price, location, amenities, and length of stay.
+
+2. Make recommendations based on the customer's needs.
+
+3. Help the customer book the hotel stay.
+
+4. Provide the customer with the necessary reference information for their booking.

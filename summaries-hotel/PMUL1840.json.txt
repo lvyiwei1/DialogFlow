@@ -1,0 +1,5 @@
+
+
+1. Help customer find a hotel that meets their needs
+2. Make a reservation for the customer
+3. Help customer find transportation to their destination

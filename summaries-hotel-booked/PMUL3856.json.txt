@@ -1,0 +1,9 @@
+
+
+1. Decide on the type of accommodation the customer needs.
+2. Find out the customer's budget for accommodation.
+3. Choose a hotel that meets the customer's needs.
+4. Make a reservation for the customer.
+5. Get the contact information for the hotel.
+6. Give the customer the reservation reference number.
+7. Book a taxi for the customer.

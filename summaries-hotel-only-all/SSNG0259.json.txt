@@ -1,0 +1,10 @@
+
+
+1. The customer contacts the service.
+2. The customer describes what they are looking for in a hotel.
+3. The service looks for hotels that match the customer's criteria.
+4. The service presents the customer with options.
+5. The customer chooses an option.
+6. The service books the hotel for the customer.
+7. The service provides the customer with a reference number.
+8. The customer thanks the service.

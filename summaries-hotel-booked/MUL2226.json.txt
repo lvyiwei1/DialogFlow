@@ -1,0 +1,8 @@
+
+
+- Asking the customer what their preferred price range is 
+- Checking if the customer has any preference in the area of town 
+- finding an available hotel that meets the customer's preferences 
+- Booking the hotel for the customer 
+- Giving the customer a reference number for their booking 
+- Asking the customer if they need anything else

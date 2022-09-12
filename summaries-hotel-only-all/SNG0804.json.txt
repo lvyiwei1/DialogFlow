@@ -1,0 +1,7 @@
+
+
+1. Get the customer's name, contact information, and dates of stay.
+2. Ask if the customer has any specific requirements, such as free wifi or free parking.
+3. Find out if there are any available rooms that match the customer's requirements.
+4. If there are no available rooms, offer alternatives.
+5. Once the customer has decided on a room, confirm the booking and provide a reference number.

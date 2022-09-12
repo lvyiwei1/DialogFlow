@@ -1,0 +1,9 @@
+
+
+1. Obtain the customer's preferences for their stay including dates, length of stay, and number of people.
+
+2. Book the hotel room according to the customer's preferences.
+
+3. If the customer needs help finding entertainment, assist them in finding attractions that match their interests.
+
+4. Provide the customer with relevant information about the attractions, including addresses and phone numbers.

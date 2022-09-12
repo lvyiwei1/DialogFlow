@@ -1,0 +1,9 @@
+
+
+1. Ask customer if they have any preferences on the type of hotel they are looking for.
+2. Ask customer if they have any preferences on the area to stay in.
+3. Ask customer if they have any specific needs.
+4. Ask customer if they would like to make a reservation.
+5. If yes, ask for the customer's name, number of nights, and number of people.
+6. Book the reservation and provide the customer with the reference number.
+7. Ask the customer if they need anything else.

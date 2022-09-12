@@ -1,0 +1,7 @@
+
+
+1. Ask for information about the hotel (name, location, price, etc.)
+2. Ask if they want to book the hotel
+3. If they do, ask for information about their stay (dates, number of nights, etc.)
+4. Book the hotel and give them a reference number
+5. Ask if they need any other assistance

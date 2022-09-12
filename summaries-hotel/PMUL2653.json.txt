@@ -1,0 +1,8 @@
+
+
+1. Get the customer's location.
+2. Select the appropriate hotel.
+3. Get the customer's dates of stay.
+4. Get the number of people staying.
+5. Book the hotel.
+6. Get the taxi information.

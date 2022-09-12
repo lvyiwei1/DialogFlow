@@ -1,0 +1,6 @@
+
+
+1. Ask the customer for the name of the hotel they are trying to find.
+2. Look up the hotel's phone number and give it to the customer.
+3. The customer books the hotel room.
+4. Get the reference number for the customer's booking.

@@ -1,0 +1,7 @@
+ (We will be looking for a list of 5-7 action items)
+
+1. Help customer find hotel options that fit their specifications (price, star rating, location, etc.)
+2. Find customer an available room at their chosen hotel
+3. Book the room for the customer
+4. Give the customer their reference number
+5. Follow up to see if there is anything else the customer needs

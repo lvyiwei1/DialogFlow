@@ -1,0 +1,11 @@
+
+
+1. Ask what kind of accommodation the customer is looking for.
+2. Find out what price range the customer is looking for.
+3. Ask what part of town the customer is interested in staying in.
+4. Ask what dates the customer needs the accommodation for.
+5. Find out how many people will be staying in the accommodation.
+6. Try to book the accommodation that the customer wants.
+7. If the accommodation is not available, try to find similar accommodation that is available.
+8. If the customer is still not able to find available accommodation, try to find accommodation for a different time frame.
+9. Once the accommodation is booked, give the customer the reference number.

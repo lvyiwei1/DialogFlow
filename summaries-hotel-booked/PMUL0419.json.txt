@@ -1,0 +1,7 @@
+
+
+1. Determine what type of guesthouse the customer is looking for.
+2. Give the customer options for guesthouses that meet their needs.
+3. Help the customer book the guesthouse they have chosen.
+4. Help the customer find a restaurant near their guesthouse.
+5. Make a reservation for the customer at the restaurant.

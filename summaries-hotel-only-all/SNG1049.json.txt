@@ -1,0 +1,7 @@
+
+
+1. Asking the customer their preferred price range for the hotel.
+2. Finding out how many people will be staying in the hotel.
+3. Asking the customer if they have any specific requirements for the hotel (location, amenities, etc).
+4. Searching for hotels that match the customer's preferences.
+5. Booking the hotel for the customer.

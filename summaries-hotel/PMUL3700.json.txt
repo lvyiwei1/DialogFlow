@@ -1,0 +1,8 @@
+
+
+1. Ask customer what type of hotel they are looking for.
+2. Ask customer what their budget is.
+3. Ask customer if they have any other specific requirements.
+4. Search for hotels that match the customer's criteria.
+5. Narrow down the results and provide the customer with a few options.
+6. Ask the customer if they would like to book one of the options or if they would like more suggestions.

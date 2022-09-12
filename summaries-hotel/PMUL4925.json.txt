@@ -1,0 +1,6 @@
+
+
+1. Gather customer information (e.g. name of hotel, number of guests, date and time of reservation)
+2. Check availability and make a reservation
+3. Provide customer with reservation details (e.g. reference number, confirmation)
+4. Answer any additional questions the customer may have

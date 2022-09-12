@@ -1,0 +1,7 @@
+
+
+1. Collect customer information (name, number of guests, days of stay)
+2. Find the requested hotel
+3. Give the customer the hotel's information (location, star rating, price)
+4. Book the hotel for the customer
+5. Get a taxi for the customer

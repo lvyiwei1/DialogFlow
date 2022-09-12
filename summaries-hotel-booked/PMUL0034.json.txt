@@ -1,0 +1,9 @@
+
+
+1. Ask customer what type of accommodation they are looking for.
+2. Ask customer if they have a preferred location.
+3. Ask customer if they have a preferred price point.
+4. Ask customer when they will need the accommodation.
+5. Ask customer how many people will be staying.
+6. Book the customer's preferred accommodation.
+7. Send the customer a reference number for their booking.

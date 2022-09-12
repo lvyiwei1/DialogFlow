@@ -1,0 +1,6 @@
+
+
+1. Get customer information including dates of stay, number of people, etc.
+2. Find hotel that meets customer requirements.
+3. Book hotel and get reference number.
+4. Book train to Cambridge.

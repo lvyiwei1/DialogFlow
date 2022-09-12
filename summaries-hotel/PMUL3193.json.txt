@@ -1,0 +1,5 @@
+
+
+1. Identify the customer's needs.
+2. Make recommendations based on those needs.
+3. Help the customer book the recommended hotel.

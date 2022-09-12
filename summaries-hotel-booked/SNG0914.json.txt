@@ -1,0 +1,9 @@
+
+
+1. Ask what kind of hotel the customer is looking for.
+2. Ask when the customer is looking to check in and how many nights they will be staying.
+3. Ask how many people will be staying in the room.
+4. Recommend a hotel that meets the customer's needs.
+5. Book the hotel room for the customer.
+6. Get the reference number for the booking.
+7. Thank the customer.

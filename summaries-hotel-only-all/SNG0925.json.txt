@@ -1,0 +1,7 @@
+
+
+-Determine what the customer needs (in this case, a moderately priced 3-star accomodation)
+-Find available options that fit the customer's needs
+-Get additional information from the customer to make a decision (location preference, internet needs, etc)
+-Make a recommendation
+-Book the hotel

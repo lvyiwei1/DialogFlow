@@ -1,0 +1,6 @@
+
+
+- Finding out what the customer's needs are
+- Recommending a hotel that meets the customer's needs
+- Booking the hotel for the customer
+- Providing the customer with the reference number for their booking

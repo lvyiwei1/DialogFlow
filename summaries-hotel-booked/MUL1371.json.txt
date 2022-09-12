@@ -1,0 +1,7 @@
+
+
+1. Get the customer's desired location, star rating, and price range for their hotel.
+2. Find a hotel that meets the customer's specifications.
+3. Book the hotel for the customer.
+4. Get the customer's desired taxi time.
+5. Book the taxi for the customer.

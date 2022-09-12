@@ -1,0 +1,11 @@
+
+
+1. Ask customer for preferred location.
+2. Ask customer for preferred price range.
+3. Ask customer for preferred amenities.
+4. Find available hotels that match customer's preferences.
+5. Offer available hotel options to customer.
+6. Have customer choose preferred hotel option.
+7. Book hotel for customer.
+8. Provide reference code to customer.
+9. Thank customer and bid farewell.

@@ -1,0 +1,6 @@
+
+
+1. Asking the customer which area they would like to stay in
+2. suggesting the Acorn guest house
+3. booking rooms for the customer
+4. providing the reference number for the reservation

@@ -1,0 +1,6 @@
+
+
+1. Ask the customer what area they would like to stay in.
+2. Find a hotel in the customer's desired area that meets their needs (price range, amenities, etc.).
+3. Book the hotel for the customer.
+4. Assist with anything else the customer needs (i.e. taxis, directions, etc.).

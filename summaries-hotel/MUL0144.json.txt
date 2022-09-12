@@ -1,0 +1,7 @@
+
+
+1. Ask what area of town the customer would prefer.
+2. Ask what price range the customer would prefer.
+3. Make a recommendation based on the customer's preferences.
+4. Ask if the customer would like to book the recommended hotel.
+5. If the customer does want to book the hotel, proceed to do so. If not, ask if there is anything else the customer needs.

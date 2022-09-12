@@ -1,0 +1,8 @@
+
+
+1. Ask what the customer's budget is for their hotel stay.
+2. Ask what specific location the customer would like to stay in. 
+3. Ask if the customer has any other specific requests for their stay.
+4. Find hotels that match the customer's budget and location.
+5. Ask the customer to confirm their booking and provide payment information.
+6. Send the customer a confirmation email or text.

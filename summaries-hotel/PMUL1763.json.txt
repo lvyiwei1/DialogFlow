@@ -1,0 +1,9 @@
+
+
+1. Inquire about the customer's desired price range, star rating, and preferred amenities for their stay.
+
+2. Make recommendations based on the customer's stated preferences.
+
+3. Book the hotel for the customer, and provide them with a reference number.
+
+4. If applicable, assist the customer with booking tickets for their onward journey.

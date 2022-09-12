@@ -1,0 +1,8 @@
+
+
+1. Ask the customer what their budget is for the hotel.
+2. Get clarification on the number of people who will be staying in the hotel room.
+3. Ask the customer what their preferred amenities are.
+4. Choose a hotel that fits the customer's budget and preferences.
+5. Ask the customer to confirm the booking details.
+6. Make the reservation.

@@ -1,0 +1,5 @@
+
+
+1. Ask the customer for the name and location of the hotel they are interested in.
+2. Find the contact information for the hotel.
+3. Ask the customer if they have any other questions about the hotel.

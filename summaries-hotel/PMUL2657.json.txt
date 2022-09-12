@@ -1,0 +1,9 @@
+
+
+1. Ask what the customer's specific needs are.
+
+2. Make suggestions based on the customer's needs.
+
+3. Ask if the customer would like help booking.
+
+4. If the customer would like help booking, gather the necessary information and book the hotel.

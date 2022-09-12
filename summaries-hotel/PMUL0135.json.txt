@@ -1,0 +1,8 @@
+
+
+1. Get the customer's location.
+2. Get the customer's budget.
+3. Get the customer's accommodation requirements.
+4. Find a hotel that meets the customer's requirements.
+5. Get the hotel's contact information.
+6. Provide the customer with the hotel's contact information.

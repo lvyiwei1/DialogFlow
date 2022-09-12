@@ -1,0 +1,5 @@
+
+
+1. Ask the customer for their desired dates of stay.
+2. Ask the customer how many nights they would like to stay.
+3. Book the customer's stay and provide them with a reference number.

@@ -1,0 +1,6 @@
+
+
+1. Ask the customer if they have any preferences for the type of hotel they are looking for.
+2. If the customer does not have any preferences, suggest a hotel that meets their needs.
+3. Book the hotel room for the customer.
+4. Find a taxi for the customer to get to their destination.

@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what hotel they are interested in.
+2. Give the customer information about the hotel, such as location, amenities, and price.
+3. Ask the customer if they would like to make a reservation.
+4. If the customer does want to make a reservation, help them do so.
+5. Thank the customer for using the service.

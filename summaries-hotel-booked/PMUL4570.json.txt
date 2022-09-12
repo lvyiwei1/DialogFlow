@@ -1,0 +1,5 @@
+
+
+1. Find a hotel that meets their requirements
+2. Book the hotel
+3. Provide a reference number

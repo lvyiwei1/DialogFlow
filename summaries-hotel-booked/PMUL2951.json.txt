@@ -1,0 +1,7 @@
+
+
+1. Ask for customer's preferences in terms of price, type of accommodation, 
+2. Once the customer has given their preferences, find a suitable hotel that meets their needs
+3. Ask for the customer's arrival date and length of stay
+4. Book the hotel for the customer
+5. Ask if the customer needs any additional help, such as finding an attraction

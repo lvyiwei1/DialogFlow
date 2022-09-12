@@ -1,0 +1,16 @@
+
+
+
+1. The customer initiates the call by asking for help finding a restaurant called Sala Thong.
+
+2. The customer service representative helps the customer by providing information about the restaurant and booking a table for them.
+
+3. The customer then asks for help finding a place to stay with free wifi.
+
+4. The customer service representative helps the customer by providing information about nearby hotels with free wifi and parking.
+
+5. The customer chooses the University Arms Hotel and books a room for 4 nights.
+
+6. The customer service representative confirms the booking and provides the customer with a reference number.
+
+7. The customer thanks the customer service representative and ends the call.

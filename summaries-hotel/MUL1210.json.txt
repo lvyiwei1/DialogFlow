@@ -1,0 +1,6 @@
+
+
+1. Greeting the customer and finding out their need
+2. Recommending the Finch Bed and Breakfast
+3. Booking the hotel for the customer
+4. Finding out if there is anything else the customer needs help with

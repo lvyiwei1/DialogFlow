@@ -1,0 +1,11 @@
+
+
+1. Ask customer if they need help
+2. Ask what type of property the customer is looking for
+3. Ask for the customer's budget
+4. Ask for the customer's location preferences
+5. Ask for the customer's other preferences
+6. Find properties that match the customer's preferences
+7. Ask the customer if they would like to book one of the properties
+8. If the customer would like to book a property, ask for the number of nights they would like to stay and the number of people in their party
+9. Book the property for the customer

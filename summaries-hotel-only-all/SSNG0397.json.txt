@@ -1,0 +1,7 @@
+
+
+1. Ask customer if they have a preferred price range.
+2. Ask customer if they have a preferred location.
+3. Ask customer if they have any preferred amenities.
+4. Find a hotel that meets the customer's preferences.
+5. Make the reservation for the customer.

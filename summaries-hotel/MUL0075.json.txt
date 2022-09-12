@@ -1,0 +1,6 @@
+
+
+1. Define customer need
+2. Find hotels that match customer need
+3. Book chosen hotel
+4. Book taxi to hotel

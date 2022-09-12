@@ -1,0 +1,6 @@
+
+
+1. When would you like to go and what size party will you have?
+2. Do you need parking or internet?
+3. Would you like to book a room?
+4. If the booking is unsuccessful, would you like to find another hotel?

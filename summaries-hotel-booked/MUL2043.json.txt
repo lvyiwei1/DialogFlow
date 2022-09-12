@@ -1,0 +1,7 @@
+
+
+1. Ask if the customer has a preferred check-in day.
+2. If the customer does have a preferred check-in day, book a reservation for that day.
+3. If the customer does not have a preferred check-in day, ask the customer to book a reservation for another day or a shorter stay.
+4. If the customer decides to book a shorter stay, book a reservation for that day.
+5. Thank the customer for their business and goodbye.

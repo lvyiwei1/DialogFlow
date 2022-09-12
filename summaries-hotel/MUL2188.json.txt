@@ -1,0 +1,7 @@
+
+
+1. Asking where the customer is leaving from
+2. Asking when the customer wants to arrive
+3. Helping the customer narrow down their choices based on their preferences
+4. Giving the customer information about the hotels that fit their preferences
+5. Asking if the customer needs help making a reservation

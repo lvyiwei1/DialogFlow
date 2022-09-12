@@ -1,0 +1,7 @@
+
+
+1. Ask if they are looking for a specific hotel. 
+2. If yes, check if the hotel is available. 
+3. If the hotel is available, ask how many nights they would like to stay. 
+4. Book the hotel for the customer. 
+5. Thank the customer and say goodbye.

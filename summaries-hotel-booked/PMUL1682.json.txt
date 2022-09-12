@@ -1,0 +1,7 @@
+
+
+1. Asking the customer for their desired location, price range, and number of guests.
+2. Searching for hotels that meet the customer's specifications.
+3. Providing the customer with a list of available hotels.
+4. Helping the customer select a hotel and making a reservation.
+5. Thanking the customer and providing them with a reference number for their reservation.

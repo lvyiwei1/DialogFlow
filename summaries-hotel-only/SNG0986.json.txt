@@ -1,0 +1,10 @@
+
+
+1. Ask customer what type of hotel they are looking for.
+2. Ask customer for their budget.
+3. Ask customer for their preferred location.
+4. Ask customer for their preferred dates.
+5. Offer customer a hotel that meets their needs.
+6. Ask customer if they would like to book the room.
+7. If booking is unsuccessful, ask customer if they would like to try for another day or a shorter stay.
+8. Successfully book the room for the customer.

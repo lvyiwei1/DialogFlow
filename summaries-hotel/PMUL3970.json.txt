@@ -1,0 +1,9 @@
+
+
+1. Find out what type of hotel the customer is looking for.
+2. Find out what price range the customer is looking for.
+3. Find out if the customer wants any specific amenities.
+4. Find out the customer's preferred location.
+5. Find a hotel that meets the customer's criteria.
+6. Book the hotel for the customer.
+7. Provide the customer with the contact information for the hotel.

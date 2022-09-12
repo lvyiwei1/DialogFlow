@@ -1,0 +1,8 @@
+
+
+1. Ask customer what kind of room they need.
+2. Ask customer how many people will be staying in the room.
+3. Ask customer what dates they need the room for.
+4. Ask customer if they have any specific requests for the room.
+5. Book the room for the customer.
+6. Give the customer the reference number for their booking.

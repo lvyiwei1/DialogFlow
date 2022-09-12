@@ -1,0 +1,5 @@
+
+
+1. Find hotels in the moderate price range.
+2. Ask if the customer needs any additional amenities like free parking or free wifi.
+3. Book the hotel for the customer.

@@ -1,0 +1,6 @@
+
+
+1. Ask the customer what day they would like to arrive.
+2. Enter the customer's information into the booking system.
+3. Give the customer their reference number and tell them the booking was successful.
+4. Thank the customer and say goodbye.

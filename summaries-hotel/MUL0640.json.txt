@@ -1,0 +1,7 @@
+
+
+1. Get the customer's desired location, check-in date, and check-out date.
+2. Ask the customer if they have any preferences for their stay.
+3. Search for hotels that fit the customer's needs and preferences.
+4. Give the customer a list of available hotels and ask them to choose one.
+5. Book the hotel for the customer.

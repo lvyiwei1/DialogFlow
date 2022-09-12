@@ -1,0 +1,9 @@
+
+
+1. The customer provides their location and dates of stay.
+2. The customer provides the number of people staying.
+3. The customer provides their preferred type of room.
+4. The customer provides their contact information.
+5. The customer confirms their booking.
+6. The customer pays for their booking.
+7. The customer is given a reference number for their booking.

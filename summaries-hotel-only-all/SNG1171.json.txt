@@ -1,0 +1,6 @@
+
+
+1. greet the customer and inquire about their needs
+2. ask the customer about their preferred location
+3. recommend a hotel and book it for the customer
+4. provide the customer with the booking reference number

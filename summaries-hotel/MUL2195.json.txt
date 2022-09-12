@@ -1,0 +1,7 @@
+
+
+1. Get customer information: dates, number of people, etc.
+
+2. Find a suitable hotel that meets the customer's needs.
+
+3. Book the hotel for the customer.

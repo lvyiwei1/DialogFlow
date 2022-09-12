@@ -1,0 +1,11 @@
+
+
+1. Asking the customer what they are looking for in a hotel.
+
+2. Showing the customer the available hotels that match their criteria.
+
+3. Asking the customer if they would like to book a room at one of the hotels.
+
+4. Helping the customer with their booking.
+
+5. Follow up with the customer after their stay.

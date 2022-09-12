@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what their budget is for a hotel room.
+
+2. Ask the customer if they have any preferences for the type of hotel room they would like.
+
+3. Ask for the customer's preferred location for their hotel room.
+
+4. Once the customer has chosen a hotel, provide them with the contact information, star rating, and postcode.
+
+5. Ask the customer if they would like to book a room.

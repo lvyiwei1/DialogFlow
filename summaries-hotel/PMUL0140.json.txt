@@ -1,0 +1,6 @@
+
+
+1. Ask the customer for their location, room type, and dates of stay.
+2. Find a hotel that meets the customer's criteria.
+3. Make a reservation for the customer.
+4. Book a taxi to take the customer to their destination.

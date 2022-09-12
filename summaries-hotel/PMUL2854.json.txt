@@ -1,0 +1,10 @@
+
+
+In order to book a hotel for a customer, the following steps must be taken: 
+1. Get the customer's desired location for the hotel. 
+2. Ask if the customer has a preferred type of hotel. 
+3. Get the customer's budget for the hotel stay. 
+4. Find hotels in the area that meet the customer's criteria. 
+5. Contact the hotel to book the reservation. 
+6. Get the confirmation number from the hotel. 
+7. Give the customer the confirmation number and other important information about the hotel reservation.

@@ -1,0 +1,5 @@
+
+
+1. Ask for the customer's preferred location.
+2. Ask for the customer's preferred price range.
+3. Recommend a hotel that fits the customer's criteria.

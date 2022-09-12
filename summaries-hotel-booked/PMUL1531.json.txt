@@ -1,0 +1,5 @@
+
+
+1. Finding a hotel that meets the customer's needs
+2. Booking the hotel for the customer
+3. Providing the customer with a reference number for their booking

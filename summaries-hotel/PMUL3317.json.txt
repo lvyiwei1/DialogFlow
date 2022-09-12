@@ -1,0 +1,7 @@
+
+
+1. To help a customer book a hotel, you would need to know the price range that they are looking for.
+
+2. Once you know the price range, you can then look for hotels in that price range that are located in the same area as the restaurant that the customer is interested in.
+
+3. Once you have found a hotel that meets the customer's needs, you would then need to provide them with the contact information for the hotel so that they can book their stay.

@@ -1,0 +1,11 @@
+
+
+In order to help a customer book a hotel, the customer service representative will need to ask the customer a few key questions. These questions include:
+
+- What day will the customer be checking in?
+- How many days will the customer be staying?
+- How many people will be staying in the hotel room?
+- What is the customer's budget?
+- What type of hotel room does the customer prefer?
+
+After the customer service representative has gathered all of this information, they can start helping the customer book a hotel room that meets their needs.

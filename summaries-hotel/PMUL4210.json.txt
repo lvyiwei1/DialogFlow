@@ -1,0 +1,6 @@
+
+
+1. Ask the customer the desired location for their stay.
+2. Based on the location, provide a list of recommended hotels.
+3. Allow the customer to select their desired hotel.
+4. Book the hotel for the customer and provide them with the reference number.

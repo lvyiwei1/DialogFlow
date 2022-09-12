@@ -1,0 +1,9 @@
+
+
+1. Find out what the customer is looking for in a guest house.
+
+2. Find out the customer's budget for the stay.
+
+3. Recommend a guest house that meets the customer's needs and budget.
+
+4. Book the reservation for the customer.

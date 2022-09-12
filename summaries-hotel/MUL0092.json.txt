@@ -1,0 +1,9 @@
+
+
+Find out what type of accommodation the customer is looking for.
+
+Get the customer's preferences for location, price, and amenities.
+
+Find guesthouses that match the customer's preferences.
+
+Send the customer the address and contact information for the guesthouse.

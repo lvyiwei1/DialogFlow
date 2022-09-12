@@ -1,0 +1,5 @@
+
+1. Get the customer's name.
+2. Get the dates the customer wants to stay.
+3. Determine if there are any rooms available.
+4. If there are no rooms available, offer to find a room at a different hotel.

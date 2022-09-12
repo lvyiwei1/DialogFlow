@@ -1,0 +1,7 @@
+
+
+1. Ask if they need help
+2. Find out what type of hotel they are looking for
+3. Give them options for hotels that match their criteria
+4. Ask if they need help booking a room
+5. Give them the address and postcode for the hotel

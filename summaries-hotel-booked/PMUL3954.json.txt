@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what their budget is for the hotel.
+
+2. Find a hotel that matches the customer's budget.
+
+3. Book the hotel for the customer.
+
+4. Give the customer the reference number for their hotel booking.

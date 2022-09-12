@@ -1,0 +1,11 @@
+
+
+Key steps:
+
+1. Verify the customer's location.
+
+2. Identify customer preferences for type of accommodation, amenities, and price.
+
+3. Recommend specific accommodation options that meet the customer's preferences.
+
+4. Assist the customer in booking the room.

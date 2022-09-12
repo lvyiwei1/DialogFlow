@@ -1,0 +1,5 @@
+
+
+1. Ask the customer for their preferred dates of stay.
+2. Ask the customer for their contact information.
+3. Collect payment from the customer.

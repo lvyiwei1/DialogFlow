@@ -1,0 +1,7 @@
+
+
+1. Make sure the customer has all the information they need
+2. Get the customer's preferences
+3. Book the room
+4. Provide the customer with the reference number
+5. Follow up to see if the customer needs anything else

@@ -1,0 +1,15 @@
+
+
+Comprehend customer needs.
+
+Search for available options.
+
+Filter options based on customer needs.
+
+Make a recommendations.
+
+Get customer confirmation.
+
+Book the room.
+
+Send customer information and confirmation.

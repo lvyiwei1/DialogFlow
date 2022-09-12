@@ -1,0 +1,9 @@
+
+
+1. Find out what type of hotel the customer wants and their price range.
+
+2. Book the room for the customer.
+
+3. Give the customer the reference number for their booking.
+
+4. Find out if the customer needs help with anything else.

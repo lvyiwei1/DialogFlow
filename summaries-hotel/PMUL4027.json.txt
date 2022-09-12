@@ -1,0 +1,7 @@
+
+
+1. Help customer find a hotel that meets their needs
+
+2. Book the hotel for the customer
+
+3. Help customer make a reservation at the restaurant of their choice

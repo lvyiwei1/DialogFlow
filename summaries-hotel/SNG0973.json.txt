@@ -1,0 +1,8 @@
+
+
+
+1. Find out the dates the customer wants to stay.
+2. Find out the number of people in the customer's party.
+3. Find out the number of days the customer wants to stay.
+4. Make a reservation for the customer.
+5. Give the customer the reservation confirmation.

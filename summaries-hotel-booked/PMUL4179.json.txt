@@ -1,0 +1,9 @@
+
+
+1. Find a hotel that meets the customer's needs in terms of location, price, and amenities.
+
+2. Book the hotel room for the customer.
+
+3. Provide the customer with a reference number for their booking.
+
+4. If necessary, help the customer book a taxi to and from the hotel.

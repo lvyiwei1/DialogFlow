@@ -1,0 +1,7 @@
+
+
+1. Based on the customer's needs, recommend a hotel that meets their criteria.
+
+2. Give the customer the address and contact information for the hotel.
+
+3. If requested, book the hotel for the customer.

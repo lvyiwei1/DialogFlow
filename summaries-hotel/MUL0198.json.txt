@@ -1,0 +1,7 @@
+
+
+1. Once the customer has told the agent their budget, the agent should find a range of hotels that fit the bill and give the customer some options to choose from.
+
+2. The agent should then check the availability of the chosen hotel for the customer's desired dates and make a booking if possible.
+
+3. The agent should provide the customer with the reference number for their booking as well as any other relevant information such as check-in times or contact details for the hotel.

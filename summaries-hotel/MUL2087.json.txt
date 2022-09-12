@@ -1,0 +1,6 @@
+
+
+1. Ask for location 
+2. Get information about the hotel 
+3. Book the hotel for the customer 
+4. Give the reference number to the customer

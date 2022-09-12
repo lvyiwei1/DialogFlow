@@ -1,0 +1,7 @@
+
+
+1. Get the customer's name, number of guests, and dates of stay.
+2. Ask if the customer needs help with anything else.
+3. Get the customer's preferred location, price range, and type of cuisine.
+4. Make a reservation for the customer at their preferred restaurant.
+5. Get the customer's contact information and reference number.

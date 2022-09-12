@@ -1,0 +1,15 @@
+
+
+1. Establish customer needs - the customer needs a place to eat in the centre, and may also need a hotel.
+
+2. Identify available options - the service provides the customer with a list of 69 restaurants in the centre.
+
+3. Select the best option - the customer chooses Ali Baba as their preferred restaurant.
+
+4. Make a booking - the service books a table for the customer at Ali Baba.
+
+5. Provide additional information and assistance - the service provides the customer with the postcode for Ali Baba, and also offers to book a hotel in the same area.
+
+6. Confirm the booking - the service confirms the booking for the customer.
+
+7. Provide further assistance - the service books a taxi for the customer.

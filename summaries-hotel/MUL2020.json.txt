@@ -1,0 +1,7 @@
+
+
+Our operator would need to ask the customer a few key questions to book a hotel, such as:
+
+-When would they like to stay at the hotel? (Check-in and check-out dates)
+-How many people will be staying in the room?
+-Do they have any preference for room type?

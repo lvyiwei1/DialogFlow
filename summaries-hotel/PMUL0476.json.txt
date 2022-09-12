@@ -1,0 +1,8 @@
+
+
+1. Find out where the customer wants to stay.
+2. Find out what type of accommodation the customer wants.
+3. Find out what amenities the customer wants.
+4. Find out what star rating the customer wants.
+5. Find a hotel that meets the customer's criteria.
+6. Send the customer the information for the hotel.

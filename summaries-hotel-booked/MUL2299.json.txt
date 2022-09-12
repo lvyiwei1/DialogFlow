@@ -1,0 +1,7 @@
+
+
+1. ask customer what days they want to stay
+2. ask customer what type of room they want
+3. book the room for the customer
+4. provide the reference code for the booking
+5. ask if there is anything else the customer needs help with

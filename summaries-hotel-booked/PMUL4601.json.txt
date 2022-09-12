@@ -1,0 +1,5 @@
+
+
+1. Ask for customer's needs
+2. Recommend a hotel
+3. Make a reservation

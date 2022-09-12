@@ -1,0 +1,10 @@
+
+
+1. Find out the customer's budget
+2. Find out the customer's desired location
+3. Find out the customer's dates of travel
+4. Find out the customer's preferred amenities
+5. Find a hotel that meets the customer's criteria
+6. Make a reservation for the customer
+7. Confirm the details of the reservation with the customer
+8. Provide the customer with the contact information for the hotel

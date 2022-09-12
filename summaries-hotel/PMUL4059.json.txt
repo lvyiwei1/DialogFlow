@@ -1,0 +1,9 @@
+
+
+1. Ask if the customer knows what type of accommodation they are looking for.
+
+2. If the customer asks for a specific type of accommodation, provide them with options that fit their requirements.
+
+3. If the customer has a preferred price range, recommend hotels that fall within that range.
+
+4. Once the customer has selected a hotel, provide them with the contact information for the hotel.

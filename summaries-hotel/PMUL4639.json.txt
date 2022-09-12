@@ -1,0 +1,6 @@
+
+
+1. Finding out the customer's needs (Price range, location, date of stay, etc)
+2. Identifying a hotel that meets the customer's needs
+3. Booking the hotel for the customer
+4. Providing the customer with the contact information for the hotel

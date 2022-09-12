@@ -1,0 +1,8 @@
+
+
+1. Find out what the customer's budget is for the hotel.
+2. Find out the customer's preferred location for the hotel.
+3. Find out how many people the customer needs to accommodate in the hotel room.
+4. Find out the customer's preferred dates for the stay.
+5. Make the hotel reservation for the customer.
+6. Give the customer the reference number for the reservation.

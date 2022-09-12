@@ -1,0 +1,9 @@
+
+
+1. Find out the customer's budget and desired location.
+2. Identify 11 places that meet the customer's criteria.
+3. Ask if the customer is looking for a particular star rating.
+4. Suggest acorn guest house.
+5. Book the room for the customer.
+6. Give the customer the contact information for Saint Catharine's College.
+7. Thank the customer.

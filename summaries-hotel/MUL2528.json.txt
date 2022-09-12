@@ -1,0 +1,7 @@
+
+
+1. Gather the customer's information, such as where they want to stay and how many people will be staying.
+
+2. Look up the hotel information and rates.
+
+3. Book the hotel room for the customer.

@@ -1,0 +1,9 @@
+
+
+1. Verify the customer's desired location.
+
+2. Recommend a hotel in the desired location.
+
+3. Book the hotel for the customer.
+
+4. Verify the customer's satisfaction.

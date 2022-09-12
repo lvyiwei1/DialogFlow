@@ -1,0 +1,9 @@
+
+
+1. Ask if they need help
+2. Ask if they know what they are looking for
+3. Ask for the name and location of the hotel
+4. Look up the hotel and get the contact information
+5. Ask if they want to book the hotel
+6. Make the booking
+7. Give the customer the reference number

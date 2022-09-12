@@ -1,0 +1,9 @@
+
+
+Find the hotel the customer is looking for
+
+Get the address for the hotel
+
+Make a reservation for the customer
+
+Get the contact information for the taxi

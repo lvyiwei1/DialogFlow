@@ -1,0 +1,7 @@
+
+
+1. Finding a hotel that meets the customer's needs in terms of price, location, and amenities.
+2. Providing the customer with information about the hotel, including its name, address, and phone number.
+3. Booking the hotel for the customer.
+4. Providing the customer with a reference number for the booking.
+5. Arranging for a taxi to take the customer to and from the hotel.

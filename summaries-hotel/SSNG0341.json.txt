@@ -1,0 +1,5 @@
+
+
+1. Look for a hotel that has the amenities the customer desires, in this case free parking.
+2. Compare hotels based on ratings and reviews to find the best option.
+3. Make a booking for the customer at the chosen hotel.

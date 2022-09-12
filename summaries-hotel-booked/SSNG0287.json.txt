@@ -1,0 +1,5 @@
+
+
+1. Finding out the customer's needs
+2. recommending a hotel
+3. booking the hotel

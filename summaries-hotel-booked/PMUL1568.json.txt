@@ -1,0 +1,6 @@
+
+
+1. Helping customer identify what type of hotel they are looking for
+2. Identifying the customer's budget
+3. Helping customer find a hotel that meets their needs
+4. Booking the hotel for the customer

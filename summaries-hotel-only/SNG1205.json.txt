@@ -1,0 +1,7 @@
+
+
+1. Ask if the customer knows what kind of hotel they are looking for (e.g. star rating, price, location, etc.)
+2. If the customer is unsure, recommend hotels that fit the customer's needs
+3. Once the customer has selected a hotel, check for availability and make a reservation
+4. Confirm the reservation with the customer and provide them with a reference number
+5. Thank the customer and bid them farewell

@@ -1,0 +1,8 @@
+
+
+1. Find out what type of hotel the customer is looking for.
+2. Find out the location of the hotel.
+3. Find out the amenities offered by the hotel.
+4. Find out the price of the hotel.
+5. Make a reservation for the customer.
+6. Schedule a taxi to pick up the customer from the hotel.

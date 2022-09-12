@@ -1,0 +1,9 @@
+
+
+1. Ask if the customer needs help with anything in particular.
+
+2. If the customer mentions needing a place to stay, ask what kind of price range they are looking for.
+
+3. Once the customer has selected a price range, find a hotel that meets their criteria and ask if they would like to book it.
+
+4. If the customer needs any other services, such as a taxi, help them book that as well.

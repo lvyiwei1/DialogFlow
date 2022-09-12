@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what type of accommodation they are looking for (e.g. hotel, guesthouse).
+2. Ask the customer for their preferred location.
+3. Ask the customer if they have any specific requirements (e.g. free parking).
+4. Based on the customer's preferences, recommend a hotel.
+5. Ask the customer if they would like to book the hotel.
+6. If the customer would like to book the hotel, get the necessary details (e.g. number of nights, number of people).
+7. Book the hotel and give the customer the reference number.

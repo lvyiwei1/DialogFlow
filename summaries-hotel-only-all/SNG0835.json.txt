@@ -1,0 +1,11 @@
+
+
+
+
+1. Ask the customer for their dates of stay and the number of people in their party.
+
+2. Find a hotel that meets the customer's needs in terms of price, location, and amenities.
+
+3. Book the reservation for the customer and provide them with a reference number.
+
+4. Thank the customer for using the service.

@@ -1,0 +1,11 @@
+
+
+1. Query the customer for what specific information they are looking for.
+
+2. If necessary, use location-based information to recommend a hotel.
+
+3. Gather the relevant information about the hotel, including address, type, and price range.
+
+4. Recommend a Mediterranean restaurant in the centre of town, if requested.
+
+5. Provide the customer with the relevant information about the restaurant, including postcode and price range.

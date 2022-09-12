@@ -1,0 +1,5 @@
+
+
+1. Identify customer needs - in this case, the customer needs a 3 star hotel in Cambridge that is expensive and has free parking
+2. Research and recommend hotels that meet the customer's needs - in this case, the Gonville Hotel and The Lensfield Hotel
+3. Book the hotel for the customer if they wish - in this case, the customer does not book today but may in the future

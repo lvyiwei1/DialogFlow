@@ -1,0 +1,6 @@
+
+
+1. Asking the customer what their preferred arrival and departure dates are.
+2. Inquiring about the customer's desired room type. 
+3. Checking for availability of rooms that match the customer's preferences.
+4. Booking the room and sending a confirmation to the customer.

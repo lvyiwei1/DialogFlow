@@ -1,0 +1,9 @@
+
+
+1. Asking the customer what their budget is for the hotel.
+2. Asking the customer what their preferred location is.
+3. Asking the customer what type of room they want.
+4. Checking for availability of the room.
+5. Booking the room for the customer.
+6. Asking the customer if they need any other services.
+7.Thanking the customer for using the service.

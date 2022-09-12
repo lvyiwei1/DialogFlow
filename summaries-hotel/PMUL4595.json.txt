@@ -1,0 +1,6 @@
+
+
+1. Find out what area the customer is interested in staying.
+2. Find out the price range the customer is looking for.
+3. Find out the star rating the customer is looking for.
+4. Find a hotel that meets the customer's needs.

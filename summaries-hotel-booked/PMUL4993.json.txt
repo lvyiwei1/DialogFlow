@@ -1,0 +1,6 @@
+
+
+1. Ask about the customer's preferences, including price range, location, and type of accommodation.
+2. Search for options that match the customer's preferences.
+3. Provide the customer with a list of options.
+4. Help the customer book the chosen option.

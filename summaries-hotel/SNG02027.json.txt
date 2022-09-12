@@ -1,0 +1,7 @@
+
+
+1. The customer contacts the service to inquire about booking a hotel room.
+2. The service finds a hotel that meets the customer's requirements.
+3. The service books the hotel room for the customer.
+4. The service provides the customer with a reference number for the reservation.
+5. The service confirms that the customer is satisfied with the booking.

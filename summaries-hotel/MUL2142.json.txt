@@ -1,0 +1,13 @@
+
+
+1. Make a list of 10 possible hotels that offer free parking.
+
+2. Narrow down the list to three hotels on the east side of the city.
+
+3. Get the star rating, address, and internet information for each hotel.
+
+4. Book the train ticket for the customer.
+
+5. Book the hotel room for the customer.
+
+6. Give the customer the reference number for the booking.

@@ -1,0 +1,6 @@
+
+
+1. Find a hotel that meets the customer's needs
+2. Book the hotel for the customer
+3. Provide the customer with the necessary information to contact the hotel
+4. Thank the customer for their business.

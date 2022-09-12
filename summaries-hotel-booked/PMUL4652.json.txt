@@ -1,0 +1,7 @@
+
+
+1. Find out where the customer would like to stay.
+2. Search for hotels in that area.
+3. Find a hotel that meets the customer's needs.
+4. Make a reservation for the hotel.
+5. Provide the customer with the reservation details.

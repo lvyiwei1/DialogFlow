@@ -1,0 +1,9 @@
+
+
+1.The customer should know the basics of what they need (stars, price, parking, internet, etc)
+
+2.The customer should have an idea of what dates they need to stay
+
+3.The customer should be able to provide their preferred train details
+
+4.The customer should be able to provide their contact information

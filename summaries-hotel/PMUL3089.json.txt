@@ -1,0 +1,11 @@
+
+
+1. Gather the customer's basic information such as name, contact information, and dates of stay.
+
+2. Ask the customer about their preferences for the hotel, such as location, amenities, and budget.
+
+3. Using the customer's preferences, search for hotels that fit the customer's needs.
+
+4. Show the customer the available options and help them choose the perfect hotel.
+
+5. Book the hotel for the customer and provide them with the necessary information, such as the contact information and confirmation number.

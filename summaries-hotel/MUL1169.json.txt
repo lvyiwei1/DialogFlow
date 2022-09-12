@@ -1,0 +1,9 @@
+
+
+1) Choose a hotel with 4 stars
+
+2) Book a room for one person for 4 nights
+
+3) Provide the customer with the reference number
+
+4) Book a taxi for the customer to get to the church from the hotel

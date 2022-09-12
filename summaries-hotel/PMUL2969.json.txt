@@ -1,0 +1,10 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+2. Ask the customer if they have a preferred price range or star rating.
+3. Ask the customer if they have any specific requirements, such as free parking.
+4. Find hotels that match the customer's requirements.
+5. Give the customer information about the hotel, such as the star rating, price, and location.
+6. Ask the customer if they would like to book a room.
+7. If the customer does want to book a room, ask for the necessary information, such as the number of people staying and the dates of their stay.
+8. Confirm the booking with the customer.

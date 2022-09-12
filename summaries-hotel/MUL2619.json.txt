@@ -1,0 +1,10 @@
+
+
+1. Get the customer's name
+2. Get the customer's desired location
+3. Get the customer's budget
+4. Get the number of people staying
+5. Get the customer's dates of stay
+6. Get the customer's contact information
+7. Book the hotel
+8. Send the customer a confirmation

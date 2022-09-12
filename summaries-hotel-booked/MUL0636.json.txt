@@ -1,0 +1,13 @@
+
+
+1. Find out the customer's location criteria.
+
+2. Find out the customer's price range.
+
+3. Find out the customer's preferred type of accommodation.
+
+4. Find out the customer's arrival date and length of stay.
+
+5. Find an available hotel that meets the customer's criteria.
+
+6. Book the hotel for the customer.

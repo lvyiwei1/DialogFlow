@@ -1,0 +1,9 @@
+
+
+1. Listen to the customer's needs.
+
+2. Find an available hotel that meets the customer's needs.
+
+3. Help the customer book a room at the hotel.
+
+4. Confirm the booking with the customer.

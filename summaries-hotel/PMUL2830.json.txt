@@ -1,0 +1,11 @@
+
+
+
+1. Ask the customer for their preferred location.
+2. Ask the customer for their preferred amenities.
+3. Ask the customer for their desired dates of stay.
+4. Ask the customer for the number of people in their party.
+5. Ask the customer for their contact information.
+6. Book the room and provide the customer with a reference number.
+7. Ask the customer if they need help with any additional activities or attractions.
+8. Provide the customer with additional information as requested.

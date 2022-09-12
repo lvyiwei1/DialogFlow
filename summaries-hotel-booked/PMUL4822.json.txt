@@ -1,0 +1,9 @@
+
+
+1. Ask the customer if they have any specific requirements for their hotel room.
+
+2. If the customer has specific requirements, search for hotels that match those requirements.
+
+3. If the customer does not have specific requirements, provide a list of recommended hotels.
+
+4. Once the customer has selected a hotel, help them book their stay.

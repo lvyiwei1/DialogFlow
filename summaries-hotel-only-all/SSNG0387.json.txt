@@ -1,0 +1,7 @@
+
+
+1. Asking the customer what their price range and preferred location is for the hotel.
+2. Suggesting a hotel that meets the customer's needs.
+3. Checking to see if the hotel has free wifi and free parking.
+4. Making a reservation for the customer.
+5. Giving the customer the reference number for their reservation.

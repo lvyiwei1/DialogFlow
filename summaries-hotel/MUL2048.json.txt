@@ -1,0 +1,8 @@
+
+
+The key steps for helping a customer book a hotel are:
+
+1. Getting the customer's desired date and time of travel.
+2. Identifying the closest train to the desired time of travel.
+3. Providing the customer with the price and travel time for the selected train.
+4. Booking the room at the Alpha-Milton Guest House.

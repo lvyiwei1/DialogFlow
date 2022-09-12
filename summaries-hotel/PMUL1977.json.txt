@@ -1,0 +1,6 @@
+
+
+1. Get the customer's desired location.
+2. Get the customer's desired price range.
+3. Find a hotel that meets the customer's requirements.
+4. Book the hotel for the customer.

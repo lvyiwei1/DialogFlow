@@ -1,0 +1,7 @@
+
+
+1. Ask the customer for the requested dates.
+2. Ask how many people will be staying.
+3. Ask if the customer has any specific requests.
+4. Ask for the customer's contact information.
+5. Give the customer a reference number.

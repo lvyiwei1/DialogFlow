@@ -1,0 +1,8 @@
+
+
+1. Asking the customer whether they would prefer a hotel or a guesthouse.
+2. Showing the customer the locations of seven places to stay.
+3. Asking the customer if they have any preference in terms of star rating.
+4. Trying to book the customer's stay for four days.
+5. Giving the customer the reference number for their booking.
+6. Asking the customer if they are looking for anything specific in town.

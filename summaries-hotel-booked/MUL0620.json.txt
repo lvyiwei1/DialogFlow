@@ -1,0 +1,7 @@
+
+
+1. Asking the customer where they are departing from and what day they would like to travel.
+2. Asking the customer what time of day they would like to travel.
+3. Booking the customer on the TR6838 train.
+4. Finding the Alexander Bed and Breakfast for the customer.
+5. Booking the customer at the Alexander Bed and Breakfast.

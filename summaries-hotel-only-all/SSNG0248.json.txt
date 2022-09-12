@@ -1,0 +1,7 @@
+
+
+1. Ask the customer which dates they need the room for.
+2. Ask the customer how many people will be staying in the room.
+3. Ask the customer if they have a preferred price range.
+4. Check available hotels and see if any match the customer's preferences.
+5. If a hotel is available, book the room and provide the customer with a reference number.

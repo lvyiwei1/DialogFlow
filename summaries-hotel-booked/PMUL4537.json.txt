@@ -1,0 +1,7 @@
+
+
+1. Asking the customer what type of accommodation they are looking for.
+2. Narrowing down the options based on the customer's preferences.
+3. Booking the accommodation for the customer.
+4. Providing the customer with the contact information for the accommodation.
+5. Booking a taxi for the customer, if necessary.

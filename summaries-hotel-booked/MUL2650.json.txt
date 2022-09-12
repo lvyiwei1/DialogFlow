@@ -1,0 +1,13 @@
+
+
+1. Ask the customer if they have any preference for location, type of accommodation, or price range.
+
+2. If the customer has a preference, try to accommodate their request.
+
+3. If the customer does not have a preference, offer them some options.
+
+4. Choose the option that best suits the customer's needs.
+
+5. Book the room and give the customer their reference number.
+
+6. Ask the customer if there is anything else you can do for them.

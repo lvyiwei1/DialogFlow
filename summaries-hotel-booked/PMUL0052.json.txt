@@ -1,0 +1,11 @@
+
+
+-Inquire about the desired hotel
+-Get the location of the hotel
+-Make a reservation for the customer
+-Get the reference number for the customer
+-Inquire about desired restaurants
+-Give options for restaurants
+-Make a reservation for the customer
+-Get the reference number for the customer
+-Book a taxi for the customer

@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's preferred location.
+
+2. Search for hotels in the preferred location that match the customer's price range.
+
+3. Book the room at the chosen hotel.

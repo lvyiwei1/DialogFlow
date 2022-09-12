@@ -1,0 +1,11 @@
+
+
+1. customer identifies need for a 4 star hotel on the north side
+2. customer is advised of moderately priced properties in the north with 4 stars
+3. customer is advised of 1 cheap property in the north with 4 stars
+4. customer is asked if they have a preference for price
+5. customer is asked if they would like to book one of the moderate priced properties
+6. customer is advised of Avalon as a favorite property
+7. customer is asked when they would like to stay
+8. customer is advised of the reference number for their booking
+9. customer is advised of anything else they may need

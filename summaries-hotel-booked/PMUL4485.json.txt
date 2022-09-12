@@ -1,0 +1,15 @@
+
+
+1. first, ask the customer if they have a certain price range or area in mind.
+
+2. if they have a specific area in mind, narrow down the options to guesthouses in that area.
+
+3. if they have a specific price range in mind, narrow down the options to guesthouses in that price range.
+
+4. ask the customer if they would like a personal recommendation.
+
+5. if the customer would like a personal recommendation, recommend the Hamilton Lodge.
+
+6. book the room for the customer and give them the reference number.
+
+7. ask the customer if they need anything else.

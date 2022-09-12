@@ -1,0 +1,5 @@
+
+
+1. Get information about the customer's desired location and travel dates.
+2. Use that information to search for hotels in the area.
+3. Present the customer with a list of options and help them choose the best option.

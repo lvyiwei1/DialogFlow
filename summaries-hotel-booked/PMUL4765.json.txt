@@ -1,0 +1,7 @@
+
+
+1. Find out what the customer is looking for.
+2. Ask the customer if they have any preferences.
+3. Recommend a hotel that meets their preferences.
+4. Book the hotel for the customer.
+5. Thank the customer for choosing the help desk.

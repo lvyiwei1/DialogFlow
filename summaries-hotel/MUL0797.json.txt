@@ -1,0 +1,7 @@
+
+
+1. Asking the customer what their budget is for a hotel room
+2. Asking the customer what their preferred location is
+3. Asking the customer if they have any specific requests for amenities
+4. Finding a hotel that meets the customer's budget and location requirements
+5. Booking the hotel room for the customer

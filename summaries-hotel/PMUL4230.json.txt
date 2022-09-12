@@ -1,0 +1,8 @@
+
+
+1. Get the customer's name.
+2. Get the customer's contact information.
+3. Find out the customer's needs.
+4. Choose a hotel that meets the customer's needs.
+5. Make a reservation for the customer.
+6. Give the customer the reference number.

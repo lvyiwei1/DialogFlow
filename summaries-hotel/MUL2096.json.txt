@@ -1,0 +1,6 @@
+
+
+1. Giving the customer options for hotels
+2. Checking if the hotels are available for the customer's desired stay
+3. Booking the hotel for the customer
+4. Providing the customer with a reference number for their booking

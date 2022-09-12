@@ -1,0 +1,6 @@
+
+
+1. Ask for the customer's budget.
+2. Ask for the customer's preferred amenities.
+3. Find hotels that match the customer's preferences.
+4. Send the customer information about the hotel, including the reference number.

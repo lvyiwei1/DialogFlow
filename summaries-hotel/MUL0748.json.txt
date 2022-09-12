@@ -1,0 +1,7 @@
+
+
+1. Ask the customer when they would like to leave.
+2. Find a train that meets the customer's needs.
+3. Book a ticket for the customer.
+4. Find a guesthouse that meets the customer's needs.
+5. Offer to book a reservation for the customer.

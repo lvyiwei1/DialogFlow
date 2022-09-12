@@ -1,0 +1,9 @@
+
+
+1. Ask the customer if they have any preferences for their hotel stay.
+
+2. Select a hotel based on the customer's preferences.
+
+3. Book the hotel for the customer.
+
+4. Provide the customer with the confirmation number for their reservation.

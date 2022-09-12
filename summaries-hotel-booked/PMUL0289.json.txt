@@ -1,0 +1,9 @@
+
+
+1. Obtain the necessary information from the customer, including dates of stay, number of guests, and desired amenities.
+
+2. Find a suitable hotel that meets the customer's needs and budget.
+
+3. Make a reservation for the customer, providing them with a reference number.
+
+4. Give the customer any additional information they may need, such as directions to the hotel or suggestions for nearby attractions.

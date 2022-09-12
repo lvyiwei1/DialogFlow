@@ -1,0 +1,10 @@
+
+
+1. Listen to the customer's needs.
+2. Find out what the customer's budget is.
+3. Suggest two hotels that fit the customer's budget.
+4. Ask the customer if they want any extras, such as free parking or wifi.
+5. Book the hotel for the customer.
+6. Get the details of the customer's travel plans.
+7. Provide the customer with the departure time for their train.
+8. Thank the customer for their business.

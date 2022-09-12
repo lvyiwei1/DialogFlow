@@ -1,0 +1,6 @@
+
+
+1. Ask if the customer has a preferred price range
+2. If not, ask if the customer has a preferred area
+3. Choose a hotel that meets the customer's preferences
+4. Give the customer the contact information for the hotel

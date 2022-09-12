@@ -1,0 +1,8 @@
+
+
+1. help customer find moderate priced places with free parking
+2. help customer find places with free parking and Wifi
+3. help customer book a room at the Bridge Guest House or another place
+4. help customer with their party size
+5. help customer with their arrival date and how many nights they want to stay
+6. help customer with their reference number

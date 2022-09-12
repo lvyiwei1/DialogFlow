@@ -1,0 +1,5 @@
+
+1. Find the customer a list of available hotels in the area they want to stay.
+2. Ask the customer if they would like to book one of the available hotels.
+3. If the customer would like to book a hotel, help them to do so.
+4. Find the customer a taxi to commute between the hotel and the restaurant.

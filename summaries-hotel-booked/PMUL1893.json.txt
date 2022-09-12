@@ -1,0 +1,9 @@
+
+
+1. Ask the customer which day they will be traveling.
+2. Ask the customer their destination.
+3. Ask the customer if they have a specific time they need to travel.
+4. Find a train that meets the customer's needs.
+5. Give the customer the reference number for the train.
+6. Book the hotel for the customer.
+7. Give the customer the reference number for the hotel.

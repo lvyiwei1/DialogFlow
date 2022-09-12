@@ -1,0 +1,6 @@
+
+
+1. Asking the customer for the name of the hotel they are looking for.
+2. Checking to see if the hotel is available.
+3. If the hotel is available, booking it for the customer.
+4. Thanking the customer for their business.

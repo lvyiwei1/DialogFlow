@@ -1,0 +1,8 @@
+
+
+1. Get the customer's name.
+2. Get the customer's desired check-in and check-out dates.
+3. Get the number of rooms the customer needs.
+4. Get the number of adults and children staying in the room.
+5. Make a reservation for the customer.
+6. Provide the customer with a reference number for the reservation.

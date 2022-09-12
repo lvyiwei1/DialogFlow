@@ -1,0 +1,6 @@
+
+
+1. Ask where the customer is leaving from.
+2. Ask what time the customer would like to depart.
+3. Offer options for the customer based on their desired arrival time.
+4. Ask how many tickets the customer needs.

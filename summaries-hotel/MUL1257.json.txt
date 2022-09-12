@@ -1,0 +1,5 @@
+
+
+-Get the customer's information such as how many people, what day, and how many days they would like to stay.
+-Find a hotel that meets the customer's needs and provide the customer with the name, rating, and price of the hotel.
+-Make a booking for the hotel and provide the customer with a confirmation code.

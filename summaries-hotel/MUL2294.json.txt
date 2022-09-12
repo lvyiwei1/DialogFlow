@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what type of lodging they are looking for.
+2. Ask the customer if they have any specific requirements for their lodging.
+3. Recommend a hotel that meets the customer's needs.
+4. Book the hotel for the customer.
+5. Provide the customer with the reference number for their booking.

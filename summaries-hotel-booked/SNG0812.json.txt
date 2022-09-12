@@ -1,0 +1,9 @@
+
+
+1. Ask customer for booking criteria including number of nights and guests.
+
+2. Search for hotels that match the customer's criteria.
+
+3. Ask the customer to confirm the booking details.
+
+4. Make the booking and provide the customer with a reference number.

@@ -1,0 +1,7 @@
+
+
+1. Listen to the customer's preferences.
+2. Ask clarifying questions if needed.
+3. Make recommendations based on the customer's preferences.
+4. Book the hotel room for the customer.
+5. Follow up with the customer after the booking is made.

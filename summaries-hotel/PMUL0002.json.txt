@@ -1,0 +1,9 @@
+
+
+1. Find out what type of property the customer is looking for.
+2. Find out the customer's price range.
+3. Find out the customer's preferred location.
+4. Find out the customer's preferred amenities.
+5. Choose a property that meets the customer's needs.
+6. Book a room at the chosen property.
+7. Provide the customer with the contact information for the property.

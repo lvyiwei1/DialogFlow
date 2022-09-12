@@ -1,0 +1,8 @@
+
+
+
+
+1. Ask the customer for their preferred location.
+2. Ask the customer for their preferred hotel rating.
+3. Ask the customer if they would like information about specific hotels in the area.
+4. If the customer would like to book a specific hotel, ask for their payment information and book the room.

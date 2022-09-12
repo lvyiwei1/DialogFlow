@@ -1,0 +1,8 @@
+
+
+1. Asking the customer which hotel they would like to book
+2. Checking if the hotel is available
+3. Providing the customer with the price of the hotel
+4. Booking the hotel for the customer
+5. Giving the customer the confirmation details of the booking
+6. Thanking the customer for their business

@@ -1,0 +1,15 @@
+
+
+1. Get the customer's location.
+
+2. Ask the customer what type of accommodation they are looking for.
+
+3. Ask the customer what their budget is.
+
+4. Find an available hotel that meets the customer's needs.
+
+5. Book the hotel for the customer.
+
+6. Confirm the booking with the customer.
+
+7. Provide the customer with the contact information for the hotel.

@@ -1,0 +1,6 @@
+
+
+1. identifying customer needs
+2. finding a hotel that meets those needs
+3. booking a room at the hotel
+4. booking a taxi to and from the hotel

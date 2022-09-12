@@ -1,0 +1,11 @@
+
+
+1. Find out the specific hotel the customer is looking for.
+
+2. Find the contact information for the hotel.
+
+3. Find the star rating for the hotel.
+
+4. Find the address and phone number for the concert hall.
+
+5. Book a taxi to take the customer between the hotel and the concert hall.

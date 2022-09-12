@@ -1,0 +1,15 @@
+
+
+1. Find out the customer's needs.
+
+2. Identify the customer's location.
+
+3. Find a hotel that meets the customer's needs.
+
+4. Book the hotel for the customer.
+
+5. Provide the customer with the contact information for the hotel.
+
+6. Schedule a taxi to pick the customer up.
+
+7. Provide the customer with the contact information for the taxi.

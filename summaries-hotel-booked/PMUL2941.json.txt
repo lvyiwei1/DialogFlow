@@ -1,0 +1,9 @@
+
+
+ 1. Get the name of the hotel the customer would like to book
+ 2. Find out the customer's budget for the hotel
+ 3. Find out the customer's dates of stay
+ 4. Find out how many people will be staying in the hotel
+ 5. Get the reference number for the booking
+ 6. Get the contact information for the hotel
+ 7. Find out if there is an entrance fee for the hotel

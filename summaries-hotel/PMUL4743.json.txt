@@ -1,0 +1,9 @@
+
+
+1. Determine the customer's needs.
+
+2. Find hotels that match the customer's needs.
+
+3. Help the customer choose a hotel.
+
+4. Make a reservation for the customer.

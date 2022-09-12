@@ -1,0 +1,9 @@
+
+
+1. Get customer information (e.g. location, number of people, length of stay, etc.)
+2. Make a suggestion based on customer information
+3. Make a reservation
+4. Confirm reservation details with customer
+5. Get additional information or requests from customer
+6. Complete any additional tasks (e.g. booking a taxi)
+7. Thank the customer

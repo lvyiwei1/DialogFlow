@@ -1,0 +1,5 @@
+
+
+1. enquiring about the hotel's star rating, postcode and price range
+2. providing the customer with this information
+3. booking the hotel for the customer

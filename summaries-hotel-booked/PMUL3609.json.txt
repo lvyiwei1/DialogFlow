@@ -1,0 +1,7 @@
+
+
+1. Ask the customer which hotel they are looking for. 
+2. Find the location of the hotel. 
+3. Ask the customer how many people will be staying and for how long. 
+4. Book the hotel for the customer. 
+5. thank the customer for their business.

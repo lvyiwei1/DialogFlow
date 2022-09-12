@@ -1,0 +1,11 @@
+
+
+1. Get the customer's east location preference.
+
+2. Offer accommodations options based on the customer's preference.
+
+3. Ask the customer to choose a particular establishment.
+
+4. Make a reservation for the customer.
+
+5. Book a taxi for the customer.

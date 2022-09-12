@@ -1,0 +1,10 @@
+
+
+1. Find out the customer's location.
+2. Ask the customer for their budget.
+3. Find out how many people are staying and for how many nights.
+4. Ask the customer what day they plan to arrive.
+5. Book the hotel room and give the customer a reference number.
+6. Ask the customer if they need any other services.
+7. If the customer needs a taxi, help them book one and provide the contact number and car type.
+8. Thank the customer for their business.

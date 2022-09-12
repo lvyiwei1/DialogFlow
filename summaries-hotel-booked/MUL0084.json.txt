@@ -1,0 +1,7 @@
+
+
+1. Get the customer's preferences for type of hotel, location, price, and amenities.
+2. Find a hotel that meets the customer's preferences.
+3. Book the room for the customer.
+4. Get the reference number for the booking.
+5. Book a taxi to take the customer to the hotel.

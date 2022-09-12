@@ -1,0 +1,8 @@
+
+
+1. Ask what the customer's budget and preferences are for the hotel
+2. Ask what area the customer would like the hotel to be in
+3. Suggest a hotel based on the customer's budget and preferences
+4. Book the hotel for the customer
+5. Ask when the customer will be traveling
+6. Suggest a train schedule based on the customer's travel date

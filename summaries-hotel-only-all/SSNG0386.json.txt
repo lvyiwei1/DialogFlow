@@ -1,0 +1,7 @@
+
+
+1. The customer expresses interest in a specific hotel.
+2. The customer is informed about the availability of rooms at the hotel.
+3. If the hotel is unavailable, the customer is given alternative hotel options.
+4. The customer makes a reservation at the chosen hotel.
+5. The customer is given the reference number for the reservation.

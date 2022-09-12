@@ -1,0 +1,9 @@
+
+
+1. Asking the customer what type of room they are looking for.
+2. Asking the customer what their budget is for the room.
+3. Asking the customer what their preferred location is.
+4. Narrowing down the search to a few hotels that match the customer's preferences.
+5. Asking the customer to confirm their preferred hotel.
+6. Providing the customer with the contact information for the hotel.
+7. Thanking the customer and wishing them a pleasant stay.

@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what type of guesthouse they are looking for.
+2. Ask the customer their preferred location.
+3. Ask the customer for their booking information.
+4. Book the customer's stay at the guesthouse.
+5. Provide the customer with a reference number for their booking.

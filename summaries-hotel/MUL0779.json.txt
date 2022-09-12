@@ -1,0 +1,7 @@
+
+
+1. verifying the name and location of the hotel
+2. checking the price range
+3. verifying the amenities the hotel offers
+4. providing the hotel's contact information
+5. helping the customer book a train to the hotel on the same day

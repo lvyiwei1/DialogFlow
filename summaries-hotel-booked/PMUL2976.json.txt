@@ -1,0 +1,6 @@
+
+
+1. Find out what dates the customer wants to stay and how many people will be staying.
+2. Find a hotel in the same area as the customer's attraction that has a rating of 0.
+3. Make a reservation for the customer at the hotel.
+4. Get the reference number for the customer's booking.

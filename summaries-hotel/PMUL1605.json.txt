@@ -1,0 +1,6 @@
+
+
+1. Asking the customer which part of the city they would like to stay in
+2. Checking to see if there are any hotels in the west part of the city
+3. Seeing if there are any 2 star hotels in the north part of the city
+4. Making a reservation for the customer at the Lovell Lodge hotel

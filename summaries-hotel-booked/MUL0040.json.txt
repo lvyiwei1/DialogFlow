@@ -1,0 +1,11 @@
+
+
+1. Customer specifies they need a hotel with a 5 star rating and free wifi.
+
+2. Service presents options for 4 star hotels with free wifi in the area.
+
+3. Customer chooses a 4 star hotel in the centre area.
+
+4. Service books the hotel for 3 people, starting on Wednesday for 4 nights.
+
+5. Service provides the reference number for the booking.

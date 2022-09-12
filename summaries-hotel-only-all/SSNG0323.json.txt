@@ -1,0 +1,7 @@
+
+
+1. Choose the number of stars for the room
+2. Choose whether or not to include free wifi
+3. Choose the location of the hotel
+4. Choose the price range of the hotel
+5. Make the reservation for the customer

@@ -1,0 +1,7 @@
+
+
+1. Help customer identify hotel they want to book
+2. Find out customer booking dates
+3. Check hotel availability for customer booking dates
+4. Book hotel for customer
+5. Send customer booking confirmation

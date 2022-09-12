@@ -1,0 +1,8 @@
+
+
+1. Find out the customer's price range.
+2. Find out the customer's desired location.
+3. Find out the customer's dates of travel.
+4. Find out the customer's party size.
+5. Find and book the hotel that meets the customer's needs.
+6. Provide the customer with the confirmation details.

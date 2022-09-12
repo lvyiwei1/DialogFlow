@@ -1,0 +1,8 @@
+
+
+- Ask the customer what hotel they are looking for.
+- Ask if the customer needs help finding a hotel.
+- Check if the hotel is available.
+- Ask the customer if they would like to book the hotel.
+- Ask the customer for their contact information.
+- Confirm the booking with the customer.

@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what their ideal accommodations would be in order to get an understanding of what they are looking for.
+
+2. Based on what the customer is looking for, provide a list of potential hotel options that fit their needs.
+
+3. Book the hotel room for the customer and provide them with a reference number.
+
+4. Train reservations for the customer as needed.

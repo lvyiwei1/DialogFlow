@@ -1,0 +1,7 @@
+
+
+1. Get the customer's name, contact information, and dates of stay.
+2. Book the room and give the customer a reference number.
+3. Get the customer's transportation needs sorted. 
+4. Provide information about local attractions.
+5. Thank the customer for their business.

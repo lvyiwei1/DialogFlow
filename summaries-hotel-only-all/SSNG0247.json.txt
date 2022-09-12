@@ -1,0 +1,6 @@
+
+
+1. Ask for clarification on what kind of information the customer is seeking.
+2. If the hotel is unavailable, recommend another hotel that is in the same price range.
+3. Make the reservation for the customer.
+4. Offer additional assistance as needed.

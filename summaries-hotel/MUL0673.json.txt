@@ -1,0 +1,8 @@
+
+
+1. Ask customer if they have a preference for what part of town they stay in.
+2. If not, provide options for different types of accommodations in various parts of town.
+3. Ask customer if they would like to book the accommodations.
+4. If yes, provide the customer with the necessary information to book the accommodations.
+5. Ask the customer if there is anything else you can do for them today.
+6. If no, close the dialogue and thank the customer for their business.

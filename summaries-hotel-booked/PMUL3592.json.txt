@@ -1,0 +1,7 @@
+
+
+1. Ask the customer their travel dates.
+2. Ask the customer their budget.
+3. Ask the customer their preferred star rating.
+4. Book the hotel for the customer.
+5. Send the customer their reference number.

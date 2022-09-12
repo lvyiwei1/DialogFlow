@@ -1,0 +1,7 @@
+
+
+-Find out what dates the customer needs
+-Find out how many people will be staying
+-Check for availability
+-Make the reservation
+-Give the customer the reference number

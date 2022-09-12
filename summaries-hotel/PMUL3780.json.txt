@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what type of room they are looking for (e.g. guesthouse, hotel, etc.)
+2. Ask the customer what their star rating preference is.
+3. Ask the customer if they have any other requirements (e.g. free wifi).
+4. Find a hotel that matches the customer's criteria.
+5. Ask the customer if they would like to book the hotel.
+6. If the customer would like to book the hotel, book it for them and provide them with a reference number.
+7. Ask the customer if there is anything else you can help them with.

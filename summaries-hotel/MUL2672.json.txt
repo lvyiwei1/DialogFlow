@@ -1,0 +1,15 @@
+
+
+The key steps for helping a customer book a hotel are:
+
+1. Ask the customer what type of hotel they are looking for.
+
+2. Ask the customer what their budget is.
+
+3. Ask the customer if they have any specific requirements (e.g. free wifi, free parking).
+
+4. Based on the customer's answers, recommend a few hotels.
+
+5. Ask the customer to choose a hotel.
+
+6. Ask the customer to confirm the booking details.

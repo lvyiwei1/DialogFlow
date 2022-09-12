@@ -1,0 +1,7 @@
+
+
+1. Ask when the customer wants to stay.
+2. Ask how many people will be staying.
+3. Ask what type of room the customer wants.
+4. Ask if the customer wants any other amenities.
+5. Ask if the customer has any other questions.

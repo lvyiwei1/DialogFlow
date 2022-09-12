@@ -1,0 +1,11 @@
+
+
+Get the customer's location, budget, and dates of travel.
+
+Search for hotels in the customer's preferred area that match their budget.
+
+Send the customer information about the available hotels, including rates and contact information.
+
+Get the customer's preferred hotel and contact information.
+
+Book the hotel for the customer.

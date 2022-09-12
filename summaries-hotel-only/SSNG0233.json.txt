@@ -1,0 +1,6 @@
+
+
+1. Ask customer what their preferred location is.
+2. If they have no preference, suggest a hotel in a strategic location.
+3. Help customer compare hotels by providing ratings and reviews.
+4. Book the hotel for the customer.

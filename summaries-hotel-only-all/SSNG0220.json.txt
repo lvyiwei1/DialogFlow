@@ -1,0 +1,8 @@
+
+
+1. The customer mentions they are looking for a guesthouse with free wifi.
+2. The service finds many options and asks if the customer has a preferred price range.
+3. The customer requests a moderate price range with free parking.
+4. The service suggests the Acorn Guest House and asks if the customer would like to book a room.
+5. The customer confirms they would like to book a room for two people for four nights starting from Sunday.
+6. The service books the room and provides the reference number.

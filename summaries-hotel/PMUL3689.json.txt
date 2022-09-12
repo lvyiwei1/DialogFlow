@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what they need. In this case, the customer needs a hotel for 3 people starting on Sunday.
+
+2. Ask the customer if they have any preferences for the hotel. In this case, the customer wants a place in the north with free wifi and free parking.
+
+3. Find a hotel that matches the customer's criteria. In this case, the Ashley Hotel on Chesterton Road works for the customer.
+
+4. Confirm with the customer that the hotel works for them. In this case, the customer is happy with the Ashley Hotel.

@@ -1,0 +1,17 @@
+
+
+
+
+1. Ask for the customer's needs.
+
+2. Find a hotel that meets the customer's needs.
+
+3. Book the hotel for the customer.
+
+4. Provide the customer with a reference number.
+
+5. Make sure the hotel has free parking.
+
+6. Make a booking for a taxi to pick the customer up from the hotel.
+
+7. Provide the customer with the contact number for the taxi service.

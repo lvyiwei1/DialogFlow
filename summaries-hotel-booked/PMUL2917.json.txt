@@ -1,0 +1,8 @@
+
+
+1. Ask the customer for their preferred location and price range.
+2. Provide the customer with a list of options that meet their preferences.
+3. If the customer changes their mind, provide them with a new list of options.
+4. Once the customer has decided on a hotel, book it for them.
+5. Provide the customer with the reference number for the booking.
+6. Ask the customer if they need any additional help.

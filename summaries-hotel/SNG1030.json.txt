@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what type of accommodation they are looking for.
+
+2. If the customer is looking for a hotel, ask for the name of the hotel.
+
+3. Ask for the location of the hotel.
+
+4. Ask for the amenities offered by the hotel.
+
+5. Ask if the customer needs help in booking a room.

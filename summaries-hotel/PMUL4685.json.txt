@@ -1,0 +1,7 @@
+
+
+1. Identify the customer's need.
+2. Provide options that fit the customer's need.
+3. Ask if the customer would like help booking a reservation.
+4. Get the necessary information from the customer to book the reservation.
+5. Book the reservation.

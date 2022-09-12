@@ -1,0 +1,6 @@
+
+
+1. Customer gives preferences for hotel
+2. Service provides options for customer
+3. Customer makes a decision
+4. Service books the hotel for the customer

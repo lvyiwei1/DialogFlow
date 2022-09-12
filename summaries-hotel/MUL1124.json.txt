@@ -1,0 +1,13 @@
+
+
+1. Ask the customer which type of accommodation they are looking for.
+
+2. Ask the customer what their budget is for accommodation.
+
+3. Ask the customer if they have any preferences for location.
+
+4. Once the customer has provided all relevant information, search for accommodation options that meet their needs.
+
+5. Present the customer with a selection of options and allow them to choose which one they would like to book.
+
+6. Once the customer has chosen an option, provide the necessary information to complete the booking (e.g. credit card details).

@@ -1,0 +1,11 @@
+
+
+1. Hello, I'm looking for a hotel to stay that is in the moderate price range with free wifi.
+2. I have 3 hotels that are moderately priced with free wifi.  Ashley hotel or Lovell Lodge in the North and CityRoomz in the centre.
+3. I would prefer a 4 star hotel, are any of those three rated 4 stars?
+4. I am sorry but there are no hotels in the center of town matching your request. Would you like try a different part of town, price range, or star rating. 
+5. Can you check the north part of town?
+6. I have seven places in the north. Would you like me to book one?
+7. Can you let me know if one of them has free parking, the hotel type of it, and the postcode?
+8. There are six entries that fit your criteria in the north area, any other preferences?
+9. Which one would

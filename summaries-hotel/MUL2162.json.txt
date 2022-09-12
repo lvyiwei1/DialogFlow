@@ -1,0 +1,9 @@
+
+
+1. Finding out the customer's preferences for hotels;
+
+2. Identifying available hotels that meet the customer's requirements;
+
+3. Providing the customer with information about the available hotels; and
+
+4. Booking the customer's hotel reservation.

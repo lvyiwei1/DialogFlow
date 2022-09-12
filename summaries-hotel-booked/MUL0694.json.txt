@@ -1,0 +1,11 @@
+
+
+1. Customer asks for help booking a train from Broxbourne to Cambridge
+2. Service provides available trains and the customer selects one
+3. Customer asks for details about the train
+4. Service provides information about the train
+5. Customer asks for a recommend place to stay
+6. Service recommends 23 places to stay
+7. Customer asks for the cheapest place to stay
+8. Service recommends the Acorn Guesthouse
+9. Customer books the Acorn Guesthouse for one night

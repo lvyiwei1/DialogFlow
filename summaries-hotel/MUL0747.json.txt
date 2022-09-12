@@ -1,0 +1,11 @@
+
+
+1. Inquire about the customer's desired travel date and destination.
+
+2. Identify train options that fit the customer's schedule.
+
+3. Book the train for the customer.
+
+4. Identify hotel options that match the customer's preferences.
+
+5. Provide the customer with the contact information for the hotel.

@@ -1,0 +1,5 @@
+
+
+ book a reservation at the Rice Boat restaurant
+ check for available hotels that match the customer's requirements
+ book a room at the Lovell Lodge hotel for 4 nights starting Sunday

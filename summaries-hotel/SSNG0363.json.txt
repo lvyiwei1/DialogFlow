@@ -1,0 +1,9 @@
+
+
+1. Ask the customer for the name of the hotel.
+
+2. Attach the relevant search term to the end of the hotel name.
+
+3. Hit enter and look for the desired hotel.
+
+4. If the hotel is not available, ask the customer if they would like to book another hotel.

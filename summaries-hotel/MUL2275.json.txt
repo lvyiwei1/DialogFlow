@@ -1,0 +1,8 @@
+
+
+1. Asking the customer for their desired hotel location.
+2. Asking the customer for their desired dates of stay.
+3. Checking availability of the hotel for the customer's desired dates.
+4. Booking the hotel for the customer.
+5. Providing the customer with a reference number for their booking.
+6. thanking the customer for their business.

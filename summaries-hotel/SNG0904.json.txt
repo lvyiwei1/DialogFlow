@@ -1,0 +1,6 @@
+
+
+1. Asking the customer what their preferences are for the hotel
+2. Searching for hotels that meet the customer's preferences
+3. Providing the customer with options for hotels
+4. Booking a reservation for the customer at their chosen hotel

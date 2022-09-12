@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's preferences for location, price, and type of accommodation.
+
+2. Look for hotels that meet the customer's preferences.
+
+3. Book the hotel for the customer.

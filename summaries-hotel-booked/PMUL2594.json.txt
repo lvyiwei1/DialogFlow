@@ -1,0 +1,13 @@
+
+
+1. Ask if the customer needs help finding a hotel.
+
+2. Find out what type of hotel the customer is looking for.
+
+3. Ask the customer for the dates they need the hotel for.
+
+4. Find a hotel that meets the customer's needs and book it for them.
+
+5. Ask the customer if they need any other services, such as a taxi to the airport or a restaurant reservation.
+
+6. Thank the customer for their business.

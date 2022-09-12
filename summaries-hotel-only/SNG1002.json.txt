@@ -1,0 +1,7 @@
+
+
+1. Ask if the customer needs help booking a hotel.
+2. Get the dates and number of people from the customer.
+3. Find out if there are rooms available for the customer's dates and number of people.
+4. If there are rooms available, book the room and give the customer a reference number.
+5. Thank the customer and say goodbye.

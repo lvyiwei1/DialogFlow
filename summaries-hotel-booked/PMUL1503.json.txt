@@ -1,0 +1,7 @@
+
+
+1. Requesting general information about the hotel
+2. Asking if the customer would like to book a room
+3. If so, checking for availability and booking the room
+4. Providing a reference number for the booking
+5. Checking for train times and booking a train out of Bishops Stortford

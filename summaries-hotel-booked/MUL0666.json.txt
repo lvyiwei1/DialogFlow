@@ -1,0 +1,19 @@
+
+
+1. Ask what type of accommodation the customer is looking for.
+
+2. Ask what the customer's price range is.
+
+3. Ask what the customer's arrival date is.
+
+4. Ask how many nights the customer wants to stay.
+
+5. Ask how many guests will be staying.
+
+6. Ask if the customer has any specific requirements.
+
+7. Find accommodation that meets the customer's needs.
+
+8. Book the accommodation.
+
+9. Send the customer the reference number.

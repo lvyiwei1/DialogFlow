@@ -1,0 +1,7 @@
+
+
+1. Ask if the customer needs help
+2. Ask if the customer would like to make a reservation
+3. If yes, ask for how many people and what day
+4. Ask if the customer needs a reference number
+5. Ask if the customer has any other questions

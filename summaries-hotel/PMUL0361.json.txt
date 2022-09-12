@@ -1,0 +1,11 @@
+ 
+
+1. Ask about the type of food the customer is looking for.
+2. Ask about the location the customer would like to dine in.
+3. Ask about the type of accommodation the customer is looking for.
+4. Ask about the price range the customer is looking for.
+5. Ask about the day the customer would like to travel.
+6. Ask about the time the customer would like to travel.
+7. Ask about the arrival location.
+8. Ask about the departure location.
+9. Book the taxi for the customer.

@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what their specific needs and requirements are for their hotel stay.
+
+2. Based on the customer's requirements, recommend a specific hotel that meets their needs.
+
+3. Ask the customer if they would like to book a room at the recommended hotel.
+
+4. Once the customer has confirmed that they would like to book a room, complete the booking process and provide them with a reference number.
+
+5. Thank the customer for their business and let them know that you hope they enjoy their stay.

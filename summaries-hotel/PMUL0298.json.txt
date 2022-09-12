@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's location preferences.
+2. Find out the customer's price range.
+3. Find out the customer's star rating preference.
+4. Find a hotel that meets the customer's specifications.
+5. Give the customer the contact information for the hotel.

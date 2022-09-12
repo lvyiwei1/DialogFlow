@@ -1,0 +1,8 @@
+
+
+1. Ask customer what kind of assistance they need
+2. If customer needs help booking a hotel, ask for more information about their stay
+3. Find a hotel that meets the customer's needs
+4. Book the hotel for the customer
+5. Confirm the details of the booking with the customer
+6. Thank the customer for their business

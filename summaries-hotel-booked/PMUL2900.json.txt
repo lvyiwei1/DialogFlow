@@ -1,0 +1,21 @@
+
+
+1. Find out the customer's desired location.
+
+2. Find out the customer's desired type of accommodation.
+
+3. Find out the customer's desired dates of stay.
+
+4. Find out the customer's desired number of nights.
+
+5. Find out the customer's desired number of guests.
+
+6. Find out the customer's desired type of room.
+
+7. Find out the customer's desired type of bed.
+
+8. Find out the customer's desired amenities.
+
+9. Find out the customer's desired price range.
+
+10. Make a reservation for the customer.

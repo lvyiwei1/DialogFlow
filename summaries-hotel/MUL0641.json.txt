@@ -1,0 +1,6 @@
+
+
+1) Asking the customer what their budget is 
+2) Finding a hotel that matches the customer's budget 
+3) Checking to see if the hotel has free parking 
+4) Booking the room for the customer

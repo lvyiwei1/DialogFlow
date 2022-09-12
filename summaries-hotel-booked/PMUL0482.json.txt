@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what they are looking for.
+2. Ask the customer what their budget is.
+3. Ask the customer what their preferred location is.
+4. Ask the customer what their check-in and check-out dates are.
+5. Ask the customer how many people will be staying in the room.
+6. Ask the customer if they have any special requests.
+7. Book the hotel room and provide the customer with a confirmation number.
+8. If the customer needs a restaurant, help them find one and make a reservation.
+9. If the customer needs a taxi, help them book one and provide the taxi's contact information.

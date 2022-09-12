@@ -1,0 +1,9 @@
+
+
+1. Find the customer's desired hotel.
+
+2. Ask if the customer needs a reservation.
+
+3. If so, make the reservation for the customer.
+
+4. Ask if the customer needs any other assistance.

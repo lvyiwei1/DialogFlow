@@ -1,0 +1,7 @@
+
+
+1. Finding a hotel that meets the customer's needs
+2. Checking for available dates and times
+3. Booking the hotel for the customer
+4. Providing the customer with the details of the booking
+5. Saying goodbye to the customer

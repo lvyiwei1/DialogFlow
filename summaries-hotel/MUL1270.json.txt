@@ -1,0 +1,8 @@
+
+
+1. Find out if customer needs a hotel or guesthouse.
+2. Ask how many people need a room and for how many nights.
+3. Determine what other criteria the customer has for their hotel.
+4. Make a list of hotels that match the customer's criteria.
+5. Help the customer choose a hotel and make a reservation.
+6. Ask if the customer needs any other information or services.

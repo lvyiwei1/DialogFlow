@@ -1,0 +1,7 @@
+
+
+1) Get the customer's location
+2) Get the customer's budget
+3) Get the customer's dates
+4) Get the customer's preferred type of room
+5) Get the customer's preferred hotel amenities

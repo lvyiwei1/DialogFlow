@@ -1,0 +1,10 @@
+
+
+1. Ask the customer what type of accommodation they are looking for (e.g. hotel, guesthouse, etc.)
+2. Ask the customer for their preferred price range
+3. Ask the customer for their preferred location
+4. Ask the customer for the number of people that will be staying
+5. Ask the customer for the number of nights they will be staying
+6. Ask the customer for their preferred check-in date
+7. Make a reservation for the customer
+8. Thank the customer for using the service

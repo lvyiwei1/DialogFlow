@@ -1,0 +1,6 @@
+
+
+1. Find the customer's desired hotel location.
+2. Assist with a booking at the hotel.
+3. Find an expensive seafood restaurant.
+4. Book a taxi to pick up the customer from the hotel.

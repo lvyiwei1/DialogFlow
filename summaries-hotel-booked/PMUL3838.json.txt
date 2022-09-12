@@ -1,0 +1,7 @@
+
+
+1. Get the details of the customer's desired stay, including dates, number of guests, and any special requirements.
+
+2. Find a hotel that meets the customer's needs and make a reservation.
+
+3. Give the customer the reference number for the reservation.

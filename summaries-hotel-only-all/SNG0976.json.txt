@@ -1,0 +1,7 @@
+
+
+Find out the customer's needs and preferences.
+Search for available hotels that match the customer's needs and preferences.
+Show the customer the available options.
+Get confirmation from the customer on the chosen option.
+Help the customer book the room.

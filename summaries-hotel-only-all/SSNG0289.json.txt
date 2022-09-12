@@ -1,0 +1,8 @@
+
+
+1. Asking the customer what kind of property they are looking for
+2. Asking the customer for their preferred location
+3. Checking if there are any properties available that meet the customer's criteria
+4. If there are no properties available, asking the customer if they are willing to change any of their criteria
+5. Booking the property for the customer
+6. Giving the customer the address and reference number for the property

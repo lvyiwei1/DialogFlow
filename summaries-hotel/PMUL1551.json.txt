@@ -1,0 +1,5 @@
+
+
+1. Ask for the customer's desired price range.
+2. Ask for the customer's preferred location.
+3. Ask if the customer would like to make a reservation.

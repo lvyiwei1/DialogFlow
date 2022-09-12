@@ -1,0 +1,9 @@
+
+
+1. Find out what the customer is looking for in a hotel.
+
+2. Identify hotels in the area that meet the customer's needs.
+
+3. Make a reservation for the customer.
+
+4. Provide the customer with information about the hotel, including the address, phone number, and postcode.

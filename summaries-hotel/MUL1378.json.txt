@@ -1,0 +1,8 @@
+
+
+- Ask customer what type of room they are looking for 
+- Ask for the number of people 
+- Ask for the number of nights 
+- Ask for the date 
+- Book the room 
+- Give the customer the reference number

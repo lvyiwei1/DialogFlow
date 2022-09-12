@@ -1,0 +1,5 @@
+
+
+1. recommending a hotel
+2. booking the hotel
+3. providing a reference number

@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what area they would like to stay in and what their price range is.
+
+2. Find a list of available hotels that meet the customer's requirements.
+
+3. Book the hotel for the customer and give them the reference number.
+
+4. Book a taxi to take the customer to their hotel.

@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+2. Get clarification on the customer's requirements.
+3. Recommend a hotel that meets the customer's needs.
+4. Book the hotel for the customer.
+5. Provide the customer with the relevant information about their booking.

@@ -1,0 +1,15 @@
+
+
+1. Ask for customer preference on hotel type, location, price range, and amenities.
+
+2. Search for hotels that match customer preferences.
+
+3. Provide customer with list of matching hotels, including prices and amenities.
+
+4. Ask for customer's arrival day and length of stay.
+
+5. Ask for number of people in customer's party.
+
+6. Ask for confirmation on customer's preferences.
+
+7. Book hotel for customer.

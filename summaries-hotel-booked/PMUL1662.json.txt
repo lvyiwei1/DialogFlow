@@ -1,0 +1,9 @@
+
+
+1. The customer needs to know the name or area of the hotel they are looking for.
+
+2. The customer needs to know the dates they are looking to stay.
+
+3. The customer needs to know how many people will be staying in the room.
+
+4. Once the customer has provided this information, the booking can be made.

@@ -1,0 +1,11 @@
+
+
+1. Booking a hotel with a zero star rating
+2. Checking on available dates
+3. Booking a hotel in the centre
+4. Checking if booking is successful
+5. Booking a hotel for 5 nights starting on Thursday
+6. Checking if booking is successful
+7. Booking a hotel for 5 nights starting on Saturday
+8. Checking if booking is successful
+9. Thanking the customer and goodbye

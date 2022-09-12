@@ -1,0 +1,13 @@
+
+
+1. Ask the customer which type of hotel they would like.
+
+2. Ask the customer for the dates they need the hotel.
+
+3. Ask the customer how many people will be staying in the hotel room.
+
+4. Find a hotel that meets the customer's needs.
+
+5. Book the hotel room for the customer.
+
+6. Thank the customer for their business.

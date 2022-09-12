@@ -1,0 +1,7 @@
+
+
+1. Ask for specific details about what the customer is looking for in a hotel.
+
+2. Recommend a hotel that meets the customer's needs.
+
+3. Make a reservation for the customer at the recommended hotel.

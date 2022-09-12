@@ -1,0 +1,9 @@
+
+
+1. Ask what type of seafood the customer is looking for.
+2. Ask if the customer would like to make a booking.
+3. Ask the customer for their preferred date and time.
+4. Ask the customer for their contact information.
+5. Ask the customer for the number of people in their party.
+6. Give the customer a reference number for their booking.
+7. Thank the customer for their business.

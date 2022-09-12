@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+2. Ask the customer if they have a preferred location.
+3. Ask the customer what their budget is.
+4. Make a recommendation based on the customer's preferences.
+5. Give the customer the contact information for the hotel.
+6. Make sure the customer has all the information they need.
+7. Thank the customer and wish them a good stay.

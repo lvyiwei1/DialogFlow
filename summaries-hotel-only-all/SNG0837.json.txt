@@ -1,0 +1,6 @@
+
+
+1. Ask what type of property the customer is looking for
+2. Ask what amenities the customer is looking for
+3. Ask what dates the customer is looking to stay
+4. Make a booking based on the customer's preferences

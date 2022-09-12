@@ -1,0 +1,11 @@
+
+
+
+
+1) Find out the customer's needs in terms of price, location, and amenities.
+
+2) Find a hotel that meets the customer's needs and confirm availability.
+
+3) Check the customer's train schedule and book tickets accordingly.
+
+4) Make sure the customer has all the information they need for their stay.

@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what their budget is.
+2. Ask the customer if they have any preferences for their accommodations.
+3. Search for hotels or guesthouses that meet the customer's budget and preferences.
+4. Recommend a hotel or guesthouse to the customer.
+5. Book the hotel or guesthouse for the customer.
+6. Ask the customer for their contact information.
+7. Thank the customer for their call.

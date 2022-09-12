@@ -1,0 +1,6 @@
+
+
+1. Ask which hotel the customer is looking to stay at.
+2. Ask for how many people and what dates the customer is looking to stay.
+3. Book the hotel for the customer.
+4. Send the customer the car type and contact number for the taxi.

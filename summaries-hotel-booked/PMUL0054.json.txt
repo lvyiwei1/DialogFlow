@@ -1,0 +1,11 @@
+
+
+1. Ask the customer which side of town they would like to stay in.
+2. Ask the customer if they have any specific hotel requirements.
+3. Find a hotel that matches the customer's needs.
+4. Book the hotel for the customer.
+5. Ask the customer if they need any restaurant reservations.
+6. Find a restaurant that matches the customer's needs.
+7. Book the restaurant for the customer.
+8. Ask the customer if they need a taxi.
+9. Book the taxi for the customer.

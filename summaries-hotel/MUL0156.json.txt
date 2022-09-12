@@ -1,0 +1,6 @@
+
+1. Allow customer to describe what they are looking for in a hotel
+2. Ask clarifying questions if needed to gain more information
+3. Find a hotel that meets the customer's needs
+4. Give the customer the contact information for the hotel
+5. Verify that the customer is satisfied with the hotel selection

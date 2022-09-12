@@ -1,0 +1,7 @@
+
+
+1. Asking the customer for their preferred location.
+2. Searching for hotels in the preferred location that match the customer's requirements.
+3. Booking the hotel for the customer.
+4. Getting the contact information for the taxi company.
+5. Booking the taxi for the customer.

@@ -1,0 +1,6 @@
+
+
+1. Get the customer's criteria for the hotel (location, star rating, price, etc)
+2. Find hotels that match the customer's criteria
+3. Recommend a hotel to the customer
+4. Make a reservation for the customer (if desired)

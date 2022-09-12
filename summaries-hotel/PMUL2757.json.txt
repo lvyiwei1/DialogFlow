@@ -1,0 +1,5 @@
+
+
+1. Ask the customer when they want to start their stay and how many guests they have.
+2. Book the room.
+3. Thank the customer.

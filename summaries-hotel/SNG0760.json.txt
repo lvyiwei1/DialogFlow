@@ -1,0 +1,3 @@
+
+
+The customer wants to book a room at the Cambridge Belfry hotel for four nights, starting from Sunday. The customer provides the dates of their stay and the number of guests. The service books the room and provides a reference number.

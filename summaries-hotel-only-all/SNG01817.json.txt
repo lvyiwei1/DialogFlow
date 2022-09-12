@@ -1,0 +1,10 @@
+
+
+
+1. Ask the customer what they are looking for in a hotel room.
+
+2. Find a hotel that meets the customer's needs and budget.
+
+3. Book the hotel room for the customer.
+
+4. confirn the booking with the customer.

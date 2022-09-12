@@ -1,0 +1,6 @@
+
+
+1. Finding a hotel that meets the customer's needs
+2. Getting the contact information and address for the hotel
+3. Reserving a room for the customer
+4. Booking a taxi to take the customer to the hotel

@@ -1,0 +1,10 @@
+
+
+1. Find out what area of town the customer wants to stay in.
+2. Find a guesthouse that is in that area and has the amenities the customer wants.
+3. Book the room for the customer.
+4. Give the customer the reference number for the booking.
+5. Ask if there is anything else the customer needs.
+6. If the customer needs a restaurant recommendation, give them one.
+7. Give the customer the phone number and postcode for the restaurant.
+8. Ask if the customer needs help booking the restaurant.

@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what their preferred location is.
+
+2. Ask the customer if they have any preferences in terms of star rating or price range.
+
+3. If the customer does not have any preferences, try to find a hotel that meets their criteria in the preferred location.
+
+4. If the customer still cannot find a suitable hotel, try another location.
+
+5. Once the customer has found a suitable hotel, book the reservation.

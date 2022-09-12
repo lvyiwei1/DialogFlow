@@ -1,0 +1,11 @@
+
+
+
+
+Ask the customer what type of hotel they are looking for.
+
+Ask the customer what their budget is for the hotel.
+
+Find a hotel that meets the customer's needs and send them the information.
+
+Book the hotel for the customer.

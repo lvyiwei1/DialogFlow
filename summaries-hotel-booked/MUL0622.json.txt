@@ -1,0 +1,11 @@
+
+
+1. Ask customer what they are looking for in a hotel
+2. Ask customer what their budget is
+3. Ask customer if they want a specific location
+4. Ask customer if they want any additional amenities
+5. Find hotels that match the customer criteria
+6. Ask customer if they want to book a stay
+7. If yes, ask for their arrival date
+8. Book the stay and provide the customer with a reference number
+9. Ask if there is anything else the customer needs

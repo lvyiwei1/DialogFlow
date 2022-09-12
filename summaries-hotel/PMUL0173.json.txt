@@ -1,0 +1,6 @@
+
+
+1. Find out what type of restaurant the customer is looking for. 
+2. Make a recommendation for a specific restaurant. 
+3. Find out if the customer needs a reservation. 
+4. If a reservation is needed, make the reservation and give the customer the reference number.

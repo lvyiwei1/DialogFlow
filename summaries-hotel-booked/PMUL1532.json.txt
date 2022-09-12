@@ -1,0 +1,6 @@
+
+
+1. Asking the customer what type of accommodation they are looking for.
+2. If the customer is looking for a hotel, ask for the number of people and the dates of their stay.
+3. Book the hotel room and give the customer the reference number.
+4. Ask the customer if there is anything else you can help them with.

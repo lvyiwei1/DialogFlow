@@ -1,0 +1,11 @@
+
+
+1. Find out the customer's budget.
+
+2. Ask the customer for their preferred location.
+
+3. Find hotels in the customer's budget and preferred location.
+
+4. Present the customer with the options and get more information if needed.
+
+5. Once the customer has made a decision, help them book the hotel.

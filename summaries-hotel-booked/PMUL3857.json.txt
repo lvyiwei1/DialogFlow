@@ -1,0 +1,9 @@
+
+
+Get the customer's price range.
+Get the customer's hotel preferences.
+Get the customer's dates.
+Get the customer's party size.
+Get the customer's arrival time.
+Get the customer's destination.
+Get the customer's contact information.

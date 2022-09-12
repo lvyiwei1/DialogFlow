@@ -1,0 +1,7 @@
+
+
+Determine the customer's needs (e.g. number of people, amenities, etc.).
+
+Recommend a hotel based on the customer's needs.
+
+Book the hotel for the customer.

@@ -1,0 +1,11 @@
+
+
+1. Service: I have many 4 star hotels. Do you have a price range or area of town in mind?
+2. Customer: I would like it to be in the moderate price range and have free parking 
+3. Service: Unfortunately, I don't have any hotels that fit that criteria. Would you consider a guesthouse in that range?
+4. Customer: Unfortunately I need a hotel that is 4 stars with free parking. Do you have one that is not in the moderate price range?
+5. Service: There is one in the price range of cheap would you like me to book that one.
+6. Customer: Yes, that would be fine. 4 people, 4 nights, starting from tuesday.
+7. Service: Unfortunately that day is unavailable for that many days. Do you have an alternative?
+8. Customer: Would you try for 2 nights instead? And, what is the name of the hotel?
+9. Service

@@ -1,0 +1,8 @@
+
+
+1. Ask customer which city they are looking to stay in.
+2. Ask customer how many people will be staying.
+3. Ask customer how many nights they plan on staying.
+4. Ask customer if they have any specific requirements for their stay.
+5. If customer is happy with the options given, book the hotel and give them the reference number.
+6. If customer is not ready to book, provide them with the contact information for the hotel.

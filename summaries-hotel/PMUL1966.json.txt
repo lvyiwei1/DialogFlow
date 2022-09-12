@@ -1,0 +1,7 @@
+
+
+1. The customer should know the location of where they are staying.
+2. The customer should have a specific time they would like to arrive.
+3. The customer should have the number of people who will be staying at the hotel.
+4. The customer should have the number of nights they will be staying at the hotel.
+5. The customer should have a price range for the hotel.

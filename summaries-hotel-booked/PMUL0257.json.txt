@@ -1,0 +1,6 @@
+
+
+1. Customer provides desired location, room type, and dates of stay.
+2. Service provides options that meet the customer's requirements.
+3. Customer makes a selection and provides payment information.
+4. Service confirms the reservation and provides a reference number.

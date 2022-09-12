@@ -1,0 +1,7 @@
+
+
+1. Ask the customer for their desired price range and star rating.
+2. If the customer cannot find a hotel within their desired range, offer to search again with different specifications.
+3. Once a hotel is found, ask the customer if they would like to book it.
+4. If the customer needs transportation, offer to schedule it for them.
+5. Thank the customer and offer any additional assistance.

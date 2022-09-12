@@ -1,0 +1,11 @@
+
+
+1. The customer contacts the service and asks for help in finding a restaurant called Stazione Restaurant and Coffee Bar.
+
+2. The service representative locates the restaurant and books a table for four people.
+
+3. The customer asks for help in finding accommodation, and the service representative provides a list of options.
+
+4. The customer chooses a guest house and the service representative books it for four people for two nights.
+
+5. The service representative books a taxi to pick the customer up from the guest house and take them to the restaurant.

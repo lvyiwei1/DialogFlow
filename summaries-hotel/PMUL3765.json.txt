@@ -1,0 +1,8 @@
+
+
+1. Ask the customer what their desired location is.
+2. Ask the customer what type of attractions they are interested in.
+3. Ask the customer what their budget is for a hotel.
+4. Find a hotel that meets the customer's needs and provide the customer with the contact information.
+5. Ask the customer if they need help booking the hotel.
+6. If the customer does need help booking the hotel, assistance in doing so.

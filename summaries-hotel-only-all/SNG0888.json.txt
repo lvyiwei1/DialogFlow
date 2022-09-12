@@ -1,0 +1,11 @@
+
+
+In order to help a customer book a hotel, the key steps are:
+
+1. Ask the customer which area they would like to stay in.
+
+2. Ask the customer if they have a star rating preference for the guesthouse.
+
+3. Find a guesthouse that meets the customer's requirements.
+
+4. Book the room for the customer.

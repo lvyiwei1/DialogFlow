@@ -1,0 +1,8 @@
+
+
+1. Ask the customer for their budget.
+2. Ask the customer for their desired location.
+3. Ask the customer for the number of people in their party.
+4. Make a booking based on the customer's specifications.
+5. Give the customer the reference number for their booking.
+6. Ask the customer if they need any other information or services.

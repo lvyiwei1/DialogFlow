@@ -1,0 +1,11 @@
+
+
+1. To help a customer book a hotel, the first step is to find out their budget and preferences.
+
+2. Once the customer's budget and preferences are known, the next step is to find a hotel that meets their needs.
+
+3. Once a hotel is found, the next step is to book a room for the customer.
+
+4. Once the room is booked, the next step is to help the customer find a place to eat.
+
+5. Finally, the last step is to help the customer book a taxi to their hotel.

@@ -1,0 +1,6 @@
+
+
+1. Asking when the customer would like to stay
+2. Asking where the customer would like to stay
+3. Recommending a hotel that fits the customer's needs
+4. Booking the hotel for the customer

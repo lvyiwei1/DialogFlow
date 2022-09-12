@@ -1,0 +1,7 @@
+
+
+1. Ask the customer if they are looking for a hotel or a guesthouse.
+
+2. If they are looking for a hotel, ask them when they would like to stay and how many people will be staying.
+
+3. Book the hotel for the customer and provide them with a reference number.

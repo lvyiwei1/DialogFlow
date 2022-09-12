@@ -1,0 +1,7 @@
+
+
+1. Asking the customer what their budget is for the hotel stay. 
+2. Narrowing down the choices of hotels based on the customer's budget. 
+3. Asking the customer if they have any preferences for their hotel stay. 
+4. Booking the hotel for the customer. 
+5. Giving the customer the postcode for the hotel.

@@ -1,0 +1,9 @@
+
+
+
+
+1. Ask the customer what area of town they would like to stay in.
+2. Ask the customer what their budget is.
+3. Find a hotel that meets the customer's needs in terms of budget and location.
+4. Book the hotel for the customer.
+5. Ask the customer if they need any other assistance.

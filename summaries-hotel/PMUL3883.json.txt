@@ -1,0 +1,6 @@
+
+
+1. Ask customer for specific needs 
+2. Find hotels that match customer's needs 
+3. Book hotel for customer 
+4. Give customer reservation number

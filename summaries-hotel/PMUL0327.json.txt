@@ -1,0 +1,9 @@
+
+
+1. Find out what type of accommodation the customer is looking for.
+2. Identify the customer's budget.
+3. Ask the customer for their preferred location.
+4. Recommend a few options to the customer.
+5. Find out if the customer has any specific requirements.
+6. Help the customer make a reservation.
+7. Book a taxi to take the customer to their destination.

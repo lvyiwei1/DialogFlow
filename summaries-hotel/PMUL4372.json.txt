@@ -1,0 +1,7 @@
+
+
+1. Get customer's requirements (price range, need for free parking and wifi, number of nights needed).
+
+2. Find a hotel that meets the customer's requirements.
+
+3. Book the hotel for the customer and provide a reference number.

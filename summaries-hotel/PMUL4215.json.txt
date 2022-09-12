@@ -1,0 +1,7 @@
+
+
+1. The customer expresses a need for help with booking a hotel.
+2. The service provider asks for specific details about the customer's preferences.
+3. The service provider narrows down the options based on the customer's preferences.
+4. The service provider presents the options to the customer.
+5. The customer makes a selection and the booking is complete.

@@ -1,0 +1,13 @@
+
+
+1. Finding a hotel:
+
+The customer should first specify what kind of hotel they are looking for, in terms of price range, location, and amenities. The service can then provide a list of options that meet the customer's needs.
+
+2. Booking the hotel:
+
+The customer should provide the dates they need the hotel for, as well as the number of people. The service can then book the hotel and provide the customer with a reference number.
+
+3. Arranging transportation:
+
+The customer should specify when they need to be picked up and the service can then book a taxi. The customer should be given the contact information for the taxi company.

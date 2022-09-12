@@ -1,0 +1,9 @@
+
+
+1. Find out the customer's needs (e.g. location, price range, etc.)
+
+2. Make suggestions based on the customer's needs
+
+3. Make a reservation
+
+4. Provide the customer with a reference number

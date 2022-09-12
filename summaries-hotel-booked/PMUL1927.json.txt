@@ -1,0 +1,8 @@
+
+
+1. Ask customer where they are looking to stay.
+2. Ask customer what their budget is for a room.
+3. Ask customer if they have any preferences for their stay.
+4. If a hotel is available, make a reservation for the customer.
+5. If a hotel is not available, suggest other options to the customer.
+6. Give the customer the information for their reservation.

@@ -1,0 +1,9 @@
+
+
+1. Get the customer's location.
+2. Get the customer's destination.
+3. Find a train that meets the customer's schedule.
+4. Give the customer the train details and the reference number.
+5. Find a guesthouse in the moderate price range.
+6. Get the guesthouse's postal code and check for internet availability.
+7. Book the guesthouse for the customer.

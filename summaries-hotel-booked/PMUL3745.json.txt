@@ -1,0 +1,6 @@
+
+
+1. Ask what kind of hotel the customer is looking for.
+2. Ask what dates the customer is looking for.
+3. Ask what location the customer is looking for.
+4. Book the hotel for the customer.

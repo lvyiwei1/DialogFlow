@@ -1,0 +1,9 @@
+
+
+1. Ask the customer if they have any specific requirements for their stay.
+
+2. If the customer has a specific hotel in mind, check to see if it meets their needs.
+
+3. If the customer does not have a specific hotel in mind, recommend some hotels that might suit their needs.
+
+4. Once the customer has selected a hotel, help them to book their stay.

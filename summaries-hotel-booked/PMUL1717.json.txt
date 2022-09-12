@@ -1,0 +1,5 @@
+
+
+1. Asking the customer which hotel they would like to stay in 
+2. Checking if the hotel is available 
+3. Booking the room for the customer

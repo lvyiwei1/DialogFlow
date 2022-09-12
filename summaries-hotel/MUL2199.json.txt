@@ -1,0 +1,13 @@
+
+
+The key steps for helping a customer book a hotel would be as follows:
+
+1. Ask the customer what day they are looking to travel.
+
+2. Find a train that depart from Cambridge and arrives in Norwich at a price that the customer is willing to pay.
+
+3. Ask the customer if they need a place to stay.
+
+4. Find a three star guesthouse in the area that the customer is interested in.
+
+5. Book the hotel for the customer.

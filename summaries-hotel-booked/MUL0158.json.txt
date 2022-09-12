@@ -1,0 +1,11 @@
+
+
+1. Find hotels that match the customer's price range andamenity requirements.
+
+2. Find the customer's preferred hotel.
+
+3. Book the hotel for the customer.
+
+4. Get the contact information for the hotel.
+
+5. Make sure the customer has a way to get to their hotel.

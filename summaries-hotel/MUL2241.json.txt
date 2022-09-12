@@ -1,0 +1,11 @@
+
+
+Help the customer choose a guesthouse or hotel.
+
+Recommend a specific guesthouse.
+
+Provide the customer with the postcode for the guesthouse.
+
+Help the customer book a train to Cambridge.
+
+Reserve tickets for the customer and provide a confirmation number.

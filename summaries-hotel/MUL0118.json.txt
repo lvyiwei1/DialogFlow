@@ -1,0 +1,9 @@
+
+
+1. If the customer wants to book a hotel, ask them what kind of hotel they are looking for (e.g. 0 star, 1 star, 2 star, etc.)
+2. Ask the customer what their budget is for the hotel.
+3. Ask the customer if they have any specific requirements for the hotel (e.g. free wifi, location, etc.)
+4. Find a hotel that meets the customer's needs and budget.
+5. Ask the customer if they would like to book the hotel.
+6. If the customer wants to book the hotel, help them to do so.
+7. If the customer has any other questions, help them to find the answers.

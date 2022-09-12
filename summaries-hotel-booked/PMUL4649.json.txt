@@ -1,0 +1,6 @@
+
+
+1. Get the customer's name, contact information, and dates of stay.
+2. Find out the customer's preferred location, price range, and type of accommodation.
+3. Make a booking at the selected hotel and provide the customer with a reference number.
+4. Confirm the booking with the customer and provide additional information if requested.

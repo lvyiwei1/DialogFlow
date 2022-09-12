@@ -1,0 +1,1 @@
+ 1. Ask for the customer's destination. 2. Ask for the customer's travel date. 3. Provide the customer with a list of available hotels. 4. Ask the customer for their preferred price range. 5. Ask the customer for their preferred amenities. 6. Provide the customer with the contact information for the hotel.

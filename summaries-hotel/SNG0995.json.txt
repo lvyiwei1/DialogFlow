@@ -1,0 +1,19 @@
+
+
+1. Ask the customer to specify what they are looking for in a hotel (e.g. 4 stars, free parking, etc.).
+
+2. Find hotels that match the customer's criteria.
+
+3. Ask the customer if they have a preference for location.
+
+4. If the customer does have a preference for location, find hotels in that area that match the customer's criteria.
+
+5. Ask the customer if they have a preference for price.
+
+6. If the customer does have a preference for price, find hotels in that price range that match the customer's criteria.
+
+7. Recommend a hotel to the customer.
+
+8. Ask the customer if they would like to book a room.
+
+9. If the customer would like to book a room, provide the necessary information (e.g. post code, phone number).

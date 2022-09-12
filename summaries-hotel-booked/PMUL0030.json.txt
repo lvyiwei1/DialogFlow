@@ -1,0 +1,8 @@
+
+
+1. Getting specific information about the customer's needs
+2. Finding hotels that match the customer's needs
+3. Booking the hotel for the customer
+4. Providing the customer with the reference number for their booking
+5. Finding a restaurant for the customer (if requested)
+6. Providing the customer with the address and post code for the restaurant (if requested)

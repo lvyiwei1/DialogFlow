@@ -1,0 +1,15 @@
+
+
+1. Ask what kind of hotel the customer is looking for.
+
+2. Ask what size hotel the customer is looking for.
+
+3. Ask what area of town the customer would like the hotel to be located in.
+
+4. Ask what price range the customer is looking for.
+
+5. Ask if the customer has any specific preferences for the hotel.
+
+6. Ask for the customer's contact information.
+
+7. Confirm the customer's hotel booking.

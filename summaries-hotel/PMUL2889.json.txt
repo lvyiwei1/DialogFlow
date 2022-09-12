@@ -1,0 +1,6 @@
+ 
+
+1. Find out the customer's budget
+2. Find out the customer's star rating preference
+3. Find a hotel that meets the customer's budget and star rating preference
+4. Make a reservation for the customer

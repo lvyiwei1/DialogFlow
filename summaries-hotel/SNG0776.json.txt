@@ -1,0 +1,7 @@
+
+
+1. Finding out the customer's needs (price range, location, amenities, etc.)
+2. Searching for hotels that meet the customer's needs
+3. Recommending hotels to the customer
+4. Providing the contact information for the hotel
+5. Checking to see if the customer is satisfied with the hotel choice

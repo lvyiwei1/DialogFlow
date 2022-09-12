@@ -1,0 +1,11 @@
+
+
+1. Ask customer what type of hotel they are looking for.
+2. Ask customer for their budget.
+3. Ask customer where they would like to stay.
+4. Ask customer what type of room they need.
+5. Ask customer if they need any special amenities.
+6. Ask customer if they have any preferences for their stay.
+7. Ask customer for their contact information.
+8. Give customer the name, address, and phone number of the hotel.
+9. Ask customer if they need help with anything else.

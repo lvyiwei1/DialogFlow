@@ -1,0 +1,7 @@
+
+
+1. Gather customer's requirements (i.e. star rating, location, etc.)
+2. Identify available hotels meeting customer's criteria
+3. Share room rates and other relevant information about the hotel
+4. Confirm number of people staying and nights of stay
+5. Book the reservation and provide reference number to customer

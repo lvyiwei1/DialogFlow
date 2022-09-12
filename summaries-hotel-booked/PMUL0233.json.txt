@@ -1,0 +1,5 @@
+
+
+1. collecting customer information (e.g. location, number of people, days of stay)
+2. providing customer with options that match their preferences
+3. confirming bookings and providing reference numbers

@@ -1,0 +1,9 @@
+
+
+1. Find out the customer's needs for their stay.
+
+2. Suggest Cityroomz as a possible hotel, providing information about its location and price range.
+
+3. Book the room for the customer, providing them with a reference number.
+
+4. Assist with any further questions the customer might have about the hotel or the area.

@@ -1,0 +1,6 @@
+
+
+1. Find the customer's desired hotel.
+2. Provide the customer with the contact information for the hotel.
+3. Answer any additional questions the customer has about the hotel.
+4. Book a taxi for the customer to leave the hotel by the required time.

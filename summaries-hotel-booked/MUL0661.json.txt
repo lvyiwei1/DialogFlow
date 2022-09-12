@@ -1,0 +1,6 @@
+
+
+1. Find out the customer's desired dates of stay.
+2. Check availability for the customer's desired dates of stay.
+3. Book the hotel room for the customer.
+4. Give the customer the reference number for the booking.

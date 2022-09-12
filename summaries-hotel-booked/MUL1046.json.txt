@@ -1,0 +1,9 @@
+
+
+1. Find out the customer's desired hotel.
+2. Find out the customer's desired dates of stay.
+3. Find out the number of people in the customer's party.
+4. Try to book a room for the customer.
+5. If the initial booking is unsuccessful, try again with different dates or a different length of stay.
+6. Once the booking is successful, provide the customer with a reference number.
+7. Book a taxi for the customer if needed.

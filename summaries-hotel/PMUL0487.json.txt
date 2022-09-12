@@ -1,0 +1,6 @@
+
+
+1. clarify the customer's needs
+2. recommend a hotel that meets the customer's needs
+3. make a reservation for the customer
+4. provide the customer with a reference number for their reservation

@@ -1,0 +1,6 @@
+
+
+1. Gather customer requirements (e.g. price range, number of people, nights stayed, etc.).
+2. Search for available hotels that meet customer requirements.
+3. Book hotel for customer.
+4. Give customer reference number for their booking.

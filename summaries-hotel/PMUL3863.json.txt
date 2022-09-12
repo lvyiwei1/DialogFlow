@@ -1,0 +1,9 @@
+
+
+1. Ask customer about their preferred location, price range, and type of hotel.
+2. Find customer three hotel choices that match their preferences.
+3. Give customer the name, price range, and address of each hotel.
+4. Ask customer if they would like to book a reservation for any of the hotels.
+5. If yes, ask customer when they would like to start their stay and for how long.
+6. Ask for the customer's credit card information and book the reservation.
+7. Thank customer for using the service.

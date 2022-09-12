@@ -1,0 +1,10 @@
+
+
+1. In which area would you like to stay?
+2. There are 6 hotels in the east rated 4-stars ranging from cheap to moderately priced. Do you have a preference on price range?
+3. I do not, but it should have wifi.
+4. a and b guest house is the area of east and has free wifi and is a 4-star hotel. Would you like me to book it for you?
+5. Absolutely. Where are you departing from, and where would you like to go?
+6. I am departing from stevenage anytime after 17:00. I would like to go to cambridge on monday.
+7. I can get you aboard TR2656 at 17:54. Would you like me to book you a seat?
+8. The price of the ticket is 12.80 pounds per person and is payable at the train station. Is there any thing else I can assist you with today?

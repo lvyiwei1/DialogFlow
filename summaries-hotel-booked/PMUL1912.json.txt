@@ -1,0 +1,10 @@
+
+
+
+1. Asking for the customer's travel information including their departure and destination location as well as their desired arrival and departure times.
+
+2. Gathering additional information about the customer's preferences including their preferred price range, type of accommodations, and any amenities they require.
+
+3. Recommending a specific accommodation that meets the customer's needs and preferences.
+
+4. Booking the reservation for the customer and providing them with the reference number.

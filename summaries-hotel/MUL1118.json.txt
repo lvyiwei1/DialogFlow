@@ -1,0 +1,5 @@
+
+
+1. Providing a list of available hotels that meet the customer's needs
+2. Providing additional information about the hotels, if requested
+3. Booking the room for the customer

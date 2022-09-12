@@ -1,0 +1,8 @@
+
+
+1. Service asks customer what their desired destination is.
+2. Customer tells service their desired destination.
+3. Service provides customer with options for their desired destination.
+4. Customer chooses an option.
+5. Service books hotel for customer.
+6. Service provides customer with information on the hotel they booked.

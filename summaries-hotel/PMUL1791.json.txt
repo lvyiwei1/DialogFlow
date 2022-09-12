@@ -1,0 +1,6 @@
+
+
+1. Asking the customer what their needs are
+2. Pulling up hotels that meet the customer's needs
+3. Providing the customer with information about the hotel
+4. Booking the hotel for the customer

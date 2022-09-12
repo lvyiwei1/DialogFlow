@@ -1,0 +1,8 @@
+
+
+1. Ask for the hotel name
+2. Ask for the number of people
+3. Ask for the number of nights
+4. Ask for the arrival date
+5. Ask for the reference number
+6. Send the customer the reference number

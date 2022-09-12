@@ -1,0 +1,8 @@
+
+
+1. Choose a date or range of dates for the stay
+2. Choose a location for the hotel
+3. Choose the type of hotel
+4. Choose the price range for the hotel
+5. Choose the star rating for the hotel
+6. Make the reservation for the hotel

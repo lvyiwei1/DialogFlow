@@ -1,0 +1,8 @@
+
+
+1. Ask what the customer is looking for.
+2. Ask for the customer's preferred price range and whether they require internet or parking.
+3. Suggest a hotel that fits the customer's preferences.
+4. If the customer is not interested in the first suggestion, ask if they have any other preferences.
+5. If the customer would like to book a room, ask for their contact information and provide a reference number.
+6. Thank the customer and offer any additional assistance.

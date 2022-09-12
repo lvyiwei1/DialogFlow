@@ -1,0 +1,7 @@
+
+
+1. Determine customer's needs
+2. Search for options that meet customer's needs
+3. Present options to customer
+4. Book hotel for customer
+5. Train customer on how to use  hotel services

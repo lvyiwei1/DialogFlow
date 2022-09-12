@@ -1,0 +1,12 @@
+
+
+1. Asking the customer what their budget is for the hotel
+2. Asking the customer what type of hotel they are looking for
+3. Asking the customer if they have any preferences for the hotel
+4. If the customer is looking for a specific type of hotel, asking if they have any preferences for that type of hotel
+5. If the customer is looking for a specific type of hotel, asking what their budget is for that type of hotel
+6. Once the customer has given their preferences, suggesting a hotel that meets their needs
+7. If the customer is happy with the suggestion, providing the contact information for the hotel
+8. If the customer is not happy with the suggestion, asking if there is anything else they are looking for in a hotel
+9. If the customer is not happy with the suggestion, asking if they have any other preferences for the hotel
+10. Once the customer has given their preferences, suggesting a hotel that meets their needs

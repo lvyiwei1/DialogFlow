@@ -1,0 +1,13 @@
+
+
+1. Ask the customer what type of property they are looking for (e.g. hotel, guesthouse, etc.)
+
+2. Ask the customer what their budget is.
+
+3. Ask the customer what their preferred location is.
+
+4. Based on the customer's answers, provide a list of options that meet their criteria.
+
+5. Ask the customer to choose one of the options.
+
+6. Make a reservation for the customer.

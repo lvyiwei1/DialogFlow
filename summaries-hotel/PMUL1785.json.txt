@@ -1,0 +1,10 @@
+
+
+1. Get customer's location.
+2. Get customer's price range.
+3. Get customer's preferred amenities.
+4. Find hotels that match customer's criteria.
+5. Give customer hotel options.
+6. Get customer's confirmation.
+7. Book hotel room.
+8. Follow up with customer after booking.

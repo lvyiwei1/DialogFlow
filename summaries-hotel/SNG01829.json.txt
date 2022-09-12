@@ -1,0 +1,9 @@
+
+
+1. Ask the customer if they have a hotel brand in mind.
+
+2. If the customer does not have a hotel brand in mind, ask the customer if they are looking for a hotel that offers free wifi and free parking.
+
+3. If the customer is looking for a hotel that offers free wifi and free parking, provide the customer with a list of 29 options to choose from.
+
+4. Once the customer has selected a hotel, provide the customer with the hotel's address and phone number.

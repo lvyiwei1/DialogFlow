@@ -1,0 +1,9 @@
+
+
+1. Get customer's location preference.
+2. Ask for the type of attraction the customer is looking for.
+3. Suggest Nusha as a potential option.
+4. Get customer's dates of stay.
+5. Book the hotel for the customer.
+6. Get the customer's taxi preferences.
+7. Book the taxi for the customer.

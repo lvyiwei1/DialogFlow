@@ -1,0 +1,7 @@
+
+
+1. Find out what the customer is looking for in a hotel.
+2. Identify moderate hotels that meet the customer's needs.
+3. Ask if the customer would like to book.
+4. If yes, book the hotel and provide the reference number.
+5. Ask if the customer needs help with anything else.

@@ -1,0 +1,6 @@
+
+
+1. Decide on the star rating of the hotel
+2. Choose a location for the hotel
+3. Find a hotel that meets the customer's criteria
+4. Book the hotel for the customer

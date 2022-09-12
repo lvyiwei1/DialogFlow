@@ -1,0 +1,7 @@
+
+
+1. Asking the customer what type of accommodations they are looking for.
+2. Asking the customer their budget for accommodations.
+3. Asking the customer their desired location for accommodations.
+4. Booking the hotel for the customer.
+5. Giving the customer the contact information for the hotel.

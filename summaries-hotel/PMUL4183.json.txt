@@ -1,0 +1,6 @@
+
+
+1. Ask for customer preferences including price range and amenities.
+2. Based on the preferences, find a list of hotels that match the customer's needs.
+3. Narrow down the list of hotels based on customer feedback and location.
+4. Help the customer book a room in the hotel of their choice.

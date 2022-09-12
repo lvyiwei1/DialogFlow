@@ -1,0 +1,8 @@
+
+
+1. Ask the customer what their destination is.
+2. Ask the customer what type of food they are looking for.
+3. Ask the customer what time they want to leave the restaurant.
+4. Book the taxi for the customer.
+5. Find a hotel for the customer.
+6. Provide the customer with the contact number and car type for the taxi.

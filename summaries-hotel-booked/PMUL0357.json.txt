@@ -1,0 +1,10 @@
+
+
+1. Ask the customer what type of accommodation they are looking for.
+2. Ask the customer what their budget is.
+3. Ask the customer what their preferred location is.
+4. Ask the customer what dates they are looking to stay.
+5. Book the hotel for the customer.
+6. Confirm the details of the booking with the customer.
+7. Provide the customer with a reference number for the booking.
+8. Ask the customer if they need any other assistance.

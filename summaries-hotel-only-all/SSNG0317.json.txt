@@ -1,0 +1,6 @@
+
+
+1. Find a hotel that meets the customer's needs.
+2. Determine if the hotel is available for the customer's requested dates.
+3. Book the hotel for the customer.
+4. Provide the customer with the reservation details.

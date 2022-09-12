@@ -1,0 +1,9 @@
+
+
+1. First, ask the customer what their budget is for the hotel.
+
+2. Next, ask what their preferred location is.
+
+3. Once you have this information, you can give them a list of hotels that meet their needs in terms of budget and location.
+
+4. From there, the customer can choose which hotel they would like to stay in and you can help them book it.

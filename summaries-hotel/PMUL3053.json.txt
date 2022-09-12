@@ -1,0 +1,9 @@
+
+
+1. Find out the customer's dates of travel.
+2. Ask the customer how many people will be traveling.
+3. Ask the customer if they have any preferences for amenities.
+4. Find hotel options that match the customer's preferences.
+5. Give the customer the details for the chosen hotel option.
+6. Book the hotel room for the customer.
+7. Thank the customer for their business.

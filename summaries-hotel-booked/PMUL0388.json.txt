@@ -1,0 +1,14 @@
+
+
+
+1. Listen to the customer's requests and needs.
+
+2. Search for hotels that match the customer's criteria.
+
+3. Book the hotel for the customer.
+
+4. Provide the customer with the reference number for their booking.
+
+5. Answer any additional questions the customer may have.
+
+6. Wish the customer a pleasant stay.

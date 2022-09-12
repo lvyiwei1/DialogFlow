@@ -1,0 +1,11 @@
+
+
+1. Ask for the customer's price range.
+
+2. Ask for the customer's preferred location.
+
+3. Make a recommendation based on the customer's price range and preferred location.
+
+4. Give the customer the phone number and address for the recommended hotel.
+
+5. Confirm that the recommended hotel has internet access.

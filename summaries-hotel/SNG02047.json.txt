@@ -1,0 +1,9 @@
+
+
+1. The customer requests a hotel with specific characteristics.
+
+2. The service provides a list of matching hotels.
+
+3. The customer narrows down the choices and makes a decision.
+
+4. The service makes a reservation in the customer's name.

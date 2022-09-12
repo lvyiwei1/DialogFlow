@@ -1,0 +1,15 @@
+
+
+Contact the customer and ask what they are looking for
+
+Get the customer's preferences
+
+Find a hotel based on the customer's preferences
+
+Make the hotel reservation
+
+Get the hotel's contact information
+
+Get the car type for the taxi
+
+Get the contact information for the taxi

@@ -1,0 +1,8 @@
+
+
+1. Find the customer's desired location.
+2. Find an expensive hotel in the south.
+3. Get the phone number for the hotel.
+4. Book a room for the customer.
+5. Get the train information for the customer.
+6. Book the train for the customer.

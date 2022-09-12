@@ -1,0 +1,6 @@
+ 
+
+1. Ask customer for dates of stay and number of nights.
+2. Ask customer for the number of people who will be staying.
+3. Make the reservation for the customer.
+4. Ask if the customer needs help with anything else.

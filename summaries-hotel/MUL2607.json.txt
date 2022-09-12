@@ -1,0 +1,7 @@
+
+
+1. Determine the customer's dates of travel.
+2. Ask the customer how many people will be traveling.
+3. Ask the customer if they have any specific requirements for their accommodation (e.g. free parking, Wi-Fi).
+4. Find accommodation that meets the customer's requirements.
+5. Make a booking for the customer.

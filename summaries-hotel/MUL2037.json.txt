@@ -1,0 +1,7 @@
+
+
+1. Book a ticket on the desired train.
+
+2. Help the customer find a guesthouse that meets their needs in terms of price, location, amenities, etc.
+
+3. Book the guesthouse for the customer.

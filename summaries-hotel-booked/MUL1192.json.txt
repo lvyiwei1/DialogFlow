@@ -1,0 +1,11 @@
+
+
+Get the customer's name, number of people, number of nights, and dates of stay.
+
+Book the hotel for the customer.
+
+Get the contact information for the hotel.
+
+Provide the customer with the contact information for the hotel.
+
+Offer to help with anything else the customer might need.

@@ -1,0 +1,7 @@
+
+
+1) Find out what kind of place the customer is looking for (e.g. guesthouse, hotel, etc.)
+2) Find out the customer's budget
+3) Find out what the customer's priorities are (e.g. location, amenities, etc.)
+4) Find a place that meets the customer's needs and book it
+5) Give the customer the details of the booking (e.g. address, phone number, etc.)

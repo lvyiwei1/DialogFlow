@@ -1,0 +1,7 @@
+ 
+
+1. Ask the customer for their location preference.
+2. Ask the customer for their price range.
+3. Ask the customer if they have any amenities they require.
+4. based on the customer's answers, recommend a hotel.
+5. If the customer is satisfied with the recommendation, book the hotel.

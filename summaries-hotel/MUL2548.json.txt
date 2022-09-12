@@ -1,0 +1,5 @@
+
+
+1. Gather customer requirements
+2. Make hotel reservations
+3. Book taxi to hotel

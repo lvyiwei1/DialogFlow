@@ -1,0 +1,13 @@
+
+
+1. Customer asks for information on places to stay.
+2. Service provides 33 options.
+3. Customer narrows down options by asking for a specific price range and amenities.
+4. Service recommends University Arms Hotel.
+5. Customer books room for three people for three nights starting Thursday.
+6. Hotel information and reference number is given to customer.
+7. Customer asks for recommendation for a college to visit in the centre.
+8. Service recommends Christ's College.
+9. Customer asks for the post code of Christ's College.
+10. Service provides the post code.
+11. Customer thanks the service and ends the conversation.

@@ -1,0 +1,8 @@
+
+
+1. Find the customer's desired hotel.
+2. Make a reservation for the customer.
+3. Find out more about the customer's other desired destination.
+4. Book a tour or find out more information about the customer's desired destination.
+5. Provide the customer with the desired information.
+6. Thank the customer.

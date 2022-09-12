@@ -1,0 +1,9 @@
+
+
+Confirm the customer's arrival date and time
+
+Check for the availability of the hotel
+
+Get the customer's contact information
+
+Send a confirmation email to the customer

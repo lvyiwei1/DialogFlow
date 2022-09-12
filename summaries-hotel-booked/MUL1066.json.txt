@@ -1,0 +1,11 @@
+
+
+1. First, find out how many people will be staying and what days they would like to stay.
+
+2. Then, check to see if there are any vacancies that can accommodate the stay.
+
+3. If there are no vacancies, offer to book a shorter stay or a different day.
+
+4. If the booking is successful, provide the customer with a reference number.
+
+5. Finally, provide the customer with the address and phone number of the hotel.

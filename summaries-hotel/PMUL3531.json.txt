@@ -1,0 +1,3 @@
+
+
+The key steps for helping a customer book a hotel are finding out the customer's budget, finding out the customer's preferred location, finding out the customer's room preferences, and booking the room.

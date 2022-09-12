@@ -1,0 +1,9 @@
+
+
+1. Ask customer what type of establishment they are looking for (hotel or guesthouse).
+2. Find out what amenities the customer is looking for.
+3. Get clarification on any other preferences the customer may have.
+4. Recommend a hotel based on the customer's preferences.
+5. Get the postcode for the hotel.
+6. Book a table at a restaurant near the hotel.
+7. Order a taxi to pick the customer up from the hotel.

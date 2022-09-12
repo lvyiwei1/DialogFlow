@@ -1,0 +1,7 @@
+
+
+- Asking when the customer needs the hotel
+- Asking how many people will be staying
+- Asking what kind of hotel the customer is looking for
+- Giving the customer options for hotels
+- Booking the hotel for the customer

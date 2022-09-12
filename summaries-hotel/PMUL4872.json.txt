@@ -1,0 +1,6 @@
+ 
+
+1) Find out the customer's budget 
+2) Ask for the customer's preferred hotel type 
+3) Ask for the customer's preferred location 
+4) Make a reservation for the hotel

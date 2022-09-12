@@ -1,0 +1,7 @@
+
+
+1. gather information about the customer's needs
+2. recommend a hotel that meets the customer's needs
+3. provide the customer with the contact information for the hotel
+4. provide the customer with a reference number for the booking
+5. thank the customer for using the service

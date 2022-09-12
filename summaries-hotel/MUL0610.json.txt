@@ -1,0 +1,6 @@
+
+
+1. Find the hotel they are looking for.
+2. Determine if it has the amenities they need.
+3. Book the room for them.
+4. Confirm the booking and provide a reference number.

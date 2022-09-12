@@ -1,0 +1,11 @@
+
+
+1. Determine the customer's price range.
+
+2. Ask the customer if they have any preferences for the location of their hotel.
+
+3. Once the customer has provided their preferences, search for hotels that meet their requirements.
+
+4. Help the customer make a reservation at their chosen hotel.
+
+5. Thank the customer for their business.

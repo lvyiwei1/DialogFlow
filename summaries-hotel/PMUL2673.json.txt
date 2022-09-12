@@ -1,0 +1,6 @@
+
+
+1. The customer should specify the dates they need the room, how many people will be staying, and what their overall budget is.
+2. The customer should also specify what part of town they will be visiting.
+3. Once the customer has found a hotel that meets their needs, they should make a reservation.
+4. The customer should provide their contact information and credit card information to complete the reservation.

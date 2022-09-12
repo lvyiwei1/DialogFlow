@@ -1,0 +1,12 @@
+
+
+
+1. Find out what kind of accommodation the customer is looking for.
+
+2. Ask the customer for their preferred location.
+
+3. Ask the customer for their check-in and check-out dates.
+
+4. Find a hotel that meets the customer's needs and make a reservation.
+
+5. Give the customer the reference number for their reservation.

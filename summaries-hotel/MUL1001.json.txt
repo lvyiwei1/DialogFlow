@@ -1,0 +1,11 @@
+
+
+1. Determine the customer's needs.
+
+2. Find a hotel that meets the customer's needs.
+
+3. Get the contact information for the hotel.
+
+4. Book the hotel for the customer.
+
+5. Arrange transportation to and from the hotel.

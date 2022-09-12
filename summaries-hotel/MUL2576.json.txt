@@ -1,0 +1,6 @@
+
+
+-Determine the customer's budget
+-Determine the customer's preferred location
+-Determine the customer's preferred amenities
+-Make a hotel reservation based on the customer's preferences

@@ -1,0 +1,9 @@
+
+
+1. Find out where the customer wants to go.
+2. Find out when the customer wants to travel.
+3. Find out what type of accommodation the customer wants.
+4. Find out how many people will be traveling.
+5. Find out how long the customer wants to stay.
+6. Find a hotel that meets the customer's criteria.
+7. Book the hotel for the customer.

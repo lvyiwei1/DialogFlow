@@ -1,0 +1,7 @@
+
+
+1. Find out what the customer is looking for.
+
+2. Find out if the hotel is available for the customer's dates and party size.
+
+3. If available, book the hotel for the customer and provide them with a reference number.

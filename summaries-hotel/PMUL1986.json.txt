@@ -1,0 +1,9 @@
+
+
+
+
+1. Ask the customer where they would like to stay.
+2. Ask the customer what type of accommodation they are looking for.
+3. Ask the customer what their budget is.
+4. Recommend a hotel that meets the customer's criteria.
+5. Make the booking for the customer.

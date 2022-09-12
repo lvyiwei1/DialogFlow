@@ -1,0 +1,7 @@
+
+
+1. Gather information about the customer's needs.
+
+2. Make suggestions about hotels that might meet the customer's needs.
+
+3. Help the customer book the hotel by providing information about train times and costs.

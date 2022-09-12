@@ -1,0 +1,8 @@
+
+
+- Ask the customer what their budget is
+- Ask the customer what their preferred star rating is
+- Ask the customer how many people will be staying
+- Ask the customer when they will be arriving
+- Help the customer find a hotel that meets their criteria
+- Book the hotel for the customer

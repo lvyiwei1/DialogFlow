@@ -1,0 +1,9 @@
+
+
+1. The customer contacts the help desk.
+2. The help desk asks the customer for their requirements.
+3. The help desk provides the customer with a list of options that meet their requirements.
+4. The customer chooses an option.
+5. The help desk makes a reservation for the customer.
+6. The help desk provides the customer with the contact information for the hotel.
+7. The customer thanks the help desk.

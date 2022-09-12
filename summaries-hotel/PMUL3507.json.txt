@@ -1,0 +1,6 @@
+
+
+1. Ask the customer if they have any preferences in price range or area of town.
+2. Make a booking for the customer.
+3. Give the customer the reference number for the booking.
+4. Help the customer book a taxi.

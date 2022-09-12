@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what type of accommodation they are looking for.
+
+2. Ask the customer if they have any specific requirements for the accommodation.
+
+3. Based on the customer's requirements, search for available options.
+
+4. Present the available options to the customer.
+
+5. Help the customer make a reservation.

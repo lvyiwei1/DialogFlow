@@ -1,0 +1,8 @@
+
+
+1. Verify the customer's need.
+2. Ask for the dates of stay, number of people, and number of rooms needed.
+3. Search for accommodation options that meet the customer's needs.
+4. Identify the specific accommodation the customer wants to book.
+5. Collect the customer's contact information.
+6. Book the room for the customer.

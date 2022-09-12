@@ -1,0 +1,7 @@
+
+
+1. Ask the customer where they are going.
+2. Ask the customer what time they want to arrive by.
+3. Find hotels in the customer's price range with free parking.
+4. Recommend a few hotels to the customer.
+5. Give the customer the contact information for the hotel.

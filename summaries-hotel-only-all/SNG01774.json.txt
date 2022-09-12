@@ -1,0 +1,9 @@
+
+
+1. Ask customer for the name of the hotel they are looking for.
+2. Ask customer for their desired check-in and check-out dates.
+3. Ask customer for the number of guests.
+4. Book the hotel for the customer.
+5. Give the customer their reference number.
+6. Ask if there is anything else the customer needs help with.
+7. Thank the customer for using the service.

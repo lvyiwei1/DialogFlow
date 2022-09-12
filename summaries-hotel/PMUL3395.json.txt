@@ -1,0 +1,5 @@
+
+
+- Choose a hotel based on the customer's needs
+- Find the contact information for the hotel
+- Book a stay at the hotel for the customer

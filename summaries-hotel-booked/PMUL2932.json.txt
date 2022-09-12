@@ -1,0 +1,6 @@
+
+
+1. Find out what area the customer would like to stay in.
+2. Ask if there are any specific requirements for the hotel (e.g. free parking).
+3. Find a suitable hotel in the area that meets the customer's requirements.
+4. Book the hotel for the customer.

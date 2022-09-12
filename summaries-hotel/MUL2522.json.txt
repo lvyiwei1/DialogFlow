@@ -1,0 +1,9 @@
+
+
+1. Ask the customer if they have any particular preferences for their hotel stay.
+
+2. If the customer does have preferences, find hotels that match those preferences.
+
+3. If the customer does not have preferences, recommend hotels based on price or location.
+
+4. Once the customer has selected a hotel, help them book a room.

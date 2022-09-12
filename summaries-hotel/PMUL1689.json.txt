@@ -1,0 +1,15 @@
+
+1. The customer contacts the service.
+2. The service asks the customer what kind of accommodation they are looking for.
+3. The customer tells the service what kind of accommodation they are looking for.
+4. The service recommends a 4 star guesthouse on the north side.
+5. The customer asks the service to book the accommodation.
+6. The service makes the booking.
+7. The service confirms the booking with the customer.
+8. The service gives the customer the reference number for the booking.
+9. The service asks the customer if there is anything else they can help with.
+10. The customer asks the service for help finding a train to Cambridge.
+11. The service recommends a train that leaves at 14:16 and arrives by 15:35.
+12. The customer asks the service how much the train ticket will cost.
+13. The service tells the customer the train ticket will cost 17.60 pounds.
+14.

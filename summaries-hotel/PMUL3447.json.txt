@@ -1,0 +1,6 @@
+
+
+1. Helps customer identify train times and book a train based on their budget and schedule
+2. Helps customer identify a suitable guest house based on their budget and location preferences
+3. Helps customer book a room at the guest house for the required number of nights
+4. Provides the customer with a reference number for their booking

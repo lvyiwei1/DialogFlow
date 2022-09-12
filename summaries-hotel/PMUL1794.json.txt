@@ -1,0 +1,8 @@
+
+
+1. Determine the dates the customer needs to stay.
+2. Determine the number of people that will need to stay in the room.
+3. Ask if the customer has any specific requirements for their stay, such as internet access.
+4. Suggest a hotel that meets the customer's needs.
+5. Book the hotel room for the customer.
+6. Provide the customer with the reference number for their booking.

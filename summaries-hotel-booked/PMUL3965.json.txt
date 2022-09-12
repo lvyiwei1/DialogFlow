@@ -1,0 +1,9 @@
+
+
+1. Choose a hotel
+2. Choose a room type
+3. Choose a rate type
+4. Enter contact information
+5. Enter payment information
+6. Confirm booking
+7. Send confirmation

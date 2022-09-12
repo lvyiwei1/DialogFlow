@@ -1,0 +1,7 @@
+
+
+1. Ask the customer if they have a preferred area for their hotel.
+2. Listen to the customer's preferences and make a recommendation.
+3. Ask the customer if they would like to book the hotel.
+4. If the customer does want to book the hotel, help them through the process.
+5. Ask the customer if they need any further assistance.

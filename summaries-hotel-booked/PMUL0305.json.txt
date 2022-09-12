@@ -1,0 +1,9 @@
+
+
+1. Get the customer's information (e.g., name, contact information, number of people, number of nights).
+
+2. Select a hotel that meets the customer's needs (e.g., price range, location, amenities).
+
+3. Book the hotel room for the customer.
+
+4. Provide the customer with a reference number for the booking.

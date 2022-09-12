@@ -1,0 +1,9 @@
+
+
+1. Find out how many people are in the customer's party.
+2. Find out what night the customer is arriving.
+3. Find out how many nights the customer is staying.
+4. Find out if the customer needs internet access and/or free parking.
+5. Find out the address of the hotel.
+6. Give the customer the phone number for the Mumford Theatre.
+7. Give the customer the postcode and area for the Mumford Theatre.

@@ -1,0 +1,8 @@
+
+
+1. Obtain customer's dietary preferences.
+2. Find a restaurant that meets the customer's needs.
+3. Book a table at the restaurant.
+4. Provide the customer with the restaurant's information.
+5. Book a hotel room for the customer.
+6. Provide the customer with the hotel's information.

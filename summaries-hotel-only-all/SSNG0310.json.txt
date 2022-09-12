@@ -1,0 +1,13 @@
+
+
+1. Ask the customer which hotel they are looking for.
+
+2. If the hotel is unavailable, suggest a similar hotel.
+
+3. Ask the customer how many people will be staying.
+
+4. Book the hotel for the customer.
+
+5. Give the customer the reference number for their booking.
+
+6. Thank the customer and wish them a pleasant stay.

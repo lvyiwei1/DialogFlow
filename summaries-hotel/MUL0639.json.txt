@@ -1,0 +1,10 @@
+
+
+1. Asking the customer where they would like to go and on what day.
+2. Finding out the earliest the customer can leave.
+3. Checking if there are any trains that will leave before 16:30.
+4. Booking a ticket for the customer if they would like.
+5. Once the customer arrives in Ely, finding a place for them to stay.
+6. Checking with the customer to see if they have any preferred price range or area.
+7. Finding a hotel or guesthouse that meets the customer's preferred criteria.
+8. Booking a room for the customer if they would like.

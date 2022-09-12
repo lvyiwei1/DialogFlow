@@ -1,0 +1,6 @@
+
+
+1. Finding a hotel in the customer's price range that includes free parking
+2. Finding a hotel that meets the customer's star rating requirements
+3. Booking the hotel for the customer
+4. Reserving a train ticket for the customer

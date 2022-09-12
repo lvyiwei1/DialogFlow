@@ -1,0 +1,7 @@
+
+
+1. Get customer requirements
+2. Identify options that match customer requirements
+3. Provide additional information about options
+4. Confirm option with customer
+5. Book hotel

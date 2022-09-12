@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what their requirements are for the hotel (location, price, etc.)
+2. Run a search based on the customer's requirements
+3. Present the customer with the options that are available
+4. Help the customer choose the option that is best for them
+5. Book the hotel for the customer

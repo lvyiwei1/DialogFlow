@@ -1,0 +1,11 @@
+
+
+1. Find out what kind of property the customer is looking for.
+
+2. Ask the customer what part of town they would like to stay in.
+
+3. Find out if the customer has any specific requirements for the property.
+
+4. Book the property for the customer.
+
+5. Provide the customer with the reference number for the booking.

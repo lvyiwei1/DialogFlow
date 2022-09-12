@@ -1,0 +1,3 @@
+
+
+The customer should first decide which type of hotel they are interested in and what area they would like to stay in. Once they have decided on these factors, they can start looking for specific hotels that fit their needs. The customer should then provide the hotel with their contact information and the dates they will be staying. Once the hotel has this information, they can book the room for the customer.

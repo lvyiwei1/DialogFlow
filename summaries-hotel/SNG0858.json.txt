@@ -1,0 +1,5 @@
+
+
+1. Narrow down options by location
+2. Find a hotel that meets the customer's needs in terms of price, amenities, etc.
+3. Book the hotel and provide the customer with a reference number.

@@ -1,0 +1,7 @@
+
+
+1. Listen to the customer's needs.
+2. Find hotels that match the customer's needs.
+3. Find available dates for the customer.
+4. Make the reservation.
+5. Give the customer the reference number.

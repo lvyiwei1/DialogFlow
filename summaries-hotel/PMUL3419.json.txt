@@ -1,0 +1,9 @@
+
+
+
+
+1. Get the customer's information (name, number of people, etc.)
+2. Find the hotel that the customer wants
+3. Book the hotel for the customer
+4. Get the customer's payment information
+5. Charge the customer for the hotel

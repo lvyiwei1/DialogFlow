@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+2. Ask the customer if they have any specific requirements for their hotel stay.
+3. Search for hotels that meet the customer's needs.
+4. Make a reservation for the customer at their desired hotel.
+5. Give the customer the reference number for their reservation.

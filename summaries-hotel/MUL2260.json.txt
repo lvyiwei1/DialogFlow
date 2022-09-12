@@ -1,0 +1,6 @@
+
+
+1. Ask the customer if they need help finding a hotel.
+2. If they do, ask what their budget is and what their preferences are.
+3. Find a hotel that meets their needs and book it for them.
+4. Thank the customer for using the system.

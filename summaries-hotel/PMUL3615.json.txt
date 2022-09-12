@@ -1,0 +1,5 @@
+
+
+1. Gather customer information: where they are coming from, when they want to arrive, how many guests are in their party.
+2. Find hotel options that meet the customer's needs: in the north, with free wifi.
+3. Book the hotel: get the phone number and postal code.

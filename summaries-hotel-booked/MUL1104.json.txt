@@ -1,0 +1,6 @@
+
+
+1. Choose criteria (e.g. location, price range, star rating, facilities)
+2. Find options that match the criteria
+3. Make a booking
+4. Provide reference number

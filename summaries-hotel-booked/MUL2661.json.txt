@@ -1,0 +1,7 @@
+
+
+1. Finding hotels that meet the customer's needs
+2. Checking hotel availability
+3. Booking the hotel
+4. Providing information about the hotel
+5.Providing information about attractions in the area

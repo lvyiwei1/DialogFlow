@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's dates of travel.
+2. Find out the customer's desired price range.
+3. Find out if the customer has any specific requirements for their hotel (e.g. location, amenities, etc.).
+4. Find a hotel that meets the customer's needs and make a reservation.
+5. Give the customer the reference number for their reservation.

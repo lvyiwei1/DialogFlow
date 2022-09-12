@@ -1,0 +1,8 @@
+
+
+1. Ask the customer for their desired dates of stay.
+2. Ask the customer how many people will be staying.
+3. Ask the customer if they have any specific room requests.
+4. Find a hotel that is available for the customer's desired dates of stay.
+5. Book the hotel for the customer.
+6. Give the customer the reference number for their booked hotel.

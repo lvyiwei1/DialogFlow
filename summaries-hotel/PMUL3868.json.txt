@@ -1,0 +1,6 @@
+
+
+1. Get the customer's preferred location.
+2. Find a hotel in the preferred location with the desired star rating.
+3. Get the contact information for the hotel.
+4. Book a room for the customer if needed.

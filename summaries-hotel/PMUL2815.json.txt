@@ -1,0 +1,12 @@
+
+
+1. The customer contacts the Cambridge TownInfo center.
+2. The service representative asks the customer what they are interested in seeing.
+3. The customer mentions they are interested in seeing sheep's green and Lammas land park fen causeway.
+4. The service representative books the reservations for the customer.
+5. The service representative provides the customer with the address and phone number for the sheep's green and Lammas land park fen causeway.
+6. The service representative also helps the customer find a place to stay in the north area.
+7. The customer provides their criteria for the hotel they would like to stay in.
+8. The service representative provides the customer with the name, address, and phone number of the Acorn Guest House.
+9. The service representative confirms with the customer that the Acorn Guest House has internet and parking.
+10. The customer thanks the service representative and ends the call.

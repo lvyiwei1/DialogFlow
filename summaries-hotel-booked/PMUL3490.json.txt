@@ -1,0 +1,10 @@
+ 
+
+1. The customer contacts the service desk and states that they are looking for a place to stay in town.
+2. The service desk representative asks the customer which part of town they would like to stay in.
+3. The customer requests a list of hotels in the north part of town that include free parking and have a four-star rating.
+4. The service desk representative provides the customer with a list of options and the customer chooses the Acorn Guest House.
+5. The service desk representative makes a reservation for the customer at the Acorn Guest House for three people for four nights, starting on Sunday.
+6. The service desk representative provides the customer with the contact information for the hotel, including the address, phone number, and reference number for the reservation.
+7. The customer asks the service desk representative to book a taxi to take them from the hotel to the Jesus Green Outdoor Pool.
+8. The service desk representative books a taxi and provides

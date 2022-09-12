@@ -1,0 +1,10 @@
+
+
+1. Find out the customer's budget.
+2. Find out the customer's desired location.
+3. Find out the customer's desired amenities.
+4. Find out the customer's arrival and departure dates.
+5. Find out the number of guests.
+6. Find a hotel that meets the customer's criteria.
+7. Book the hotel.
+8. Give the customer the reference number.

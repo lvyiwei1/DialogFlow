@@ -1,0 +1,15 @@
+
+
+1. Greet customer and ask what they are looking for.
+
+2. Ask customer if they have any preferences for location, type of accommodation, etc.
+
+3. Provide customer with options that fit their preferences.
+
+4. Ask customer if they would like to book a reservation.
+
+5. If yes, ask for details such as number of people, length of stay, etc.
+
+6. Make the reservation and provide the customer with a reference number.
+
+7. Ask customer if there is anything else they need.

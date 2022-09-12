@@ -1,0 +1,9 @@
+
+
+
+1. Listen to the customer's needs.
+2. Identify the customer's desired hotel.
+3. Find out if the customer has any specific requirements for the hotel.
+4. Provide the customer with information about the hotel, including star rating and contact number.
+5. If necessary, book a taxi for the customer.
+6. Thank the customer for their business.

@@ -1,0 +1,9 @@
+
+
+1. Asking the customer if they have a preferred area of town.
+2. Requesting the customer's price range.
+3. Offering the Gonville Hotel as a recommended option.
+4. Informing the customer that the Gonville Hotel is a 3-star rating.
+5. Asking the customer if they would like to make a reservation.
+6. If the customer declines a reservation, providing the customer with the phone number of the hotel.
+7. Thanking the customer for their inquiry.

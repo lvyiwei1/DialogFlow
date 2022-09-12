@@ -1,0 +1,5 @@
+
+
+1. Ask for the customer's desired dates of stay.
+2. Ask for the customer's preferences for amenities (e.g. internet access).
+3. Provide the customer with the phone number for the hotel.

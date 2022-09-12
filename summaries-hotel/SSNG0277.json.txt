@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's preferred dates and number of nights.
+2. Find out the customer's preferred price range.
+3. Find out the customer's preferred number of guests.
+4. Search for hotels that meet the customer's criteria.
+5. Book the hotel for the customer.

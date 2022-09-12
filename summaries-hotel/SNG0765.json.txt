@@ -1,0 +1,5 @@
+
+1. Find out what type of guest house the customer is looking for.
+2. Find out if the customer has any preferences for location, price range, amenities, etc.
+3. Suggest a few options that fit the customer's preferences.
+4. Help the customer book a room if requested.

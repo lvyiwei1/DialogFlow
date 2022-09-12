@@ -1,0 +1,7 @@
+
+
+1. Ask the customer where they will be departing from and heading to.
+
+2. Ask the customer if they have a preference for which train station in London they would like to arrive at.
+
+3. Book the train tickets for the customer based on their preferences.

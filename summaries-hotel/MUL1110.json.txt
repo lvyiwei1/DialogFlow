@@ -1,0 +1,6 @@
+
+
+1. Find out the customer's desired location.
+2. Ask if they need a phone number and other booking information.
+3.Recommend a hotel in the desired area.
+4.If they need it, provide a phone number and other booking information.

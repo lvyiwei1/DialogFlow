@@ -1,0 +1,10 @@
+
+
+1. Ask customer if they need help finding a hotel.
+2. If yes, ask customer what their preferred location is.
+3. Ask customer what their budget is.
+4. Based on budget and location, recommend a few hotels.
+5. Ask customer if they would like to book a room at one of the recommended hotels.
+6. If yes, ask for room requirements (e.g. number of people, length of stay).
+7. Book the room and provide the customer with a reference number.
+8. Ask if there is anything else the customer needs help with.

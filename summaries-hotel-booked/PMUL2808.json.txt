@@ -1,0 +1,9 @@
+ 
+
+1. Ask customer what type of hotel they are looking for.
+2. Ask customer what their budget is for the hotel.
+3. Ask customer if they have any preferences for the hotel room.
+4. Ask customer what day they will be arriving.
+5. Ask customer how many nights they will be staying.
+6. Book the hotel for the customer.
+7. Send the customer a confirmation of their booking.

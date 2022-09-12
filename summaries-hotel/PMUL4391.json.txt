@@ -1,0 +1,8 @@
+
+
+1. Ask the customer for their desired location.
+2. Find hotels in the area that fit the customer's budget.
+3. Send the customer information about the available hotels.
+4. Once the customer has selected a hotel, book the reservation.
+5. Provide the customer with a reference number for their reservation.
+6. If the customer needs transportation, book a taxi.

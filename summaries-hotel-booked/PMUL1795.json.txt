@@ -1,0 +1,9 @@
+
+
+1.Get the customer's preferred price range.
+2.Get the customer's preferred location.
+3.Get the customer's dates of stay.
+4.Get the customer's number of guests.
+5.Get the customer's train information.
+6.Book the hotel.
+7.Send the customer the reservation number.

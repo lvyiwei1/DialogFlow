@@ -1,0 +1,11 @@
+
+
+1. Ask what kind of hotel the customer is looking for.
+
+2. Get additional preferences from the customer.
+
+3. Find a hotel that meets the customer's needs.
+
+4. Confirm with the customer that the hotel is satisfactory.
+
+5. Give the customer the contact information for the hotel.

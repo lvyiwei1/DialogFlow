@@ -1,0 +1,6 @@
+
+
+1. Ask the customer for their desired location, number of stars, and price range.
+2. Ask the customer for their desired arrival date and number of nights.
+3. Ask the customer for the number of people in their party.
+4. Find a hotel meeting the customer's specifications and book the room.

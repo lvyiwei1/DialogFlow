@@ -1,0 +1,7 @@
+
+
+1. Ask what kind of budget the customer has for their hotel.
+2. Ask the customer what part of town they would like to stay in.
+3. Recommend one or two hotels that fit the customer's budget and location preference.
+4. Give the customer more information about the hotel (e.g. star rating, amenities, phone number).
+5. If the customer is happy with the hotel, book a room for them and give them the reference number.

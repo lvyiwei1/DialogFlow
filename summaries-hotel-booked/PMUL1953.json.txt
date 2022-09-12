@@ -1,0 +1,6 @@
+
+
+1. Ask the customer for the name of the hotel they are interested in.
+2. Find the contact information for the hotel.
+3. Ask the customer if they would like to book a room for a specific date and number of people.
+4. Book the room and provide the customer with a reference number.

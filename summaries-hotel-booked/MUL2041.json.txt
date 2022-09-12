@@ -1,0 +1,10 @@
+
+
+0. Service greets customer 
+1. Customer provides desired location 
+2. Service ask for number of people to book for 
+3. Customer provides number of people
+4. Service asks for number of days to stay
+5. Customer provides number of days
+6. Service books hotel 
+7. Service gives reference number

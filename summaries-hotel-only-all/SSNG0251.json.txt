@@ -1,0 +1,5 @@
+
+
+1. Get the customer's preferences for location, price, and amenities.
+2. Use those preferences to find a suitable hotel.
+3. Make the reservations and provide the customer with a reference number.

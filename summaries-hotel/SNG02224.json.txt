@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what kind of hotel they are looking for in terms of price and star rating.
+2. If the customer is looking for an expensive hotel with a high star rating, try to find a hotel that meets their criteria.
+3. If the customer is looking for a cheap hotel, try to find a hotel that meets their criteria.
+4. Book the hotel for the customer.
+5. Give the customer the address and reference number for the hotel.

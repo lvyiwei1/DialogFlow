@@ -1,0 +1,15 @@
+
+
+1. Find out what the customer is looking for in a hotel.
+
+2. Ask the customer if they need help booking the hotel.
+
+3. Get the customer's contact information.
+
+4. Find out how many guests will be visiting and how long they plan to stay.
+
+5. Ask when the customer would like to begin their stay.
+
+6. Book the hotel for the customer.
+
+7. Follow up with the customer to make sure they're satisfied with their stay.

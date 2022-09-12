@@ -1,0 +1,7 @@
+
+
+1. Ask the customer for their budget and preferred location.
+2. Find 24 options that fit the customer's budget and location.
+3. Ask the customer which option is their favorite.
+4. Find out the postcode and wifi availability for the customer's favorite option.
+5. Book a table at Tang Chinese restaurant for the customer.

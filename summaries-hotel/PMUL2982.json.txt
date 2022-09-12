@@ -1,0 +1,6 @@
+
+
+1. Determine the dates the customer needs the room for.
+2. Ask if the customer needs a reference number.
+3. Inform the customer of the reference number.
+4. Ask if the customer needs anything else.

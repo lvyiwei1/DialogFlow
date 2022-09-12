@@ -1,0 +1,13 @@
+
+
+1. Ask the customer what type of room they need.
+
+2. Ask the customer how many people will be staying in the room.
+
+3. Ask the customer what dates they need the room for.
+
+4. Ask the customer if they have any preferences for the type of hotel.
+
+5. Ask the customer if they need any special services, such as free parking or free wifi.
+
+6. Book the room for the customer and provide them with a reference number.

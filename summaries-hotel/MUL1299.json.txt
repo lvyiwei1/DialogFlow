@@ -1,0 +1,5 @@
+
+ - Ask what type of accommodation they are looking for 
+ - Get the customer's preferences for location, price, and amenities 
+ - Find accommodation options that meet the customer's preferences 
+ - Book the accommodation for the customer

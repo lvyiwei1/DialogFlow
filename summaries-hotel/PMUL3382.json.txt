@@ -1,0 +1,13 @@
+
+
+1. Ask the customer for information on their desired trip.
+
+2. Find out what the customer's needs and preferences are for theirtrip.
+
+3. Identify hotels that meet the customer's needs and Preferences.
+
+4. Send the customer information on the identified hotels.
+
+5. Ask the customer to confirm their booking.
+
+6. Provide the customer with a reference number for their booking.

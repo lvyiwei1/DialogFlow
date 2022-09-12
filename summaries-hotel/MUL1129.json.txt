@@ -1,0 +1,11 @@
+
+
+1. Ask if the customer is looking for a specific type of accommodations.
+
+2. If they are looking for a specific type of accommodations, ask if they have any preferences for location, price, or amenities.
+
+3. Once the customer has given their preferences, provide them with options that meet their needs.
+
+4. Ask the customer if they would like to book one of the options provided.
+
+5. Once the customer has chosen an option, provide them with the necessary information to book the accommodations, such as the address and contact information.

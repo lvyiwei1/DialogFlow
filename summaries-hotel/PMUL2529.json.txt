@@ -1,0 +1,7 @@
+
+
+1. Finding out what the customer wants - in this case, the customer wants an hotel in the north
+2. Offering choices to the customer - in this case, the Ashley Hotel and the Lovell Lodge
+3. Booking the hotel for the customer - in this case, the customer wants to stay at the Ashley Hotel
+4. Providing additional information - in this case, the customer wants to know about entertainment attractions in the centre of town
+5. Giving specific information - in this case, the customer wants the phone number and entrance fee to the Whipple Museum

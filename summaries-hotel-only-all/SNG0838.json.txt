@@ -1,0 +1,6 @@
+
+
+1. Service asks customer what kind of hotel they are looking for.
+2. Service asks customer if they have any preferences.
+3. Service looks for hotels that match the customer's preferences.
+4. Service books the customer's stay at the chosen hotel.

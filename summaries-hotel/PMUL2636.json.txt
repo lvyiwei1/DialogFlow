@@ -1,0 +1,7 @@
+
+
+1. Asking the customer how many people are staying and for how many nights.
+2. Booking the reservation and sending a confirmation.
+3. Asking the customer if they need any recommendations for activities in the area.
+4. Providing information about nearby museums.
+5. Arranging a taxi to the desired destination.

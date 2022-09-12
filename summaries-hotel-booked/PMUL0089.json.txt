@@ -1,0 +1,9 @@
+
+
+1. Find out what type of accommodation the customer is looking for.
+
+2. Ask the customer for their budget.
+
+3. Suggest hotels that fit the customer's needs and budget.
+
+4. Book the hotel for the customer and provide them with the reference number.

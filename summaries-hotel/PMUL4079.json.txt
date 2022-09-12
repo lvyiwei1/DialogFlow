@@ -1,0 +1,11 @@
+ 
+
+1. Ask for the customer's name.
+2. Ask for the number of nights the customer wants to stay.
+3. Ask for the date of arrival.
+4. Ask for the number of people in the party.
+5. Ask for the name of the hotel.
+6. Ask for the name of the restaurant.
+7. Ask for the time of the reservation.
+8. Ask for the number of people in the party.
+9. Ask for the confirmation number.

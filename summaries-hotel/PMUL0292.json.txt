@@ -1,0 +1,7 @@
+
+
+1. Customer expresses interest in booking a hotel
+2. Service asks what type of hotel the customer is interested in
+3. Customer states they are interested in a moderate price range
+4. Service recommends a specific hotel
+5. Customer starts new dialog to book specific hotel

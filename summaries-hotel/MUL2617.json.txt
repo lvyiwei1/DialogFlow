@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's budget 
+2. Find out the customer's preferred location 
+3. Find out the customer's preferred number of stars 
+4. Book the room for the customer 
+5. Book a taxi for the customer

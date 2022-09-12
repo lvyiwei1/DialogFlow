@@ -1,0 +1,7 @@
+
+
+- Ask for the customer's booking needs
+- Repeat the customer's booking needs back to them for confirmation
+- Enter the booking into the system
+- Give the customer a reference number for their booking
+- Thank the customer

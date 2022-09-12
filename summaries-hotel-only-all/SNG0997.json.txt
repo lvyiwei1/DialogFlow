@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what type of room they are looking for.
+2. Ask the customer if they have a preferred price range.
+3. Ask the customer if they have any other preferences such as WiFi or parking.
+4. Find a hotel that matches the customer's preferences.
+5. Ask the customer if they would like to book that hotel.
+6. Ask the customer for the number of people staying and the date of arrival and departure.
+7. Complete the booking and provide the customer with a reference number.

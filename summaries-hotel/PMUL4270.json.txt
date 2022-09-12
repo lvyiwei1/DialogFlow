@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what their preferences are for the hotel, such as location, cost, and amenities.
+
+2. Once the customer has given their preferences, recommend a hotel that meets their needs.
+
+3. Provide the customer with the contact information for the hotel, if available, and make sure to include a reference number for the reservation.
+
+4. If the customer needs transportation to and from the hotel, book a taxi and provide the customer with the driver's contact information.

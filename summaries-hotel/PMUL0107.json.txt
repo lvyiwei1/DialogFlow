@@ -1,0 +1,9 @@
+
+
+1. The customer tells the service what they are looking for in a hotel: free parking and wifi.
+
+2. The service finds a hotel that meets the customer's needs and tells them the price.
+
+3. The customer decides whether to book the hotel.
+
+4. The service provides the customer with the necessary information to book the hotel, including the address, phone number, and postcode.

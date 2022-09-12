@@ -1,0 +1,9 @@
+
+
+1)Helping customer find an expensive guesthouse 
+2)Try to find a hotel with free parking 
+3)Search in a different price range 
+4)Find a cheap hotel for 6 people 
+5)Book the hotel 
+6)Send customer the reference number 
+7)Send customer the address and phone number of the hotel

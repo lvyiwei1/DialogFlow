@@ -1,0 +1,8 @@
+
+
+1. Ask the customer what type of lodging they are looking for (hotel or guest house).
+2. Ask the customer what their budget is.
+3. Ask the customer what their preferred amenities are.
+4. Use the customer's preferences to narrow down the options.
+5. Ask the customer if they would like to book one of the options.
+6. Book the hotel and provide the customer with the reservation number.

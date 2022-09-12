@@ -1,0 +1,7 @@
+
+
+1. Find out where the customer would like to stay.
+2. Find out the customer's preferred price range.
+3. Find out the customer's preferred star rating.
+4. Find out the customer's preferred amenities.
+5. Make a reservation for the customer.

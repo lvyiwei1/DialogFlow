@@ -1,0 +1,13 @@
+
+
+1. Ask the customer what type of hotel they are looking for (e.g. 4 star, moderate price, etc.)
+
+2. If the agent does not have a hotel listing, suggest alternative accommodations such as a guest house or a more expensive hotel.
+
+3. Ask the customer for their preferred location.
+
+4. If the customer does not have a preference, suggest a location for them.
+
+5. Book the room for the customer.
+
+6. Ask the customer if they need help with anything else.

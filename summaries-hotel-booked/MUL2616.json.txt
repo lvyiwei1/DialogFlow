@@ -1,0 +1,19 @@
+
+
+1. Ask the customer if they are looking for a hotel in the centre of town.
+
+2. If the customer is looking for a hotel in the centre of town, ask them if they would like a moderately priced hotel or an expensive hotel.
+
+3. If the customer tells you the price doesn't matter, recommend the University Arms Hotel.
+
+4. Ask the customer how many people will be staying and how many nights they would like to stay.
+
+5. If the customer is happy with the recommendation, book the hotel for them.
+
+6. Ask the customer if they need any help with anything else today.
+
+7. If the customer would like some help finding places to go in the area of the hotel, ask them what type of attractions they are interested in.
+
+8. If the customer is interested in theatres, recommend the mumford theatre.
+
+9. Give the customer the postcode for the mumford theatre

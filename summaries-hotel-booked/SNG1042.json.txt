@@ -1,0 +1,10 @@
+
+
+In order to help a customer book a hotel, the customer service representative would need to obtain the following information from the customer:
+
+- The customer's preferred dates of stay
+- The customer's desired price range
+- The number of guests who will be staying
+- The customer's preferred amenities (e.g. free parking, free wifi)
+
+Once the customer service representative has this information, they can then search for hotels that meet the customer's needs and provide the customer with a list of options. The customer can then choose the hotel they would like to stay at and the representative can book the reservation.

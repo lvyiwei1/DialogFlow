@@ -1,0 +1,13 @@
+
+
+1. Ask if they need any details or information about the hotel.
+
+2. If they need additional information, provide it to them.
+
+3. Help them book a room for the number of nights they require.
+
+4. Confirm the booking and provide them with a reference number.
+
+5. Ask if there is anything else they need help with.
+
+6. Thank them for their business and say goodbye.

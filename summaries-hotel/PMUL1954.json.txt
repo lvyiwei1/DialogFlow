@@ -1,0 +1,7 @@
+
+
+1. Get the customer's name, phone number, and email address.
+2. Look up the cost of the room.
+3. Find an available room.
+4. Book the room.
+5. Send a confirmation email.

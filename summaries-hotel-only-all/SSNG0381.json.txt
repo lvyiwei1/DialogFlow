@@ -1,0 +1,10 @@
+
+
+1. Ask the customer if they are looking for a specific hotel.
+2. If they are, get the details of the hotel and try to book a reservation.
+3. If the reservation is unsuccessful, try to find a similar hotel in the same price range.
+4. If there are no similar hotels, ask the customer if they are willing to consider a different area.
+5. Try to find a hotel in the different area.
+6. If a hotel is found, give the customer the details and ask if they want to proceed with the booking.
+7. If the customer confirms, book the hotel and give them the reference number.
+8. Thank the customer for using the system.

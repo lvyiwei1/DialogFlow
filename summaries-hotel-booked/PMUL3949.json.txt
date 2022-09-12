@@ -1,0 +1,8 @@
+
+
+1. Identify the customer's needs.
+2. Find a train that meets the customer's needs.
+3. Book the train tickets.
+4. Provide the customer with a reference number.
+5. Book the hotel.
+6. Provide the customer with a reference number.

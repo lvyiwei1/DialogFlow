@@ -1,0 +1,8 @@
+
+
+1. The customer asks if there are any hotels with 0 stars.
+2. The service representative confirms and provides the name of a hotel.
+3. The customer asks if the hotel has free wifi.
+4. The service representative confirms that the hotel does have free wifi.
+5. The customer asks the service representative to book a stay for 5 people and 5 nights starting from Friday.
+6. The service representative confirms the booking and provides the customer with a reference number.

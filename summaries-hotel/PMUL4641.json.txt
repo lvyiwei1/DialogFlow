@@ -1,0 +1,6 @@
+
+
+1) Ask the customer what type of hotel they are looking for (e.g. price range, location, amenities, etc.)
+2) Suggest a hotel that meets the customer's needs
+3) Ask the customer if they would like to book a room at the hotel
+4) If the customer agrees, book the room and provide the relevant information (e.g. confirmation number, contact information, etc.)

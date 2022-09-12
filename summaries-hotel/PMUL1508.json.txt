@@ -1,0 +1,10 @@
+
+
+1. Ask if the customer has a preferred location for the hotel.
+2. Ask about the customer's budget for the hotel.
+3. Ask about the customer's preferences for amenities in the hotel.
+4. Find hotels fitting the customer's criteria and provide options.
+5. Ask if the customer would like to book one of the options.
+6. If the customer would like to book a hotel, collect the necessary information and make the reservation.
+7. Provide the customer with a reference number for the reservation.
+8. Ask if the customer needs help with anything else.

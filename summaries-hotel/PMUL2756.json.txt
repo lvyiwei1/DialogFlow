@@ -1,0 +1,5 @@
+
+
+1. Finding out the name of the hotel
+2. Asking if they need help with booking
+3. Providing the address and phone number for the hotel

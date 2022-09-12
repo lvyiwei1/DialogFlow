@@ -1,0 +1,9 @@
+
+
+1. Ask for customer's location preference.
+2. Ask for customer's price range preference.
+3. Ask for customer's star rating preference.
+4. Ask for customer's internet preference.
+5. Ask for customer's number of people and night stay preference.
+6. Book hotel reservation for customer.
+7. Give customer reference number for booking.

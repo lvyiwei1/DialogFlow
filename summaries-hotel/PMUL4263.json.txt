@@ -1,0 +1,8 @@
+
+
+1. Get the customer's destination.
+2. Get the customer's travel dates.
+3. Find hotels in the customer's destination.
+4. Send the customer a list of hotels.
+5. Get the customer's preferred hotel.
+6. Book the customer's hotel.

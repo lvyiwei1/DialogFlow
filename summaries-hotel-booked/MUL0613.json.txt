@@ -1,0 +1,7 @@
+ 
+
+1. Booking the hotel
+2. Booking a train to Norwich
+3. Confirming the booking
+4. Giving the customer a reference number
+5. Answering any questions the customer may have

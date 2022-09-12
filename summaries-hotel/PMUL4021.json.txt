@@ -1,0 +1,10 @@
+
+
+
+1. Greet the customer
+2. Get the customer's preferences for the hotel
+3. Find a hotel that meets the customer's preferences
+4. Provide the customer with the booking information
+5. Get confirmation from the customer
+6. Provide the customer with a reference number
+7. Thank the customer

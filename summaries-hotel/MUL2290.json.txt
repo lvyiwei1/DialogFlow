@@ -1,0 +1,12 @@
+
+
+
+1. Find out the customer's budget.
+
+2. Find out the customer's preferred location.
+
+3. Find out the customer's desired amenities.
+
+4. Use all of the above information to recommend a hotel.
+
+5. Give the customer the contact information for the hotel.

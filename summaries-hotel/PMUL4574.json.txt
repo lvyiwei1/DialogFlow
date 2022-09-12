@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what type of hotel they are looking for and what their budget is.
+2. Suggest the Cityroomz hotel and provide the location and price information.
+3. Ask the customer if they would like to book the hotel room.
+4. If the customer would like to book the hotel room, provide the reference number.
+5. Thank the customer for their business.

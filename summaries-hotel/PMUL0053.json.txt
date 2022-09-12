@@ -1,0 +1,10 @@
+
+
+1. Ask the customer what their budget is.
+2. Ask the customer what their preferred location is.
+3. Ask the customer what type of cuisine they are in the mood for.
+4. Find a hotel that meets the customer's budget and location preferences.
+5. Ask the customer if they would like to book a room at the hotel.
+6. If the customer agrees, book the room and provide them with the reference number.
+7. If the customer wants to book a taxi, ask them for their destination and pick-up time.
+8. Book the taxi and provide the customer with the contact number and car type.

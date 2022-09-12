@@ -1,0 +1,7 @@
+
+
+1. Establish customer's needs
+2. Offer available options
+3. Book reservation
+4. Confirm reservation details
+5. Thank customer

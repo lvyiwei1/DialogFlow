@@ -1,0 +1,10 @@
+
+
+1. Ask the customer if they know what kind of lodging they want (e.g. hotel, guesthouse).
+2. If the customer wants a hotel, ask them if they have a preferred location.
+3. If the customer does not have a preferred location, suggest areas.
+4. If the customer wants a guesthouse, tell them how many are available.
+5. Ask the customer if they have a price range in mind.
+6. If the customer does not have a price range in mind, suggest price ranges.
+7. Book the hotel for the customer.
+8. Provide the customer with a reference number.

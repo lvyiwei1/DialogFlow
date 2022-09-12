@@ -1,0 +1,6 @@
+
+
+1. Identify the customer's need.
+2. Find a hotel that meets the customer's needs.
+3. Book the hotel for the customer.
+4. Get the hotel's address for the customer.

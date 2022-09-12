@@ -1,0 +1,9 @@
+
+
+1. Ask what the customer's preferences are for the hotel.
+
+2. Suggest a hotel based on the customer's preferences.
+
+3. Give the customer the relevant information about the hotel, such as its postcode.
+
+4. Confirm that the hotel meets the customer's needs.

@@ -1,0 +1,5 @@
+
+1. Determine the customer's location preference.
+2. Identify guesthouses in the preferred area.
+3. Narrow guesthouses by customer's additional requirements.
+4. Make a reservation for the customer.

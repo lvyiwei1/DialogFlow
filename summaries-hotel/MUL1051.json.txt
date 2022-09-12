@@ -1,0 +1,6 @@
+
+
+1. Get the customer's dates of stay.
+2. Ask how many people the booking is for.
+3. Find a hotel that meets the customer's requirements.
+4. Make a reservation for the customer.

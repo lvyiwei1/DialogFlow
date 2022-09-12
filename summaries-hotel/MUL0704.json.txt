@@ -1,0 +1,10 @@
+
+
+1. Ask customer where they are departing from.
+2. Ask customer if they have a preferred departure time.
+3. Ask customer if they would like to book the next departure.
+4. Find out customer's price range and star preference for the hotel.
+5. Offer the customer acorn guest house as a hotel option.
+6. Ask the customer how many guests they are accommodating and for how many nights.
+7. Give the customer the reference number for their booking.
+8. Thank the customer for their business.

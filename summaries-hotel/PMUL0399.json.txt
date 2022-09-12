@@ -1,0 +1,13 @@
+
+
+1. Ask the customer if they have a preferred area in Cambridge.
+
+2. If the customer does have a preferred area, ask if they have any other restrictions (e.g. need free parking).
+
+3. Once the customer has given you their preferences, search for available places that meet their criteria.
+
+4. Once you have found a place, ask the customer if they would like you to book it for them.
+
+5. If the customer would like you to book it, ask for how many people and how many nights they would like to stay.
+
+6. Make the booking and provide the customer with the relevant information (e.g. car type, contact number).

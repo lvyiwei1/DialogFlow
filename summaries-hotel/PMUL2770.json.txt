@@ -1,0 +1,9 @@
+
+
+
+1. Get the customer's location preferences.
+2. Ask the customer what type of accommodation they are looking for.
+3. Ask the customer for their budget.
+4. Based on the customer's preferences, budget, and type of accommodation, recommend a hotel.
+5. Get the contact information for the hotel.
+6. Ask the customer if they need any other information or assistance.

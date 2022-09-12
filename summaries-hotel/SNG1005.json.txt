@@ -1,0 +1,7 @@
+
+
+1. Ask the customer if they have any preferences for price or area.
+2. Based on the customer's preferences, recommend a few hotels.
+3. Ask the customer if they would like to make a reservation for one of the recommended hotels.
+4. If the customer has any questions about the hotel, answer them as best as you can.
+5. Thank the customer and goodbye.

@@ -1,0 +1,8 @@
+
+
+The service representative should ask the customer for the following information:
+-The number of people in the party
+-The desired dates of stay
+-The preferred location of the hotel
+
+After the customer provides this information, the service representative should check to see if the hotel can accommodate the customer's request. If the hotel can accommodate the customer, the representative should then book the room and provide the customer with a reference number.

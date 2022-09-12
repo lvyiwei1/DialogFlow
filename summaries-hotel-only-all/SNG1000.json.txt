@@ -1,0 +1,15 @@
+
+
+1. Ask if the customer is looking for a specific type of accommodation.
+
+2. Ask what their budget is for lodgings.
+
+3. Ask how many people need to be accommodated.
+
+4. Ask how many nights they need to stay.
+
+5. Ask what day they need to start their stay.
+
+6. Ask if they need any other services, such as room service or laundry.
+
+7. If everything is agreed upon, book the room and give the customer the reference number.

@@ -1,0 +1,5 @@
+
+
+1. Recommend a hotel that is in the city centre and in the cheap price range.
+2. Give the customer the postcode, address and star rating of the hotel.
+3. Book a taxi for the customer to get to the hotel.

@@ -1,0 +1,6 @@
+
+1. Find out the customer's desired destination, check-in date, and check-out date.
+2. Ask if the customer needs help with booking a hotel room.
+3. Find out the customer's budget.
+4. Find a hotel that meets the customer's needs and budget.
+5. Book the hotel room for the customer.

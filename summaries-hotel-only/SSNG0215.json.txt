@@ -1,0 +1,5 @@
+
+
+1. Get customer requirements (e.g. number of people, length of stay, location)
+2. Find available hotels that meet those requirements
+3. Book the hotel for the customer

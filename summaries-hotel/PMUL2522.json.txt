@@ -1,0 +1,11 @@
+
+
+PS: I'll assume you want the key steps for helping ANY customer book ANY hotel
+
+1. Ask the customer what type of hotel they are looking for (e.g. star rating, price range, etc.)
+2. Use that information to search for hotels that meet the customer's criteria
+3. Present the customer with a list of results and ask if they have a preference for a particular area
+4. If the customer does not have a preference, provide information about a hotel that meets their criteria
+5. Ask the customer if they would like to book a room and provide information about the hotel (e.g. address, postcode, amenities, etc.)
+6. If the customer would like to book a room, provide information about availability and price
+7. Once the customer has booked a room, thank them and wish them a pleasant stay

@@ -1,0 +1,6 @@
+
+
+1.Find out the number of people and nights the customer wants to stay.
+2.Check if the hotel is available for the customer's desired dates.
+3.If available, book the hotel and provide the customer with a reference number.
+4.Inquire if the customer needs any assistance with anything else.

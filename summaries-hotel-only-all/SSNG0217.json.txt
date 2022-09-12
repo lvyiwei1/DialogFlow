@@ -1,0 +1,5 @@
+
+
+1) Search for a hotel
+2) Show the customer the hotel options
+3) Book the hotel for the customer

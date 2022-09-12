@@ -1,0 +1,8 @@
+
+
+1. Asking the customer which part of town they would like to stay in.
+2. Asking the customer what their preferred price range is.
+3. Asking the customer what their preferred amenities are.
+4. Searching for hotels that match the customer's preferences.
+5. Providing the customer with a list of options.
+6. Helping the customer book a hotel.

@@ -1,0 +1,7 @@
+
+
+1. Find out what kind of accommodation the customer is looking for – in this case, a hotel with three stars and free parking.
+
+2. If the customer is looking for a specific location, try to find a hotel that meets their needs.
+
+3. Make the booking for the customer and provide them with the reference number.

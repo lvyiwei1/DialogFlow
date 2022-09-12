@@ -1,0 +1,7 @@
+
+
+In order to book a hotel for a customer, you will need the following information:
+-The customer's name
+-The dates of their stay
+-The number of people in their party
+-A reference number

@@ -1,0 +1,7 @@
+
+
+1) Determine customer's budget
+2) Identify customer's preferred location
+3) Suggest a hotel that meets the customer's budget and location preferences
+4) If the customer has additional questions about the hotel, answer them
+5) Book the hotel for the customer

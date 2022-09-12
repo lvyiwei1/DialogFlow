@@ -1,0 +1,3 @@
+
+
+The customer service representative should ask the customer for their preferred location, star rating, and type of accommodation. They should then recommend a hotel that meets the customer's needs and provide the hotel's contact information. Finally, they should help the customer book a taxi to pick them up from their hotel and take them to the attraction.

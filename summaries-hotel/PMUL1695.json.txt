@@ -1,0 +1,5 @@
+
+
+1. Finding the customer a hotel in their desired location.
+2. Providing the customer with the relevant information about the hotel, such as the address, price range, and number of stars.
+3. Booking the hotel for the customer.

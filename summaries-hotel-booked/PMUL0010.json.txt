@@ -1,0 +1,9 @@
+
+
+1. Find out what type of accommodation the customer is interested in.
+2. Ask if the customer has any preferred amenities or locations.
+3. Based on the customer's preferences, suggest a few specific accommodations.
+4. Ask the customer to choose one of the suggested accommodations.
+5. Book the chosen accommodation for the customer.
+6. Provide the customer with a reference number for the booking.
+7. Ask if there is anything else the customer needs help with.

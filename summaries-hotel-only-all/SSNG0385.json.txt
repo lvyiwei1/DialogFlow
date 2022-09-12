@@ -1,0 +1,9 @@
+
+
+1. The customer needs a hotel in the south.
+2. The customer needs a hotel with free parking.
+3. The customer needs a room for 7 people for 2 nights.
+4. The customer needs an expensive hotel.
+5. The customer chooses a moderate hotel.
+6. The customer books a room at the hotel.
+7. The customer thanks the service.

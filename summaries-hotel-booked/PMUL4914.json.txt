@@ -1,0 +1,7 @@
+
+
+1. Asking the customer for their desired location.
+2. Asking the customer for the dates they need the hotel.
+3. Checking if the hotel is available for those dates.
+4. If available, booking the hotel for the customer.
+5. Giving the customer the reference number for their booking.

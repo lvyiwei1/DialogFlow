@@ -1,0 +1,17 @@
+
+
+1. Find out the customer's preferred dates for travel.
+
+2. Find out the customer's preferred time of arrival.
+
+3. Find out the customer's preferred type of accommodation.
+
+4. Find out the customer's preferred price range.
+
+5. Find out the customer's preferred amenities.
+
+6. Find out the customer's preferred location.
+
+7. Ask for the customer's contact information.
+
+8. Book the room for the customer.

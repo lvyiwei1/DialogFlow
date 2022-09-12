@@ -1,0 +1,21 @@
+
+
+
+
+1. Ask what the customer is looking for in a hotel.
+
+2. Find hotels that match the customer's requirements.
+
+3. Ask if the customer would like to reserve a room at one of the hotels.
+
+4. Get the address, area, and post code of the hotel for the customer.
+
+5. Ask if the customer is also looking for a place to eat in the same area.
+
+6. Recommend restaurants to the customer.
+
+7. Ask if the customer would like to book a table at one of the restaurants.
+
+8. Get the reference number for the customer's reservation.
+
+9. Thank the customer for their business.

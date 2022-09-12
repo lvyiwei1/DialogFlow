@@ -1,0 +1,11 @@
+
+
+Service: Hello, how can I help you?
+Customer: I need a 4 star guesthouse in the north with internet
+Service: There are 8 guesthouses in the north with four stars and internet. 7 are in the moderate price range and one is on the cheaper side.
+Customer: As long as it's a guesthouse in the north with 4 stars it'll be fine. Just recommend one to me please.
+Service: I found the Acorn Guest House, would you like me to book it for you?
+Customer: No, I just need the address, price range and I need to know if they have internet.
+Service: They are a moderate priced guesthouse located at 154 chesterton road with free wifi. I can reserve that for you if you'd like.
+Customer: Yes, please book it for 8 people.
+Service: Your group is booked with the reference number I48FCAAZ. The total fee is 80.8 GB

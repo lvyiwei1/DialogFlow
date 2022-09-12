@@ -1,0 +1,8 @@
+
+
+1. Ask the customer what they need.
+2. Find out what kind of hotel they want.
+3. Find out the price range they are looking for.
+4. Find out if they need wifi or not.
+5. Tell them the available hotels that fit their criteria.
+6. Ask if they want you to book a reservation.

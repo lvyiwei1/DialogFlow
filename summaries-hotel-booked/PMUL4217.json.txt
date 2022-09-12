@@ -1,0 +1,10 @@
+
+
+1. Find out the customer's budget.
+2. Find out the customer's preferred location.
+3. Find out the customer's preferred type of accommodation.
+4. Find out the customer's dates of travel.
+5. Find out the customer's number of guests.
+6. Search for accommodation options that meet the customer's criteria.
+7. Present the customer with a list of options.
+8. Help the customer book their chosen accommodation.

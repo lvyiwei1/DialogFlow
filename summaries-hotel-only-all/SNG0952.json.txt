@@ -1,0 +1,9 @@
+
+
+
+
+1. Find out the customer's preferred location.
+2. Identify the customer's budget.
+3. Search for lodging options in the preferred location that fit the customer's budget.
+4. Present the customer with the available options.
+5. Help the customer book the selected option.

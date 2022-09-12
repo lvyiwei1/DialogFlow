@@ -1,0 +1,13 @@
+
+
+1. Asking the customer what budget they are looking to stay within.
+
+2. Asking the customer what kind of accommodation they are looking for.
+
+3. Asking the customer what their preferred location is.
+
+4. Browsing through accommodation options within the customer's budget and preferred location.
+
+5.Recommending a specific accommodation option to the customer.
+
+6. Booking the accommodation for the customer.

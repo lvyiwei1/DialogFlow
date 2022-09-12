@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's desired location.
+2. Ask about the price range.
+3. Offer hotel options that match the price range.
+4. Confirm that the hotel has the desired amenities.
+5. Book the room.

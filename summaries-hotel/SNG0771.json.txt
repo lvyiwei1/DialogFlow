@@ -1,0 +1,9 @@
+
+
+1. Customer needs hotel in south with free wifi
+2. Ask if they have a preference for price range
+3. If customer requests the cheapest option, provide name and star rating
+4. Book the room for customer
+5. Get customer details for booking
+6. Confirm booking details with customer
+7. Give customer reference number

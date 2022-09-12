@@ -1,0 +1,11 @@
+
+
+1. Ask customer what type of hotel they are looking for.
+
+2. Ask if the customer has a preference for location.
+
+3. Ask how many people will be staying in the room.
+
+4. Book the hotel room based on the customer's preferences.
+
+5. Send the customer the confirmation information for their booking.

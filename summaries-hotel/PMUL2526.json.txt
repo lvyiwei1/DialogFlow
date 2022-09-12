@@ -1,0 +1,11 @@
+
+
+1. Establish customer's needs - in this case, a hotel room with free parking in the expensive price range.
+
+2. Make suggestions based on customer's needs - in this case, the gonville hotel in the center of town.
+
+3. Make a reservation based on customer's needs - in this case, for 1 person for 3 nights starting from Saturday.
+
+4. Give the customer the reference number for the reservation.
+
+5. Answer any additional questions the customer may have - in this case, about visiting a museum in the center of town.

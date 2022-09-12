@@ -1,0 +1,7 @@
+
+
+Get the name of the hotel.
+Get the dates the customer wants to stay.
+Get the number of people.
+Confirm the booking.
+Give the customer the reference number.

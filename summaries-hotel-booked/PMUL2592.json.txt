@@ -1,0 +1,7 @@
+
+
+1. Ask the customer if they need help booking a hotel.
+2. If they do, ask them what type of hotel they are looking for.
+3. Find a hotel that meets their criteria and provide them with information about the hotel.
+4. Make a reservation for the customer.
+5. Ask the customer if they need any additional information or assistance.

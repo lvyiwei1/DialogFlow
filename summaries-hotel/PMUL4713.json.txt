@@ -1,0 +1,9 @@
+
+
+1. Help the customer choose a hotel by providing information on location, price, amenities, and more.
+
+2. Make sure the customer has all the information they need to make a decision, including address, price, and contact information.
+
+3. Help the customer book the hotel by providing the necessary information and reference number.
+
+4. Assist the customer with any other needs, such as booking taxi transportation.

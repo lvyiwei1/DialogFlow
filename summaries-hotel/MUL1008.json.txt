@@ -1,0 +1,9 @@
+
+
+1. The customer asks for a list of hotels that meet their specific criteria.
+
+2. The customer chooses a particular hotel from the list.
+
+3. The customer asks for more information about the chosen hotel, such as the address, phone number, and whether or not it is a 2 star hotel.
+
+4. The customer asks for the postcode of the Cambridge Arts Theatre.

@@ -1,0 +1,6 @@
+
+
+1. Helps customer identify a hotel that meets their needs (price, location, amenities, etc.)
+2. Books hotel for customer
+3. Gives customer reference number
+4. If needed, books taxi for customer

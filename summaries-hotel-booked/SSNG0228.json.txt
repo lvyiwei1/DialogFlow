@@ -1,0 +1,9 @@
+
+
+1. Finding a hotel on the east side:
+
+The customer needs a hotel on the east side. The service provider helps them find a hotel that meets their needs.
+
+2. Booking the hotel:
+
+The service provider helps the customer book their hotel room. They provide the customer with a reference number for the booking.

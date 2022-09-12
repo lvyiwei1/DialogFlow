@@ -1,0 +1,9 @@
+
+
+1. Asking the customer if they would like to book a room.
+2. Checking for available rooms.
+3. Checking for the customer's preferred room type.
+4. Checking for the customer's preferred location.
+5. Checking for the customer's preferred price range.
+6. Booking the room.
+7. Sending the customer a confirmation.

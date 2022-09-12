@@ -1,0 +1,15 @@
+
+
+1. Asked the customer what type of place they are looking for.
+
+2. Asked the customer if they have a preference for a certain area.
+
+3. Provided the customer with a list of options in the requested area.
+
+4. Asked the customer if they would like to have a specific hotel booked for them.
+
+5. Asked the customer how many people will be dining and about what time they would prefer.
+
+6. Booked the hotel for the customer and provided them with the reference number.
+
+7. Asked the customer if they need a taxi to commute between the two locations.

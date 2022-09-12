@@ -1,0 +1,7 @@
+
+
+Find a hotel that meets the customer's needs in terms of location, price, and amenities.
+
+Book a room for the customer at the hotel.
+
+Send the customer information about the hotel, including the address and phone number.

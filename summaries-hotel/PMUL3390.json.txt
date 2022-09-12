@@ -1,0 +1,9 @@
+
+
+1. Ask about customer preferences for location, type of attraction, and price range.
+
+2. Make recommendations based on customer preferences.
+
+3. Ask about specific needs such as parking and WiFi.
+
+4. Book the hotel for the customer.

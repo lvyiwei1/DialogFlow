@@ -1,0 +1,9 @@
+
+
+1. Obtain customer specifications for the hotel booking.
+
+2. Identify available hotels that match the customer's specifications.
+
+3. Contact the chosen hotel to confirm booking details.
+
+4. Complete the booking with the customer's chosen hotel.

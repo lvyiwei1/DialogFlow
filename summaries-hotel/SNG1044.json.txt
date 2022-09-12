@@ -1,0 +1,9 @@
+
+
+1. Get the customer's information.
+
+2. Find out the customer's needs.
+
+3. Book the hotel according to the customer's needs.
+
+4. Follow up with the customer to make sure they're satisfied.

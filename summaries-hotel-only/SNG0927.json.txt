@@ -1,0 +1,5 @@
+
+
+1. Get the customer's booking specifications (number of people, number of nights, etc).
+2. Book the hotel according to the customer's specifications.
+3. Give the customer a reference number for their booking.

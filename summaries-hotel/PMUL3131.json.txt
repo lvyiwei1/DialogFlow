@@ -1,0 +1,11 @@
+
+
+1. Ask for the customer's budget.
+
+2. Ask for the customer's preferred location.
+
+3. Ask for the customer's preferred amenities.
+
+4. Recommend a hotel that meets the customer's criteria.
+
+5. Provide the customer with the address and contact information for the hotel.

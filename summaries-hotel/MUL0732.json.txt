@@ -1,0 +1,11 @@
+
+
+1. Find out what star rating the customer wants.
+2. Find out if the customer needs parking. 
+3. Find out the customer's preferred type of accommodation. 
+4. Find out if the customer prefers a specific area. 
+5. Find out if the customer needs to be close to public transport. 
+6. Find out the customer's budget. 
+7. Find out the customer's dates of travel. 
+8. Find out the customer's preferred train times. 
+9. Book the hotel and train tickets.

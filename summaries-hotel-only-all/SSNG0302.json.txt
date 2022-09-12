@@ -1,0 +1,7 @@
+
+
+1. Ask for customer's budget and area of preferred stay.
+2. Find a hotel that matches the customer's preferences.
+3. Ask for confirmation on booking the hotel room.
+4. Make sure to get all the necessary information such as the number of people and duration of stay.
+5. Complete the booking and provide the customer with a reference number.

@@ -1,0 +1,9 @@
+
+
+
+1. Ask customer which area of town they will be staying in.
+2. Find a hotel in the specified area that has free wifi.
+3. Book the hotel for the customer and send them the reference number.
+4. If the customer wants a 0 star hotel, recommend the El Shaddai guesthouse.
+5. If the customer wants an architecture attraction, recommend holy trinity church. 
+6. Book a taxi for the customer to leave the hotel by 15:45.

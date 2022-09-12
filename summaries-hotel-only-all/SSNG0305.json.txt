@@ -1,0 +1,7 @@
+
+
+1. Find out what type of hotel the customer is looking for.
+2. Find out what area the customer would like to stay in.
+3. Find out what the customer's budget is.
+4. Find out what dates the customer needs to stay.
+5. Make a reservation for the customer.

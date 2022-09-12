@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's desired location.
+2. Find out the customer's desired price range.
+3. Identify the customer's other needs, such as parking or free internet.
+4. Find available hotels that meet the customer's criteria.
+5. Book the hotel for the customer.

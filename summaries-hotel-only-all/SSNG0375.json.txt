@@ -1,0 +1,9 @@
+
+
+1) Ask the customer for their desired location, star rating, and other amenities.
+
+2) Based on the customer's preferences, provide a list of hotel options.
+
+3) Ask the customer to confirm their booking and provide contact information.
+
+4) Book the hotel room and provide the customer with a reference number.

@@ -1,0 +1,7 @@
+
+
+1. Identify customer's need for a hotel in the center of town.
+
+2. Identify Alexander B&B as a possible option for the customer.
+
+3. Book the hotel for the customer and provide the reference number.

@@ -1,0 +1,6 @@
+
+
+1. Get the customer's preferences for location, price, and type of accommodation.
+2. Search for available hotels that match the customer's preferences.
+3. Give the customer information about the available hotels.
+4. Help the customer book a hotel.

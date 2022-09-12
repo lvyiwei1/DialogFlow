@@ -1,0 +1,7 @@
+
+
+1. Ask the customer for the name of the hotel they are interested in.
+
+2. If the hotel is not in the database, suggest a similar hotel.
+
+3. If the customer decides to book the suggested hotel, reserve the room and provide the reference number.

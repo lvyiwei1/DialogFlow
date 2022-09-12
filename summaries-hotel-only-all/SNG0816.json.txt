@@ -1,0 +1,11 @@
+
+
+1. Get the customer's information.
+
+2. Find the hotel the customer wants.
+
+3. Get the customer's reservation information.
+
+4. Book the hotel for the customer.
+
+5. Thank the customer.

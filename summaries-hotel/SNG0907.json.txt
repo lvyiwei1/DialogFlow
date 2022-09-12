@@ -1,0 +1,7 @@
+
+
+1. Identifying what the customer needs
+2. Identifying the customer's budget
+3. Recommending a hotel that meets the customer's needs and budget
+4. Checking for availability
+5. Booking the room

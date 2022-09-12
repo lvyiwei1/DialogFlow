@@ -1,0 +1,12 @@
+
+
+1. Get the customer's name.
+2. Get the customer's desired location.
+3. Get the customer's budget.
+4. Ask the customer if they would like help booking a table.
+5. Get the customer's phone number.
+6. Find out the customer's desired time of day for arrival.
+7. Find out the customer's desired time of day for departure.
+8. Ask the customer if they need a taxi.
+9. Get the customer's desired type of car.
+10. Get the customer's contact number.

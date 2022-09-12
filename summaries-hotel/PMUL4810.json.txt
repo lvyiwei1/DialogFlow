@@ -1,0 +1,11 @@
+
+
+1. Get the customer's name.
+2. Get the customer's date of travel.
+3. Get the customer's point of origin.
+4. Get the customer's destination.
+5. Get the customer's preferred method of transportation.
+6. Get the customer's preferred hotel type.
+7. Get the customer's budget for the hotel.
+8. Find a hotel that meets the customer's needs.
+9. Book the hotel for the customer.

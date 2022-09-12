@@ -1,0 +1,5 @@
+
+
+1. Ask for clarification on the hotel if necessary.
+2. Book the hotel for the customer.
+3. Ask if the customer needs help with anything else.

@@ -1,0 +1,6 @@
+
+
+1. Find out the customer's preferences for location, price, and type of accommodation.
+2. Use this information to search for accommodations that meet the customer's criteria.
+3. Present the customer with a selection of options and help them choose the one that is best for their needs.
+4. Book the room for the customer and provide them with a reference number.

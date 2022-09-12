@@ -1,0 +1,7 @@
+
+
+1. Ask what type of accommodations the customer is looking for (hotel, guesthouse, etc)
+2. Ask what amenities are important to the customer (free wifi, parking, etc)
+3. Ask what area of town the customer would like to stay in
+4. Make a recommendation based on the customer's preferences
+5. Book the reservation and provide the reference number to the customer

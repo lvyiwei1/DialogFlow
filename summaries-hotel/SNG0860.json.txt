@@ -1,0 +1,6 @@
+
+
+1. Ask what type of accommodation the customer is looking for.
+2. If the business offers the type of accommodation requested, provide the name and location of the business and ask if the customer would like to book it.
+3. If the customer does want to book the accommodation, provide a reference number and confirm the booking.
+4. Thank the customer for using the system.

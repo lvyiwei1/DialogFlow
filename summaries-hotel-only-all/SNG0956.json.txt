@@ -1,0 +1,6 @@
+
+
+1. Finding out customer's needs
+2. Checking if the hotel meets the customer's needs
+3. Checking availability
+4. Booking the hotel

@@ -1,0 +1,6 @@
+
+
+1. Get the customer's preferred dates of stay.
+2. Get the number of people who will be staying.
+3. Choose a hotel that meets the customer's needs and budget.
+4. Book the hotel and give the customer the reference number.

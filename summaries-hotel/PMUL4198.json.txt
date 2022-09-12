@@ -1,0 +1,7 @@
+
+
+1. Listen to the customer's needs.
+2. Make recommendations based on the customer's needs.
+3. Book the hotel room.
+4. Provide a reference number.
+5. Check to see if the customer needs anything else.

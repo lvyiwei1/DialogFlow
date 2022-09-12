@@ -1,0 +1,11 @@
+
+
+1. Find out the customer's price range.
+
+2. Recommend a hotel that fits the customer's needs.
+
+3. Book the hotel for the customer.
+
+4. Get the contact information for the hotel and the taxi company.
+
+5. Make sure the taxi arrives on time.

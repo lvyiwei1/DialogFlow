@@ -1,0 +1,7 @@
+
+
+-Determine the customer's needs
+-Find a hotel that meets the customer's needs
+-Book the hotel room for the customer
+-Find a restaurant for the customer
+-Book a taxi for the customer

@@ -1,0 +1,6 @@
+
+
+1. Asking the customer what type of accommodations they are looking for
+2. Finding a hotel that meets the customer's needs
+3. Booking the hotel for the customer
+4. Giving the customer the confirmation number for their reservation

@@ -1,0 +1,8 @@
+
+
+1. Ask the customer what type of hotel they are looking for.
+2. Ask the customer if they have a preference for location or price range.
+3. If the customer has a preference for location, look for hotels in that area. If the customer has a preference for price range, look for hotels in that price range.
+4. If the customer is looking for a specific type of hotel (e.g. 4-star), explain what other options are available.
+5. If the customer is looking for a specific type of room (e.g. a guesthouse), explain what other options are available.
+6. Once the customer has selected a hotel, provide the postcode and assist with restaurant bookings if necessary.

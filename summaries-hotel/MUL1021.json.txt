@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what their budget is for the hotel.
+2. Ask the customer what their preferred location is for the hotel.
+3. Ask the customer what their preferred amenities are for the hotel.
+4. Find a hotel that meets the customer's specifications and give them the contact information.
+5. Thank the customer for their inquiry and wish them a pleasant stay.

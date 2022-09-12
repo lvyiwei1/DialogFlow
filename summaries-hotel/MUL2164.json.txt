@@ -1,0 +1,7 @@
+
+
+-Find the customer's desired hotel
+-Make reservations for the customer
+-Give the customer a reference number for their reservation
+
+Thank you for choosing our service.

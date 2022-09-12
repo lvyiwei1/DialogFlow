@@ -1,0 +1,15 @@
+
+
+1. Find out the customer's budget.
+
+2. Find out the customer's preferred location.
+
+3. Find out the customer's preferred type of accommodation.
+
+4. Find out the customer's arrival date.
+
+5. Find out the customer's departure date.
+
+6. Find out the customer's preferred payment method.
+
+7. Book the room and send the confirmation to the customer.

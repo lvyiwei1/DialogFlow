@@ -1,0 +1,7 @@
+
+
+1. Figure out the customer's needs - in this case, the customer needs a hotel in the east which includes free wifi
+2. Find a hotel that meets the customer's needs
+3. Make a reservation for the customer
+4. Get the contact information for the hotel
+5. Provide the customer with the information they need

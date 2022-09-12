@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what information they need.
+2. Find the location of the hotel.
+3. Give the customer the phone number for the hotel.
+4. range.
+5. Book the room for the customer.

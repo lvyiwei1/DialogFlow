@@ -1,0 +1,8 @@
+
+
+1. Ask customer what kind of room they are looking for.
+2. Ask customer if they have any specific requirements for the room.
+3. Ask customer for dates of their stay.
+4. Ask customer for the number of people in their party.
+5. If necessary, ask customer for additional information needed to complete the booking.
+6. Thank the customer for their business.

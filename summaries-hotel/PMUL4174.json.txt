@@ -1,0 +1,7 @@
+
+
+1. Ask the customer for their preferences in terms of location, price, and type of hotel.
+2. Use this information to find a hotel that meets the customer's needs.
+3. Help the customer make a reservation at the hotel.
+4. Provide the customer with the contact information for the hotel.
+5. If necessary, help the customer arrange transportation to the hotel.

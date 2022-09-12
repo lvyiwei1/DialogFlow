@@ -1,0 +1,8 @@
+
+
+1. Ask when the customer plans to check in.
+2. Ask how long the customer plans to stay.
+3. Ask how many people will be staying in the room.
+4. Get the customer's contact information.
+5. Make the reservation.
+6. Give the customer the confirmation information.

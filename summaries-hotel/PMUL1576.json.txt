@@ -1,0 +1,9 @@
+
+
+1. Book a room for the customer at their chosen hotel.
+
+2. Provide the customer with a reference number for their booking.
+
+3. informing the customer of the cost of their chosen hotel room.
+
+4. Ask the customer if they need any further assistance.

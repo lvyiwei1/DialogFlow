@@ -1,0 +1,8 @@
+
+
+1. Ask the customer for their preferred location.
+2. Ask the customer for their preferred price range.
+3. Ask the customer if they have any specific dietary requirements.
+4. Based on the above information, recommend a hotel to the customer.
+5. Book the hotel for the customer.
+6. Give the customer the reference number for their booking.

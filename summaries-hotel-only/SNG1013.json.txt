@@ -1,0 +1,10 @@
+
+
+
+1. The customer needs to find a place to stay overnight in Cambridge and needs free parking and internet.
+
+2. The customer is given four different options for places to stay.
+
+3. The customer chooses a place to stay based on their preferences.
+
+4. The customer books the hotel room for their stay.

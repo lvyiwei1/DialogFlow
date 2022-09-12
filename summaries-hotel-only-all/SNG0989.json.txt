@@ -1,0 +1,12 @@
+
+
+1. Ask customer if they need help
+2. Ask customer if they are looking for a specific type of room
+3. Ask customer if they have any specific requirements 
+4. Ask customer how long they plan to stay
+5. Ask customer what time they will be checking in
+6. Ask customer if they have a preferred location
+7. Ask customer for the number of guests
+8. Ask customer for the date of their stay
+9. Book the hotel for the customer
+10. Thank the customer for their business

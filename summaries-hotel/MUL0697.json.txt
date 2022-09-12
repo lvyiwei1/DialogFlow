@@ -1,0 +1,6 @@
+
+
+1. Ask what the customer's budget is for the hotel.
+2. Suggest a few hotels that are within the customer's budget and have free wifi.
+3. Ask the customer to choose a hotel.
+4. Get the contact information for the chosen hotel.

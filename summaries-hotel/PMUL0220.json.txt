@@ -1,0 +1,8 @@
+
+
+1. Asking the customer what their budget is for the hotel 
+2. Asking the customer what star rating they would like 
+3. Asking the customer what type of room they would like 
+4. Asking the customer if they would like any specific amenities 
+5. If the customer is unsure, suggest a few hotels that meet their criteria 
+6. Once the customer has decided on a hotel, provide the address, phone number, and any other necessary information

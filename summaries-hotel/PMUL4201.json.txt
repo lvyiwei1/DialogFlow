@@ -1,0 +1,6 @@
+
+
+1. Ask if they have any preferences for location.
+2. If they don't have a preference, recommend a hotel in a particular area.
+3. Find a hotel that meets their needs and provides additional information if necessary.
+4. Confirm the booking.

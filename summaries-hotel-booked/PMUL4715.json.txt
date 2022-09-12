@@ -1,0 +1,15 @@
+
+
+1. The customer calls and asks for a train going to Leicester leaving after 18:15.
+2. The customer is informed that there is a train leaving Leicester at 18:21 and heading for Cambridge.
+3. The customer is asked if they would be interested in this train.
+4. The customer says they need one going from Cambridge to Leicester.
+5. The customer is informed that there is a train leaving Cambridge at 18:21.
+6. The customer is asked if they would like a ticket.
+7. The customer says they would like a ticket for 1 person.
+8. The customer is given a confirmation number.
+9. The customer asks for a hotel with free parking.
+10. The customer is given a moderate price range for hotels.
+11. The customer is recommended the Warkworth House.
+12. The customer makes a reservation for Saturday.
+13. The customer is given a reference number.

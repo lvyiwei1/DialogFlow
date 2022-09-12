@@ -1,0 +1,11 @@
+
+
+Based on the dialog, the key steps for helping a customer book a hotel are as follows:
+
+1. Ask the customer what hotel they are looking for.
+
+2. Find out more about the hotel, including its location, price range, and amenities.
+
+3. Book the hotel for the customer.
+
+4. Provide the customer with the hotel's contact information.

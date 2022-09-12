@@ -1,0 +1,5 @@
+
+
+1. Find a hotel that meets the customer's needs in terms of location and amenities.
+2. Check availability for the dates the customer wants to stay.
+3. Book the room for the customer.

@@ -1,0 +1,11 @@
+
+
+1. Ask the customer if they have any preferences for their stay.
+
+2. If the customer has preferences, look for hotels that match those preferences.
+
+3. If the customer does not have any preferences, look for hotels that are available.
+
+4. Once a hotel is found, ask the customer for their arrival date and length of stay.
+
+5. Make the reservation and give the customer their reference number.

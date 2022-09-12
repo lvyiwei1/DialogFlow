@@ -1,0 +1,7 @@
+
+
+1. Get customer's requirements (star rating, wifi, location)
+2. Find a hotel that meets the customer's requirements
+3. Make a reservation for the customer
+4. Provide the customer with the reference number for the reservation
+5. If needed, help the customer find a taxi to their next destination

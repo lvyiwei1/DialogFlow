@@ -1,0 +1,6 @@
+
+
+- Locate a place to stay within the area they want
+- Choose a place based on their preferences
+- Make a reservation
+- Give them the reference number

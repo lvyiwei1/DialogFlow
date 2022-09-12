@@ -1,0 +1,11 @@
+
+
+1. Find out the customer's needs.
+
+2. Identify available hotels that match the customer's needs.
+
+3. Book the hotel for the customer.
+
+4. Confirm the booking with the customer.
+
+5. Assist the customer with any additional needs, such as connecting them with a taxi service.

@@ -1,0 +1,9 @@
+
+
+1. The customer contacts the TownInfo Centre.
+2. The customer asks for a moderately priced hotel in the center of town.
+3. The TownInfo Centre suggests the University Arms, which is 4 stars and expensive.
+4. The customer asks for a 0 star hotel.
+5. The TownInfo Centre suggests Cityroomz, which is moderately priced.
+6. The customer confirms they would like to book Cityroomz.
+7. The TownInfo Centre books the hotel and provides the customer with the contact information.

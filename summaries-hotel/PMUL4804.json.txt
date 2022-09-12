@@ -1,0 +1,8 @@
+
+
+
+1. Immediately after the customer finishes asking their question, state the name of the guesthouse and its location.
+2. Provide the customer with the phone number for the guesthouse.
+3. If the customer expresses interest in staying at the guesthouse, offer to book a room for them.
+4. If the customer asks about the price range, provide them with that information.
+5. Thank the customer for their query and let them know that you hope they enjoy their stay.

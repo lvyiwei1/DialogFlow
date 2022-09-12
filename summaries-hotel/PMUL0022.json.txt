@@ -1,0 +1,15 @@
+
+
+1. Listen to the customer's needs andrequests.
+
+2. Find out the name of the hotel, arrival date, and length of stay.
+
+3. Ask for the customer's contact information.
+
+4. Call the hotel to check for availability and book the room.
+
+5. Provide the customer with a confirmation number.
+
+6. If needed, book a taxi for the customer.
+
+7. Thank the customer for their business.

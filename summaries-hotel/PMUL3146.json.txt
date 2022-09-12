@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what type of restaurant they are looking for. 
+2. If the customer is looking for a Basque restaurant, tell them that there are none on the west side. 
+3. Ask the customer if they would like to try a different type of food. 
+4. If the customer would like a Thai restaurant, recommend Sala Thong. 
+5. Ask the customer if they need a reservation. 
+6. Provide the customer with the address and postal code of the restaurant. 
+7. Ask the customer if they need help finding a hotel. 
+8. If the customer needs help finding a hotel, ask them what their preferences are. 
+9. Recommend a hotel that meets the customer's preferences.

@@ -1,0 +1,9 @@
+
+
+1. The customer tells the service what they are looking for in a hotel.
+
+2. The service looks for hotels that match the customer's criteria.
+
+3. The service suggests a hotel to the customer.
+
+4. The customer makes a reservation for the hotel.

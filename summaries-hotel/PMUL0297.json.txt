@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what area they want to stay in.
+
+2. Ask the customer what price range they are looking for.
+
+3. Recommend a hotel that meets the customer's needs.
+
+4. Give the customer the phone number for the hotel.
+
+5. Ask the customer if they need anything else.

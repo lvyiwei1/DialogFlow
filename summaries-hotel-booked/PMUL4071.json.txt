@@ -1,0 +1,6 @@
+
+
+1. Gather customer information (i.e. number of people, dates of stay, etc.)
+2. Identify available hotels that fit the customer's needs
+3. Book the hotel for the customer
+4. Confirm the details of the booking with the customer

@@ -1,0 +1,6 @@
+
+
+1. Requesting customer's needs
+2. Finding available options
+3. Booking the hotel
+4. Giving customer the reference number

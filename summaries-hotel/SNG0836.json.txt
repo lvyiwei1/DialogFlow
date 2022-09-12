@@ -1,0 +1,6 @@
+
+
+1. Collect customer information (e.g. number of people, arrival date, length of stay)
+2. Find hotel that meets customer's needs
+3. Book hotel for customer
+4. Thank customer for calling

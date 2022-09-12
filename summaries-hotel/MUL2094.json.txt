@@ -1,0 +1,6 @@
+
+
+1. Checking availability of rooms
+2. Answering questions about the hotel
+3. Booking the room
+4. Thanking the customer

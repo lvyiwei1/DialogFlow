@@ -1,0 +1,9 @@
+
+
+1. Get the customer's criteria for the hotel, including price range, star rating, and desired location.
+
+2. Find hotels that match the customer's criteria.
+
+3. Present the customer with a list of options and let them choose one.
+
+4. Book the room for the customer.

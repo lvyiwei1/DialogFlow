@@ -1,0 +1,7 @@
+
+
+1. Ask the customer where they would like to leave from.
+2. Ask the customer what day and time they would like to travel.
+3. Ask the customer if there is a time they would like to arrive by.
+4. Give the customer the train ID for the train arriving closest to their desired time.
+5. Ask the customer if they would like to book.

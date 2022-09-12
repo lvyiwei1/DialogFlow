@@ -1,0 +1,11 @@
+
+
+1. Help the customer identify their location preferences.
+
+2. Help the customer identify their price preferences.
+
+3. Help the customer identify their star rating preferences.
+
+4. Help the customer identify their free wifi preferences.
+
+5. Help the customer book their hotel.

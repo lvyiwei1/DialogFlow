@@ -1,0 +1,9 @@
+
+
+1. Ask the customer for the name of the hotel they are looking for.
+
+2. Give the customer the location, star rating, and amenities of the hotel.
+
+3. Ask the customer if they would like to make a reservation.
+
+4. If the customer needs a taxi, book one for them.

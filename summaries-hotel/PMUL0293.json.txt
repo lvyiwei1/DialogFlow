@@ -1,0 +1,7 @@
+
+
+1. Find out the name of the hotel the customer is interested in.
+2. Find out the price range, star rating, and location of the hotel.
+3. Ask if the customer would like to make a reservation.
+4. Book the reservation and give the customer a reference number.
+5. Repeat the process for booking a restaurant and taxi.

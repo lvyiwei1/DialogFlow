@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what type of accommodation they are looking for.
+2. Ask the customer what their budget is.
+3. Ask the customer what their preferred location is.
+4. Ask the customer if they have any specific requirements (e.g. free parking, free wifi).
+5. Find accommodation that meets the customer's needs.
+6. Ask the customer to confirm their booking.
+7. Send the customer a confirmation of their booking.

@@ -1,0 +1,9 @@
+
+
+1. Find out the customer's budget.
+
+2. Find a hotel that meets the customer's budget and preferences.
+
+3. Make a reservation for the customer.
+
+4. Inform the customer of the reservation details.

@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what type of information they are looking for.
+2. Ask the customer for more specific information to help narrow the search.
+3. Based on the information provided, search for matching places.
+4. If there are no matching places, ask the customer if they are willing to consider other options.
+5. Recommend a place that meets the customer's criteria.
+6. Ask the customer if they would like to make a booking.
+7. If the customer does not need help booking tickets, thank them and end the conversation.

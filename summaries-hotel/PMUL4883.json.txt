@@ -1,0 +1,12 @@
+
+
+1. Ask what the customer's budget is for the hotel.
+2. Ask what type of room they are looking for (e.g. single, double, suite).
+3. Ask what type of hotel they are looking for (e.g. 3-star, 4-star, 5-star).
+4. Ask what amenities the customer is looking for (e.g. fitness centre, pool, spa, restaurant).
+5. Ask if the customer has any specific hotels in mind.
+6. Ask for the dates the customer will be staying.
+7. Ask how many nights the customer will be staying.
+8. Ask if the customer would like the hotel to be near any specific attractions.
+9. Ask if the customer has any dietary restrictions.
+10. Ask if the customer has any special requests.

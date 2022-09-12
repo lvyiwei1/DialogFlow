@@ -1,0 +1,8 @@
+
+
+1. Ask customer if they have any preferences in terms of attractions.
+2. If they have no preferences, recommend a college.
+3. Ask if the customer requires free parking or internet for their hotel.
+4. Recommend a hotel that is moderately priced and has free wifi.
+5. Give the customer the address and phone number of the hotel.
+6. Book the hotel for the customer.

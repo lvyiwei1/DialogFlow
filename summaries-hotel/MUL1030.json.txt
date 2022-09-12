@@ -1,0 +1,6 @@
+
+
+1. Ask the customer about their travel plans and preferences.
+2. Make recommendations based on the customer's preferences.
+3. Give the customer specific information about the hotel, such as the address, phone number, and price range.
+4. Make a reservation for the customer if they wish.

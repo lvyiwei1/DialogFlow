@@ -1,0 +1,6 @@
+
+
+1. Ask the customer which part of the city they would like to stay in.
+2. Find hotels in that area.
+3. Help the customer compare prices and choose the best option.
+4. Provide the customer with the contact information for the hotel.

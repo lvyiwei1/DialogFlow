@@ -1,0 +1,7 @@
+
+
+1. Inquire about the booking details including number of people, days, and room type.
+
+2. Make a reservation for the customer.
+
+3. Provide the customer with the reference number for their booking.

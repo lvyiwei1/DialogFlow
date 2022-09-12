@@ -1,0 +1,7 @@
+
+
+1. Finding out the customer's needs
+2. Checking availability
+3. Booking the hotel
+4. Confirming the booking
+5. Thanking the customer

@@ -1,0 +1,8 @@
+
+
+1. Ask the customer which hotel they would like to book.
+2. Find out the dates the customer would like to stay.
+3. Ask the customer if they would like to add any extras to their stay, such as breakfast.
+4. Check the availability of the hotel for the customer's chosen dates.
+5. If the hotel is available, make a booking for the customer.
+6. Send the customer a confirmation of their booking.

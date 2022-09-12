@@ -1,0 +1,8 @@
+
+
+1. Ask the customer what type of room they are looking for.
+2. Ask the customer if they have a preference for area, stars, pricerange or internet.
+3. If the customer is looking for a specific type of room, check if any options are available and provide the customer with a list of options.
+4. If the customer is not finding what they are looking for, suggest alternate areas or accommodation types.
+5. Double check the customer's preferences and provide a list of options that match.
+6. Thank the customer for their inquiry and provide additional help if needed.

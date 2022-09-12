@@ -1,0 +1,10 @@
+
+
+1. Ask if the customer needs help.
+2. Find out what kind of help the customer needs.
+3. Get the customer's contact information.
+4. Find out the customer's dates of stay.
+5. Find out the number of people in the party.
+6. Make the reservation.
+7. Get the confirmation information.
+8. Thank the customer and offer additional assistance.

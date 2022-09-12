@@ -1,0 +1,7 @@
+
+
+1. Ask for the customer's destination.
+2. Find a train that leaves at a time that works for the customer and arrives at their destination.
+3. Tell the customer the price of the tickets.
+4. Ask if the customer wants to book the train.
+5. If the customer is also looking for a hotel, help them find a cheap hotel in the north.

@@ -1,0 +1,11 @@
+
+
+1. Find out the customer's budget.
+
+2. Find out the customer's preferred location.
+
+3. Find out the customer's preferred amenities.
+
+4. Try to book the hotel that best meets the customer's needs.
+
+5. If the first hotel is unavailable, try to book a similar hotel.

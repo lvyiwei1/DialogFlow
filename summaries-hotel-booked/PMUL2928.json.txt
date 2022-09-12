@@ -1,0 +1,8 @@
+
+
+1. Start by asking the customer what their budget is for the hotel.
+2. Ask the customer what their preferred location is.
+3. Once you have an idea of the budget and location, start searching for hotels that match the criteria.
+4. If the customer has specific requirements like free parking or a certain number of stars, make sure to filter the results accordingly.
+5. Once you've found a few options, present them to the customer and see if they are interested.
+6. If the customer is interested, help them book the hotel and send them a confirmation.

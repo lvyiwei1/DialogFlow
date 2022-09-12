@@ -1,0 +1,7 @@
+
+
+1. Ask the customer which day they plan to travel.
+2. Ask the customer if they would like the first option after their desired departure time.
+3. Ask the customer if they have any specific hotel requirements such as location, price, or amenities.
+4. Book the hotel room for the customer.
+5. Give the customer the reference number for their booking.

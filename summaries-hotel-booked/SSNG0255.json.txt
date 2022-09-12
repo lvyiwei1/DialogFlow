@@ -1,0 +1,9 @@
+
+
+1. Ask the customer if they need help with booking.
+2. Ask the customer if they would like to book a room at the hotel.
+3. If the customer would like to book a room, ask for their booking information.
+4. Confirm the booking information with the customer.
+5. Book the room for the customer.
+6. Give the customer their reference number.
+7. Ask the customer if they need help with anything else.

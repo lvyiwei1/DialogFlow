@@ -1,0 +1,11 @@
+
+
+1. Find out what kind of hotel the customer is looking for.
+
+2. Find out what the customer's budget is for the hotel.
+
+3. Find out what the customer's needs are for the hotel (e.g. parking, WiFi, etc.).
+
+4. Find a hotel that meets the customer's needs and book it for them.
+
+5. Get the details of the booking (e.g. reference number, cost, etc.) and confirm with the customer.

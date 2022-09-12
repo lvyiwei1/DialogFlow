@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what type of accommodation they are looking for.
+2. Ask the customer when they will be needing the accommodation.
+3. Ask the customer how many people will be needing accommodation.
+4. Book the accommodation for the customer.
+5. Give the customer the reference number for their booking.

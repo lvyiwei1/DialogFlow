@@ -1,0 +1,8 @@
+
+
+1. Asking the customer for their destination 
+2. Asking the customer what day they need the train for 
+3. Asking the customer what time they need to leave 
+4. Booking the train for the customer 
+5. Finding a guesthouse for the customer 
+6. Booking the guesthouse for the customer

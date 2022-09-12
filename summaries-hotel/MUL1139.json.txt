@@ -1,0 +1,6 @@
+
+
+1. Obtain customer criteria for hotel (location, amenities, price, etc.).
+2. Find hotels that match customer criteria.
+3. Book hotel for customer.
+4. Provide customer with booking reference information.

@@ -1,0 +1,8 @@
+
+
+
+1. Locate the hotel
+2. Book a room
+3. Get the phone number
+4. Get the address
+5. Get the price

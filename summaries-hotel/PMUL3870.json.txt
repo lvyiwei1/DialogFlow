@@ -1,0 +1,9 @@
+
+
+1. Ask for customer's preferred location.
+2. Ask for customer's preferred amenities.
+3. Ask for customer's dates of stay.
+4. Offer hotel options meeting customer's preferences.
+5. Get hotel contact information from customer.
+6. Make hotel reservation for customer.
+7. Follow up with customer after reservation is made.

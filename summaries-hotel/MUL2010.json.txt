@@ -1,0 +1,10 @@
+
+
+1. Ask for the customer's destination.
+2. Ask for the customer's departure time.
+3. Ask for the customer's arrival time.
+4. Ask for the number of people in the customer's party.
+5. Ask for the customer's preferred price range.
+6. Ask for the customer's preferred amenities.
+7. Ask for the customer's contact information.
+8. Thank the customer for their time.

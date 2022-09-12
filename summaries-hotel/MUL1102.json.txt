@@ -1,0 +1,7 @@
+
+
+1) Ask the customer the day and length of their stay.
+2) Ask how many people are in the customer's party.
+3) Recommend a hotel that meets the customer's needs.
+4) Book the hotel for the customer.
+5) Arrange transportation for the customer to and from the hotel.

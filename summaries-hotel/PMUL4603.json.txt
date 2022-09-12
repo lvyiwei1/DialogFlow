@@ -1,0 +1,6 @@
+
+
+1. Gather customer requirements
+2. Find hotels that match customer requirements
+3. Book the hotel for the customer
+4. Provide the customer with a reference number for the booking

@@ -1,0 +1,6 @@
+
+1. Asking the customer what type of hotel they need
+2. Asking the customer what their budget is
+3. Finding a hotel that meets the customer's needs
+4. Booking the hotel for the customer
+5. Giving the customer the contact information for the hotel

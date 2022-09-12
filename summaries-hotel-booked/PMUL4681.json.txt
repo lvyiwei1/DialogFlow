@@ -1,0 +1,6 @@
+
+
+
+1. Ask what day the customer will be coming in and how many people are in their party.
+2. Book the hotel for the customer.
+3. Give the customer the reference number for their booking.

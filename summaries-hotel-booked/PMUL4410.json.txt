@@ -1,0 +1,10 @@
+ 
+
+1. Ask if they have heard of the hotel 
+2. Give the location and star rating 
+3. Ask how many people and how many nights they need 
+4. Give the reference number 
+5. Ask if they need help with any attractions in the area 
+6. Give the name and address of an attraction 
+7. Ask if they need help with transportation 
+8. Give the car type and contact number

@@ -1,0 +1,7 @@
+
+
+1. Asking the customer what kind of property they are looking for (guest house, hotel, etc.)
+2. Asking the customer if they have a price range in mind
+3. Recommending specific properties that fit the customer's needs
+4. Booking a room at the chosen property
+5. Assisting with any other needs the customer may have

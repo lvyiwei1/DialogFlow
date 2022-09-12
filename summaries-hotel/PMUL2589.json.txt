@@ -1,0 +1,11 @@
+
+
+1. Ask for the customer's preferred location.
+
+2. Ask for the customer's price range.
+
+3. Ask for more information about the customer's needs.
+
+4. Choose a hotel that meets the customer's needs and price range.
+
+5. Book the hotel for the customer.

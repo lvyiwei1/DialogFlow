@@ -1,0 +1,11 @@
+
+
+1. Ask the customer if they want help finding a hotel.
+
+2. Ask the customer if they have any specific preferences for their hotel.
+
+3. If the customer does not have any specific preferences, make some hotel recommendations.
+
+4. If the customer has specific preferences, help the customer find a hotel that meets their needs.
+
+5. Get the customer's contact information and book the hotel for them.

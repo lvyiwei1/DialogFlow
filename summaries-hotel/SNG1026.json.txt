@@ -1,0 +1,7 @@
+
+
+1. Get the customer's budget.
+2. Get the customer's preferences for amenities.
+3. Find a hotel that meets the customer's budget and preferences.
+4. Get the address and contact information for the hotel.
+5. Book the reservation for the customer.

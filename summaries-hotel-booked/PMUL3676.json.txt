@@ -1,0 +1,7 @@
+
+
+1. first, ask the customer if they have a preference for location, type of hotel, or price range
+
+2. then, ask the customer if they have any specific requirements, such as parking or wifi
+
+3. finally, book the hotel room and taxi for the customer

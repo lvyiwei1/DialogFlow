@@ -1,0 +1,7 @@
+
+
+1. Find the customer's desired location.
+2. Ask if the customer would like help booking a reservation.
+3. Find available reservations that meet the customer's needs.
+4. Book the reservation for the customer.
+5. Follow up with the customer to make sure they are satisfied.

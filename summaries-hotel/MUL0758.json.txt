@@ -1,0 +1,11 @@
+
+
+1. The customer contacts the TownInfo center and asks for a train to Ely.
+2. The TownInfo agent asks the customer for their desired arrival time in Ely.
+3. The TownInfo agent provides the customer with several train options, including departure times and arrival times.
+4. The customer chooses a train and requests a reservation.
+5. The TownInfo agent provides the customer with the reference number for their train.
+6. The TownInfo agent asks the customer if they need help finding a hotel.
+7. The TownInfo agent provides the customer with information about several nearby hotels, including amenities and rates.
+8. The customer chooses a hotel and requests a reservation.
+9. The TownInfo agent provides the customer with the address and contact information for their hotel.

@@ -1,0 +1,6 @@
+
+
+1. Ask the customer what their budget is.
+2. Find a hotel that meets their budget.
+3. Ask the customer if they would like to book the hotel.
+4. If they do, provide the customer with the address and contact information for the hotel.

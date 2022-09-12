@@ -1,0 +1,8 @@
+
+
+-Determine the customer's location preferences
+-Determine the customer's budget
+-Identify hotel options that meet the customer's preferences and budget
+-Check availability for the customer's preferred dates
+-Make a reservation for the customer
+-Provide the customer with the reservation reference number

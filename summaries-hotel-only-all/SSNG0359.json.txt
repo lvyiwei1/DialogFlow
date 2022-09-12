@@ -1,0 +1,10 @@
+
+
+1. Ask what the customer's budget is for a hotel.
+2. Ask what area of town the customer wants to stay in.
+3. Ask what star rating the customer wants for their hotel.
+4. Ask how many people will be staying in the room and for how many nights.
+5. Ask if the customer has any specific requirements for their stay (internet, parking, etc).
+6. Try to book a hotel that meets the customer's requirements.
+7. If the first hotel booking is unsuccessful, try to book a different hotel in the same price range.
+8. Confirm with the customer that the booking is successful and thank them for their business.

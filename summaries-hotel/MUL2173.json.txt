@@ -1,0 +1,7 @@
+
+
+1. Ask the customer which area they would prefer to stay in.
+2. Find a hotel in that area that meets the customer's requirements.
+3. Make a reservation for the customer if they would like one.
+4. Give the customer the contact information for the hotel.
+5. Help the customer book a train to their destination if necessary.

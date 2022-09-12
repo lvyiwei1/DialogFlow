@@ -1,0 +1,10 @@
+
+
+1. Finding a hotel in Cambridge
+2. particular location or price range
+3. University Arms Hotel
+4. Star rating
+5. Address
+6. Price
+7. Availability
+8. reference number

@@ -1,0 +1,17 @@
+
+
+The customer wants to book a hotel room for one person for four nights, starting on Tuesday. The customer wants a cheap hotel near the restaurant, with free parking.
+
+1. Ask what type of hotel the customer is looking for.
+
+2. Ask if the customer has a preference for location.
+
+3. Ask if the customer needs help with anything else.
+
+4. If the customer needs help with finding a hotel, offer two options that meet the customer's criteria.
+
+5. Ask if the customer wants to book a room at the cheaper hotel.
+
+6. If the customer wants to book a room at the cheaper hotel, ask for the customer's reference number.
+
+7. Thank the customer for their help.

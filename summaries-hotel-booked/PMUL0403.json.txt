@@ -1,0 +1,11 @@
+
+
+1. Find out the customer's price range preference.
+
+2. Find a hotel that is moderately priced and located in the north.
+
+3. Book a room for the customer at the hotel.
+
+4. Find a restaurant in the same area and price range of the hotel that serves Cuban food.
+
+5. Get a taxi to pick up the customer from the hotel.

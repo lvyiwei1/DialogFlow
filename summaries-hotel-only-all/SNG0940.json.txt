@@ -1,0 +1,9 @@
+
+
+1.Capturing Customer Needs: The customer needs a place to stay in the south with free parking and free wifi.
+
+2. Search for Accommodations: The service provider searches for accommodations that fit the customer's needs.
+
+3. Book the Accommodation: The service provider books the accommodation for the customer.
+
+4. Provide a Reference Number: The service provider provides the customer with a reference number for the booking.

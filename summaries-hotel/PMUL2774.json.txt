@@ -1,0 +1,7 @@
+
+
+
+1. Ask the customer what part of town they would like to stay in.
+2. Ask the customer if they have any preferences for their hotel (wifi, free parking, etc).
+3. Make some suggestions for hotels in the area that meet the customer's needs.
+4. Get the contact information for the hotel and make a reservation for the customer.

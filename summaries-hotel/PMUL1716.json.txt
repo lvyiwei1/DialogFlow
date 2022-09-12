@@ -1,0 +1,7 @@
+
+
+
+1. Book the hotel room.
+2. Get the train ID and price.
+3. Book the train ticket.
+4. Give the customer the reference number.

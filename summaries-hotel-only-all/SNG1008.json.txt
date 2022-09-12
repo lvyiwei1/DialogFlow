@@ -1,0 +1,10 @@
+
+
+
+
+1. The customer contacts the service provider to find a hotel.
+2. The service provider looks up the requested hotel information.
+3. The service provider provides the customer with the hotel information, including contact information and rates.
+4. The customer makes a booking request with the service provider.
+5. The service provider confirms the booking and provides the customer with a reference number.
+6. The service provider thank the customer and ends the interaction.

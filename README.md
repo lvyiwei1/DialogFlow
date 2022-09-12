@@ -6,6 +6,6 @@
 
 (3) Under `summaries-hotel-only` is the subset of (2) where there is no discussion of other types of service during the conversation (so hotel booking only). (230 dialogs)
 
-(4) Under `summaries-hotel-only` is all dialogs from MultiWOZ 2.4 that satisfies the same criterion as (3), i.e. hotel-only and completion of booking. (432 dialogs)
+(4) Under `summaries-hotel-only-all` is all dialogs from MultiWOZ 2.4 that satisfies the same criterion as (3), i.e. hotel-only and completion of booking. (432 dialogs)
 
 See slides https://docs.google.com/presentation/d/1fSVIjLmEJyzBSvE9dNkO4d9uR7AMEcVHv8QR_usl9Tw/edit?usp=sharing for examples of (3)

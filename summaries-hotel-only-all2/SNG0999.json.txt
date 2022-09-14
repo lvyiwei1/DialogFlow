@@ -1,0 +1,7 @@
+
+
+1. Ask what kind of hotel the customer is looking for.
+2. Ask if the customer has a preference for location.
+3. Recommend a hotel that meets the customer's needs.
+4. Ask if the customer would like to book a room.
+5. If so, reserve the room and provide the reference number.

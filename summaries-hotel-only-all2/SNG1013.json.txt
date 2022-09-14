@@ -1,0 +1,11 @@
+
+
+1. Ask the customer whether they have any preferences for the type of accommodation they are looking for.
+
+2. If the customer does not have any preferences, provide a few options to choose from.
+
+3. Ask the customer if price is a factor in their decision.
+
+4. If the customer is not concerned with price, recommend a specific option.
+
+5. Book the accommodation for the customer and provide them with a reference number.

@@ -1,0 +1,7 @@
+
+
+1. Find a guesthouse that is moderately priced.
+
+2. Determine if the guesthouse has free parking.
+
+3. Book the guesthouse for the customer.

@@ -1,0 +1,6 @@
+
+
+1. Find out how many people will be staying.
+2. Find out the dates of the stay.
+3. Find a hotel that has availability for those dates.
+4. Book the hotel.

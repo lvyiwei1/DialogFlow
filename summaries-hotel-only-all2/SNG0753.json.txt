@@ -1,0 +1,10 @@
+
+
+1. Ask the customer their preferred location for the hotel.
+2. Ask the customer their preferred price range for the hotel.
+3. ask the customer if they have any preferred amenities for the hotel.
+4. Ask the customer their preferred dates for their stay.
+5. Ask the customer their group size.
+6. Ask the customer if they have a preferred hotel.
+7. Book the hotel for the customer.
+8. Give the customer their reference number for the booking.

@@ -1,0 +1,7 @@
+
+
+1. Based on the customer's needs, identify appropriate hotels that fit the customer's needs.
+
+2. Compare the features of each hotel and identify the best option for the customer.
+
+3. Book the room for the customer at the chosen hotel.

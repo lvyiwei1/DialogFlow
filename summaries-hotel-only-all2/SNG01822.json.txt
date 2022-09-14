@@ -1,0 +1,11 @@
+
+
+1. Check if the customer has any specific preferences for the hotel room.
+
+2. If the customer does have specific preferences, help them find a hotel room that meets their criteria.
+
+3. If the customer does not have specific preferences, help them find a hotel room that is in their budget.
+
+4. Book the hotel room for the customer.
+
+5. Give the customer the reference number for their booking.

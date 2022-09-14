@@ -1,0 +1,6 @@
+
+
+1. Find out what dates the customer is interested in staying.
+2. Find out what type of lodging the customer is interested in.
+3. Recommend a hotel that meets the customer's needs.
+4. Book the hotel for the customer.

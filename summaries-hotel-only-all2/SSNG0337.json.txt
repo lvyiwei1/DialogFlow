@@ -1,0 +1,9 @@
+
+
+1. The customer tells the service what kind of hotel they are looking for.
+
+2. The service provides the customer with some options that match the customer's needs.
+
+3. The customer chooses one of the options and the service makes a reservation.
+
+4. The service provides the customer with a confirmation number for their reservation.

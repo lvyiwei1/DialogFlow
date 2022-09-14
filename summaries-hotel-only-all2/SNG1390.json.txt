@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what they are looking for.
+
+2. Ask the customer if they would like to book a room.
+
+3. Get the customer's information such as name, number of guests, and arrival date.
+
+4. Book the room for the customer and give them a reference number.
+
+5. Thank the customer and let them know if they need anything else.

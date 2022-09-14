@@ -1,0 +1,9 @@
+
+
+1. In order to help a customer book a hotel, find out what area of town the customer would like to stay in.
+
+2. Find out what the customer's budget is for the stay.
+
+3. Ask the customer if they have any preferences in terms of star rating, parking, or type of accommodation.
+
+4. Based on the customer's preferences, book a room at a hotel or guesthouse.

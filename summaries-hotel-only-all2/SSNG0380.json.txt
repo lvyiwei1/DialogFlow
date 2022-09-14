@@ -1,0 +1,7 @@
+
+
+1. The customer contacts the service to ask for help in finding and booking a hotel room.
+2. The service looks for hotels that match the customer's request.
+3. The service presents the customer with a list of available hotels.
+4. The customer chooses a hotel from the list.
+5. The service books the hotel room for the customer.

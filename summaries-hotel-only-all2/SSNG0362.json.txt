@@ -1,0 +1,6 @@
+
+
+1. Get the name of the hotel.
+2. Get the number of people staying.
+3. Get the number of days they want to stay.
+4. Get the reference number.

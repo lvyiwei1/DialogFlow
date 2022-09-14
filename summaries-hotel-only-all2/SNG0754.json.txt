@@ -1,0 +1,11 @@
+
+
+1. The customer expresses a need for a place to stay on the north side.
+
+2. The customer is given options for places to stay on the north side.
+
+3. The customer expresses a preference for a place to stay with free wifi and free parking.
+
+4. The customer is given a specific hotel option that meets their preferences.
+
+5. The customer books the hotel room for 8 people, starting on Sunday, for 3 nights.

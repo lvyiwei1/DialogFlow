@@ -1,0 +1,8 @@
+
+
+1. The customer needs a room in the south with free wifi.
+2. The customer does not care about the price range or star rating.
+3. The customer does not need parking.
+4. The customer needs a room for 6 people.
+5. The customer needs the room for 4 nights.
+6. The customer needs the reference number for the reservation.

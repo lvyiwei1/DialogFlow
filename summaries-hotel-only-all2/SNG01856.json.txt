@@ -1,0 +1,11 @@
+
+
+1. Ask if the customer has a specific area they want to stay in.
+
+2. Find a cheap hotel that includes parking.
+
+3. Ask if the customer would like to stay for 2 nights.
+
+4. Book the hotel.
+
+5. Provide the customer with the reference number.

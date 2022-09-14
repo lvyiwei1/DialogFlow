@@ -1,0 +1,11 @@
+
+
+1. Find the hotel the customer is looking for.
+
+2. Get the contact information for the hotel.
+
+3. Book the room for the customer.
+
+4. Get the confirmation for the booking.
+
+5. Give the customer the reference number for the booking.

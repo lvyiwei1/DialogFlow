@@ -1,0 +1,5 @@
+
+
+1. Get the name and other details of the hotel from the customer
+2. Search for the hotel
+3. Book the hotel for the customer

@@ -1,0 +1,5 @@
+
+
+1. Ask the customer when they would like to check in.
+2. Book the room for the requested dates.
+3. Provide the customer with a reference number for their booking.

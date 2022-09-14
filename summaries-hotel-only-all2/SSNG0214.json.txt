@@ -1,0 +1,6 @@
+
+
+1. Obtain customer's location preference.
+2. Ask for customer's budget.
+3. Search for hotels in the same price range as Arbury Lodge.
+4. Book customer at limehouse.

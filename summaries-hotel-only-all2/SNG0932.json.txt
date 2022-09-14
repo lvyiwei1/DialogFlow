@@ -1,0 +1,6 @@
+
+
+1. Ask if the customer has any preferences for the hotel's area or price range.
+2. Determine what kind of hotel the customer is looking for.
+3. Find a hotel that meets the customer's needs and make a reservation.
+4. Give the customer the reference number and address for the hotel.

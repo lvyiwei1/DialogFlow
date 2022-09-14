@@ -1,0 +1,11 @@
+
+
+Assuming you want steps to help a customer book a hotel in general: 
+
+1. Figure out the customer's needs such as location, star rating, and amenities.
+
+2. Find hotels that match the customer's needs.
+
+3. Book the hotel for the customer.
+
+4. Give the customer the reference number for the booking.

@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what their preferences are for the hotel.
+
+2. Recommend a hotel based on the customer's preferences.
+
+3. Check to see if the hotel has free wifi.
+
+4. Book the hotel for the customer.

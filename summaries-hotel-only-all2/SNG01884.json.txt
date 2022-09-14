@@ -1,0 +1,6 @@
+
+
+1. Ask for customer's budget.
+2. Narrow down hotel choices based on budget and location.
+3. Ask for customer's preferred amenities.
+4. Make a reservation for the chosen hotel.

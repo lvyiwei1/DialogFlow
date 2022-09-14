@@ -1,0 +1,5 @@
+
+1. Ask customer if they have a particular hotel in mind.
+2. Find hotel based on customer's request.
+3. Ask customer for dates and number of people.
+4. Book hotel for customer.

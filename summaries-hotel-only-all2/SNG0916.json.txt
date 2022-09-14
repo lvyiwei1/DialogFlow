@@ -1,0 +1,12 @@
+
+
+1. Ask if the customer knows what kind of room they are looking for.
+2. Ask if the customer knows how many people will be staying in the room.
+3. Ask what the customer's budget is for the room.
+4. Ask if the customer has any preferences for the room.
+5. Ask if the customer has a preferred check-in date.
+6. Ask if the customer has a preferred check-out date.
+7. Ask how many nights the customer will be staying.
+8. Book the room for the customer.
+9. Get the reference number for the room.
+10. Give the customer the address for the room.

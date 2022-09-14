@@ -1,0 +1,10 @@
+
+
+1. Ask if customer has a preferred location
+2. Ask what type of accommodation the customer is looking for
+3. Ask what the customer's budget is
+4. Ask how many people will be staying
+5. Ask how long the customer plans to stay
+6. Find a hotel that matches the customer's criteria
+7. Book the hotel for the customer
+8. Give the customer the reference number for their booking

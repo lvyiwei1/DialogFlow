@@ -1,0 +1,11 @@
+
+
+1. Find out which hotel the customer would like to stay at.
+
+2. Find out if there are any rooms available at the chosen hotel.
+
+3. If there are no rooms available, offer the customer another hotel option.
+
+4. Get the reference number for the chosen hotel.
+
+5. Give the customer the reference number.

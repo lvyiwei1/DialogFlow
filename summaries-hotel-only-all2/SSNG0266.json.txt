@@ -1,0 +1,5 @@
+
+
+1. Find a list of guesthouses with wifi.
+2. Find a list of guesthouses with wifi and free parking.
+3. Book a room at the Allenbell guesthouse on Coldham Lane.

@@ -1,0 +1,6 @@
+
+
+1. Ask the customer if they need a hotel or if a guest house will suffice.
+2. Find out what kind of amenities the customer needs.
+3. If a hotel is needed, look for hotels in the appropriate price range that have the required amenities.
+4. Book the hotel for the customer and give them the reference number.

@@ -1,0 +1,6 @@
+
+
+1. Establish customer needs - in this case, the customer needs a 4 star hotel on the north side
+2. Find hotels that fit the customer's needs - in this case, there are 7 moderately priced properties in the north with 4 stars
+3. Book the hotel - in this case, the customer booked Avalon for 4 people and 4 nights starting from Saturday
+4. Give the customer their reference number - in this case, the customer's reference number is HWZZ651R

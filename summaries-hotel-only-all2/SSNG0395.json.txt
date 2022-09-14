@@ -1,0 +1,5 @@
+
+1. Look for hotels in the south part of town that fit the customer's price range.
+2. Find an expensive hotel with a 3 star rating.
+3. Book the hotel for the customer.
+4. Give the customer the reference number for the booking.

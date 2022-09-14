@@ -1,0 +1,11 @@
+
+
+1. Ask what area the customer is interested in.
+2. Ask what the customer's budget is.
+3. Ask what the customer's preferred amenities are.
+4. Ask what the customer's preferred location is.
+5. Ask when the customer would like to stay.
+6. Ask how many people will be staying.
+7. Make the reservation.
+8. Confirm the details of the reservation.
+9. Thank the customer.

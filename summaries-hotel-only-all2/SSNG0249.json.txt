@@ -1,0 +1,7 @@
+
+
+1. Request information about the customer's preferences for the hotel, including specific areas, amenities, and price range.
+
+2. Identify hotels that match the customer's preferences and provide the customer with the reference number for the booked hotel.
+
+3. Give the customer the option to receive the address of the hotel.

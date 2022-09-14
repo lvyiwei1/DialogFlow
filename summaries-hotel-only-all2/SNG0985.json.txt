@@ -1,0 +1,5 @@
+
+
+1. Finding a hotel with a 4 star rating that has free parking.
+2. Booking the hotel starting Saturday for 3 nights.
+3. Having 3 guests stay at the hotel.

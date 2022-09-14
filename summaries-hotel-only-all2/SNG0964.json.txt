@@ -1,0 +1,6 @@
+
+
+1. The customer states they are looking for a hotel in the center of town.
+2. The customer is given a choice of three hotels, all of which are located in the center of town.
+3. The customer chooses the Gonville Hotel.
+4. The customer is given a reference number for their room reservation.

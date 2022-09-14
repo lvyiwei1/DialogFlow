@@ -1,0 +1,7 @@
+
+
+1. Ask the customer if they need help booking a hotel room.
+2. Get the customer's information, including the number of people, nights, and dates.
+3. Search for available hotel rooms.
+4. If rooms are available, book the room and provide the customer with a reference number.
+5. If rooms are not available, try a different day or a shorter stay.

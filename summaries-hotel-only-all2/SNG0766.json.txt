@@ -1,0 +1,12 @@
+
+
+
+
+The key steps to help a customer book a hotel according to the dialog are as follows:
+
+1. Ask the customer what price range they are looking for.
+2. Identify a 4-star hotel in the north area that fits the price range.
+3. Ask the customer if they would like to book.
+4. If the customer would like to book, ask for the number of nights and guests.
+5. Book the room and give the customer the reference number.
+6. Ask if the customer needs any further assistance.

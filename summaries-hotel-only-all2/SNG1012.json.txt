@@ -1,0 +1,6 @@
+
+
+1. Find a list of available hotels that meet the customer's criteria.
+2. Narrow down the list of options based on the customer's preferences.
+3. Make a reservation for the customer at the chosen hotel.
+4. Give the customer the reference number for their reservation.

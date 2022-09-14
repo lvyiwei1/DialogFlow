@@ -1,0 +1,15 @@
+
+
+1. The customer expresses interest in booking a hotel.
+
+2. The service provider asks the customer for their preferred location.
+
+3. The service provider recommends three hotels in the East that fit the customer's needs.
+
+4. The customer chooses the Warkworth House.
+
+5. The customer books the hotel for 2 people and 4 nights starting from Friday.
+
+6. The service provider confirms the booking and provides the customer with a reference number.
+
+7. The customer thanks the service provider.

@@ -1,0 +1,10 @@
+
+
+
+1. Ask for customer's preferred area.
+2. Ask for customer's dates of stay.
+3. Ask for the number of people.
+4. Ask for the type of room.
+5. Ask for customer's preferred amenities.
+6. Make the reservation.
+7. Give the customer the reference number.

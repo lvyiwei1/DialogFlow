@@ -1,0 +1,11 @@
+
+
+1. Find out what type and rating of hotel the customer is looking for.
+
+2. Find out how many people the customer needs to accommodate and for how many nights.
+
+3. Try to book a hotel room that meets the customer's criteria.
+
+4. If successful, provide the customer with the necessary information (such as the address and reference number).
+
+5. Thank the customer for their business.

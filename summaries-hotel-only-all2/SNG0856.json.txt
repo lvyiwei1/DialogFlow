@@ -1,0 +1,6 @@
+
+
+1. Ask the customer which hotel they would like to stay at.
+2. Ask the customer when they would like to stay.
+3. Ask the customer how many people will be staying.
+4. Book the hotel for the customer.

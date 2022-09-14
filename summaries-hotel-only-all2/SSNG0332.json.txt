@@ -1,0 +1,13 @@
+
+
+1. Customer asks for a cheap hotel in the east.
+2. Service recommends the Allenbell.
+3. Customer asks for the address.
+4. Service provides the address.
+5. Customer asks to book a room.
+6. Service tries to book a room.
+7. If booking is unsuccessful, service recommends Autumn House.
+8. Service books a room at Autumn House.
+9. Service provides the reference number.
+10. Service asks if there is anything else the customer needs.
+11. Customer thanks the service and says goodbye.

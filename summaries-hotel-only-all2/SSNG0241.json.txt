@@ -1,0 +1,9 @@
+
+
+1. The customer asks for information on a particular hotel.
+
+2. The customer is given information about the hotel, and then asked if they would like to book a room.
+
+3. The customer is given a reference number for their booking.
+
+4. The customer is thanked for their business.

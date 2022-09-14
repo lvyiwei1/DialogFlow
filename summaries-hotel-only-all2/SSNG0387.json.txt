@@ -1,0 +1,9 @@
+
+
+1. Ask customer what they are looking for in a hotel.
+2. Ask if they have any preferred price range or location.
+3. Suggest the Hamilton Lodge as a perfect option.
+4. Ask if the customer wants to make a reservation.
+5. If yes, ask for reference number and customer information.
+6. If no, suggest the Bridge Guest House as an alternative.
+7. Ask if there is anything else the customer needs help with.

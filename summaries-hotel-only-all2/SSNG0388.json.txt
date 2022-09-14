@@ -1,0 +1,8 @@
+
+
+1. Ask the customer what type of accommodation they are looking for.
+2. If they are looking for a specific type of accommodation, ask them what their budget is.
+3. Ask the customer if they have any specific preferences for their stay.
+4. If the customer has a specific preference, try to find a hotel that meets their needs.
+5. Ask the customer to confirm the booking.
+6. Give the customer the reference number for their booking.

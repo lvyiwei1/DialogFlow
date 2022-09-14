@@ -1,0 +1,8 @@
+
+
+1. Determine the customer's needs.
+2. Identify available options that fit the customer's needs.
+3. Present the available options to the customer.
+4. Help the customer select an option.
+5. Make the reservation.
+6. Give the customer a reference number.

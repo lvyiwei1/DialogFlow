@@ -1,0 +1,6 @@
+
+
+1. Ask the customer for their preferred location, hotel type, and budget.
+2. Provide the customer with a list of options that match their preferences.
+3. Help the customer choose a specific hotel and make a reservation.
+4. Thank the customer for using the service.

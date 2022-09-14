@@ -1,0 +1,7 @@
+
+
+1. Collect customer input regarding their desired location, dates, number of people, etc.
+
+2. Use that information to search for available hotels that meet the customer's criteria.
+
+3. Once a suitable hotel is found, book it for the customer and provide them with a reference number.

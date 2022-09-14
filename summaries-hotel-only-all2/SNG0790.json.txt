@@ -1,0 +1,7 @@
+
+
+1. Customer calls and wants help finding a play to stay.
+2. Service finds out more information.
+3. Service recommends the Aylesbray Lodge Guest House.
+4. Service makes a reservation for the customer.
+5. Customer thanks the service.

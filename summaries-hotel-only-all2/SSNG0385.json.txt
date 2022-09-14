@@ -1,0 +1,12 @@
+
+
+1. The customer expresses the need for a hotel room in the south.
+2. The service representative tells the customer that there is one expensive hotel in the south that may be booked.
+3. The customer inquires about whether the hotel includes free parking.
+4. The service representative confirms that the hotel includes free parking.
+5. The customer tells the service representative to book a room for seven people for two nights starting on Tuesday.
+6. The service representative informs the customer that the hotel is unfortunately full.
+7. The service representative offers to book a room in a guesthouse for the customer.
+8. The customer tells the service representative to book a moderate priced guesthouse.
+9. The service representative books the room and gives the customer the reference number.
+10. The customer expresses gratitude and ends the conversation.

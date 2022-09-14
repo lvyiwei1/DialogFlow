@@ -1,0 +1,5 @@
+
+
+1. Find out what information the customer is seeking.
+2. If the customer wants to book a room, check for availability and make a reservation.
+3. If the customer wants information on hotels in the area, provide a list of options.

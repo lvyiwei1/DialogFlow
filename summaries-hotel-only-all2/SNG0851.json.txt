@@ -1,0 +1,9 @@
+
+
+1. In order to help the customer book a hotel, the service will need to know the customer's budget and what amenities the customer is looking for.
+
+2. The service will then look for hotels that meet the customer's budget and requirements.
+
+3. Once the service has found a suitable hotel, they will make a reservation for the customer.
+
+4. Finally, the service will provide the customer with the details of their reservation.

@@ -1,0 +1,7 @@
+
+
+1. First, ask the customer what their budget is for the hotel room.
+
+2. Next, ask the customer what dates they will be needing the room.
+
+3. Finally, ask the customer if they have any specific requirements for the room, such as free wifi or free parking.

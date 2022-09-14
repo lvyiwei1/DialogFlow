@@ -1,0 +1,7 @@
+
+
+1. Look for hotels with a 3 star rating and free parking.
+2. Choose the location of the hotel.
+3. Choose the cheapest hotel.
+4. Make a reservation for the hotel.
+5. Get a reference number for the reservation.

@@ -1,0 +1,10 @@
+
+
+
+1. Find out customer's preference for type of accommodation (guesthouse or hotel).
+
+2. Find out customer's wifi requirements.
+
+3. Book hotel for customer according to their preferences and provide them with a confirmation code.
+
+4. Give customer the address and any other relevant information about their booking.

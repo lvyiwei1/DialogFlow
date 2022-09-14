@@ -1,0 +1,9 @@
+
+
+1. To help a customer book a hotel, first find out their needs and requirements.
+
+2. Once you know what the customer is looking for, search for hotels that match those criteria.
+
+3. Once you've found a few potential hotels, help the customer choose one and make a reservation.
+
+4. Finally, provide the customer with the reference number for their reservation.

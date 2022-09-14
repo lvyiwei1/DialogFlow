@@ -1,0 +1,7 @@
+
+
+1. The customer contacts the service.
+2. The service obtains the name of the hotel the customer is interested in.
+3. The service books the hotel for the customer.
+4. The customer pays for the hotel.
+5. The service sends the customer a confirmation of the booking.

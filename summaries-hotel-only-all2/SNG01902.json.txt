@@ -1,0 +1,7 @@
+
+
+1. Ask the customer which hotel they are looking for.
+2. Ask the customer for the dates they need the reservation for.
+3. Ask the customer how many people the reservation is for.
+4. Make the reservation for the customer.
+5. Thank the customer and goodbye.

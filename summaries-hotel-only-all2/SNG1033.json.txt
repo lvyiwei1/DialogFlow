@@ -1,0 +1,6 @@
+
+
+1. Customer requests information on bridge guest house.
+2. Service provides information on the hotel.
+3. Customer books hotel for 7 people for 2 nights starting from Monday.
+4. Service confirms the booking and provides a reference number.

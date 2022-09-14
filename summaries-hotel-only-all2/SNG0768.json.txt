@@ -1,0 +1,21 @@
+
+
+1. Ask the customer for their budget.
+
+2. Find hotels or guesthouses that fit the customer's budget.
+
+3. Ask the customer for their preferred location.
+
+4. Find hotels or guesthouses in the customer's preferred location.
+
+5. Ask the customer for their preferred type of accommodations.
+
+6. Find hotels or guesthouses that fit the customer's preferred type of accommodations.
+
+7. Ask the customer for their preferred number of nights.
+
+8. Find hotels or guesthouses that fit the customer's preferred number of nights.
+
+9. Ask the customer for their party size.
+
+10. Find hotels or guesthouses that fit the customer's party size.

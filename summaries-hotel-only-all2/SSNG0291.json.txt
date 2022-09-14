@@ -1,0 +1,6 @@
+
+
+1. Find a hotel that has the desired amenities (e.g. free wifi, free parking).
+2. Check to see if the hotel is in the desired location.
+3. Check to see if the hotel is in the desired price range.
+4. If the hotel meets all the criteria, book the room.

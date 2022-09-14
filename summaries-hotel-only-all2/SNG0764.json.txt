@@ -1,0 +1,8 @@
+
+
+1. The customer service representative asks the customer for their preferences.
+2. The customer service representative finds seven matches for the customer.
+3. The customer service representative asks the customer if they have any additional preferences.
+4. The customer service representative finds one match for the customer that has a cheap price.
+5. The customer service representative asks the customer if they would like to reserve a room.
+6. The customer service representative books a room for the customer.

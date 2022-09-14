@@ -1,0 +1,13 @@
+
+
+1. Ask customer for specific hotel requirements such as star rating, free parking etc.
+
+2. Ask customer if they have any preferences in terms of price.
+
+3. Find hotels that fit the customer's requirements.
+
+4. Ask the customer if they have a preferred location.
+
+5. Find hotels that are available for the customer's party size and dates of stay.
+
+6. Book the customer's stay at the chosen hotel.

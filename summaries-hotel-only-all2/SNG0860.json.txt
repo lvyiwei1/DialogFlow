@@ -1,0 +1,7 @@
+
+
+1. Ask for the customer's desired hotel.
+2. Look up the hotel's information.
+3. Ask the customer if they would like to book the hotel.
+4. If the customer does want to book the hotel, complete the booking process.
+5. Confirm the booking details with the customer.

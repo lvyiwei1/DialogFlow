@@ -1,0 +1,6 @@
+
+
+1. Ask the customer for the dates they are looking to book the hotel for.
+2. Ask the customer for how many people they need to accommodate.
+3. Book the hotel for the customer according to their specifications.
+4. Give the customer a reference number for their booking.

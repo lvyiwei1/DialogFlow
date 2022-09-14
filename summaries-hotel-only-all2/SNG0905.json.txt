@@ -1,0 +1,8 @@
+
+
+1) Find out the customer's budget
+2) Find out the customer's preferred location
+3) Find out the customer's preferred amenities
+4) Find out the customer's dates of stay
+5) Find a hotel that meets the customer's criteria
+6) Book the hotel for the customer

@@ -1,0 +1,7 @@
+
+
+1. To help a customer book a hotel, first get the name of the hotel they are interested in.
+
+2. Next, find out more details about the hotel, such as its star rating and price.
+
+3. Finally, book the hotel for the customer and provide them with a reference number.

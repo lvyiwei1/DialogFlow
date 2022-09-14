@@ -1,0 +1,5 @@
+
+
+1. Inquire about the desired hotel.
+2. Check for availability.
+3. Book the room.

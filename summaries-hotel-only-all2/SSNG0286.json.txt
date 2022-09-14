@@ -1,0 +1,7 @@
+
+
+1. Find a 3 star hotel with free parking in the customer's preferred area.
+2. If no hotels are available in the preferred area, find a 3 star hotel with free parking in a different area.
+3. Find a hotel in the customer's preferred price range.
+4. If no hotels are available in the preferred price range, find a hotel in a different price range.
+5. Book the hotel for the customer.

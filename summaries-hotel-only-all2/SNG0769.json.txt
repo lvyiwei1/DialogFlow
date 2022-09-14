@@ -1,0 +1,7 @@
+
+
+1. Based on the customer's preferences, suggest two possible hotels.
+
+2. Ask if the customer would like to book a room at one of the suggested hotels.
+
+3. If the customer would like to book a room, collect the necessary information and confirm the booking.

@@ -1,0 +1,6 @@
+
+
+1. Find a guesthouse that meets the customer's requirements.
+2. Determine the price range of the guesthouse.
+3. Book the guesthouse for the customer.
+4. Provide the customer with the reference number for their booking.

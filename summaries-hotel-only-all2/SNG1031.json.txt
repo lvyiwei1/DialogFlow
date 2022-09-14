@@ -1,0 +1,9 @@
+
+
+1. The customer tells the service what they are looking for in a hotel.
+
+2. The service provides options that fit the customer's needs and budget.
+
+3. The customer chooses a hotel and the service books it for them.
+
+4. The customer is given a reference number for their booking.

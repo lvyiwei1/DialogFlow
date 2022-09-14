@@ -1,0 +1,7 @@
+
+
+1. The customer contacting the service and asking for a hotel on the east side.
+2. The service providing a list of options that meet the customer's needs.
+3. The customer choosing one of the options and requesting a booking.
+4. The service checking availability and making the booking.
+5. The service confirming the booking and providing the customer with a reference number.

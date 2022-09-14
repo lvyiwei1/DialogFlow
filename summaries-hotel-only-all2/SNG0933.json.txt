@@ -1,0 +1,7 @@
+
+
+1. Ask about customer's preferences for area or price range.
+2. Recommend gonville hotel.
+3. Ask about number of people in customer's party and how long they would like to stay.
+4. Book room for customer.
+5. Provide reference number for customer.

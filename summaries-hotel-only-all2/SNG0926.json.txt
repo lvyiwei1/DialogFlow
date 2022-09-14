@@ -1,0 +1,7 @@
+
+
+1. Find out customer's needs - location, star rating, type of accommodation, etc.
+
+2. Suggest possible accommodations that fit the customer's needs.
+
+3. Help customer to book the accommodation.

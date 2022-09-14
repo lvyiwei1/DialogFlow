@@ -1,0 +1,7 @@
+
+
+1. Identify customer needs - in this case, a hotel near the mall with free wifi and free parking.
+2. Research available options - in this case, the Gonville Hotel and University Arms Hotel.
+3. Provide options to the customer - in this case, information on the Gonville Hotel and University Arms Hotel.
+4. Help the customer make a reservation - in this case, making a reservation at the Gonville Hotel for 3 people and 4 nights starting from Sunday.
+5. Confirm the reservation - in this case, providing the customer with a reference number for their reservation.

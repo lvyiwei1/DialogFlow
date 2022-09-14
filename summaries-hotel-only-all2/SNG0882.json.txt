@@ -1,0 +1,9 @@
+
+
+#1. Ask the customer if they have any specific requirements for their stay, such as price range, location, or type of accommodation.
+
+#2. If the customer does not have any specific requirements, provide a list of options that meet their needs.
+
+#3. Help the customer narrow down their options based on their preferences.
+
+#4. Once the customer has selected a hotel, book the reservation and provide the customer with the reference number.

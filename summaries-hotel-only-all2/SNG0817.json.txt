@@ -1,0 +1,7 @@
+
+
+1.Search for hotels that have the required amenities 
+2.Filter hotels by star rating 
+3.Compare prices of different hotels 
+4.Select a hotel and book it 
+5.Get the confirmation number for the booking

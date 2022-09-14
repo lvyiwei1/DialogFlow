@@ -1,0 +1,9 @@
+
+
+1. Establish what the customer is looking for in terms of location, price, and amenities.
+
+2. Find hotels that match the customer's criteria.
+
+3. Book the hotel for the customer.
+
+4. Get a confirmation number for the customer.

@@ -1,0 +1,6 @@
+
+
+1. Look up hotels in the requested area.
+2. Find a hotel within the requested price range.
+3. Check availability for the requested dates.
+4. Book the hotel.

@@ -1,0 +1,24 @@
+
+
+1. 
+Service: We offer three locations with those criteria. Any preference on area?
+
+2. 
+Customer: I would like to stay at a guesthouse in the centre please
+
+3.Service: I apologize, but we don't have a guesthouse that fits your criteria. Would you like to try a hotel?
+
+4. 
+Customer: Hmm, well that isn't good. Oh well, how about trying if there is a guesthouse thats cheap then. I suppose it will have to do.
+
+5. 
+Service: The Alexander Bed and Breakfast is a cheap guesthouse in that area, it has 4 stars and offers free wifi. Can I book this for you?
+
+6. 
+Customer: Yes, please, for four people on Thursday.
+
+7. 
+Service: How many nights do you need?
+
+8. 
+Customer: I need five nights. And I need the

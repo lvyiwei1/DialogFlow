@@ -1,0 +1,7 @@
+
+
+1. The customer contacts the service to inquire about cheap lodging options with wifi in the area.
+2. The service presents the customer with two options that match their criteria.
+3. The customer selects the option they prefer and provides additional details about their stay.
+4. The service confirms the booking and provides the customer with a reference number.
+5. The service ensures that the customer is satisfied with their booking.

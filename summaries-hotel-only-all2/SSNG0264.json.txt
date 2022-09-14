@@ -1,0 +1,7 @@
+
+
+1. identify the customer's needs
+2. search for hotels that meet the customer's needs
+3. book the hotel for the customer
+4. provide the customer with the reference number for the reservation
+5. thank the customer for calling

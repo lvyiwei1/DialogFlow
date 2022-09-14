@@ -1,0 +1,7 @@
+
+
+In order to book a hotel according to the dialog, the customer would need to provide the following information:
+
+1. The name of the hotel they are interested in (warkworth house)
+2. The dates they would like to stay (Tuesday-Thursday)
+3. The number of guests (1)

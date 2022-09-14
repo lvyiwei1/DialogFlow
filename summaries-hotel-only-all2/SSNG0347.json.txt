@@ -1,0 +1,15 @@
+
+
+
+
+1. Ask if the customer is looking for a hotel room.
+
+2. Ask if the customer has any preferences for the hotel room, such as free wifi or free parking.
+
+3. Ask if the customer has a preference for the location or price range of the hotel room.
+
+4. Ask if the customer has a specific reservation request, such as number of people or number of nights.
+
+5. If the customer has a specific reservation request, book the hotel room and provide a reference number.
+
+6. Thank the customer for using the service.

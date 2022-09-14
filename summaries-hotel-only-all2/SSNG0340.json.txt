@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what type of room they would like.
+2. Ask the customer if they have any specific preferences for their room.
+3. Ask the customer if they would like to book a room at the hotel.
+4. If the customer would like to book a room, ask for their contact information.
+5. Give the customer the reference number for their booking.

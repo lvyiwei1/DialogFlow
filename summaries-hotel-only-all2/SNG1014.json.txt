@@ -1,0 +1,7 @@
+
+
+1. The customer needs to decide on the dates they want to stay, the number of people, and their budget.
+2. The customer contacts the Cambridge TownInfo Centre.
+3. The TownInfo Centre looks for hotels that match the customer's criteria.
+4. The TownInfo Centre presents the customer with a list of options.
+5. The customer chooses a hotel and books it through the TownInfo Centre.

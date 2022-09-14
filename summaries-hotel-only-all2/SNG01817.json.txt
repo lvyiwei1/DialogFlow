@@ -1,0 +1,11 @@
+
+
+1. Ask the customer what type of hotel they are interested in.
+
+2. Ask the customer what their budget is.
+
+3. Ask the customer what their preferred amenities are.
+
+4. Find a hotel that meets the customer's needs.
+
+5. Book the hotel for the customer.

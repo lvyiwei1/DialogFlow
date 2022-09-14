@@ -1,0 +1,9 @@
+
+
+1. Ask the customer for more information about their desired guesthouse.
+
+2. Pull up information on the guesthouse, including price range and amenities.
+
+3. Ask the customer if they would like to book the guesthouse.
+
+4. If the customer says yes, book the guesthouse and give them the reference number.

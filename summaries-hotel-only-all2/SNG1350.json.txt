@@ -1,0 +1,5 @@
+
+
+1. Ask the customer for their arrival date and how many nights they would like to stay.
+2. Give the customer a booking number.
+3. Thank the customer and confirm the booking.

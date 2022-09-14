@@ -1,0 +1,11 @@
+
+
+1. Ask if the customer is looking for a specific type of lodging.
+
+2. Ask if the customer has any preferred locations or price ranges.
+
+3. Ask how many nights the customer will need the room.
+
+4. Book the room at the chosen establishment.
+
+5. Give the customer the reservation number, address, and phone number for the chosen establishment.

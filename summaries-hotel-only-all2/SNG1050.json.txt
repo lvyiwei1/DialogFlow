@@ -1,0 +1,6 @@
+
+
+1. Look up the hotel.
+2. Make a reservation for 4 nights starting from Tuesday, for 6 people.
+3. Set the reservation.
+4. Give the customer a reference number.

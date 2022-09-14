@@ -1,0 +1,7 @@
+
+
+1. Ask customer for travel dates.
+2. Ask customer if they need help with anything else.
+3. Book the room for the customer.
+4. Give the customer their reference number.
+5. Thank the customer and goodbye.

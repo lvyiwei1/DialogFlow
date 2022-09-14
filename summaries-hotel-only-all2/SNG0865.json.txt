@@ -1,0 +1,9 @@
+
+
+1. Ask customer their preferred location.
+2. Ask customer their star rating preference.
+3. Ask customer their desired amenities.
+4. Ask customer their dates of stay.
+5. Ask customer the number of guests.
+6. Find available hotels that match customer's preferences.
+7. Reserve the hotel for the customer.

@@ -1,0 +1,5 @@
+
+
+1. Ask the customer what type of information they need.
+2. If the customer needs help finding a hotel, provide them with options that meet their needs in the same price range.
+3. If the customer wants to book a room, provide them with the reference number for their booking.

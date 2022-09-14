@@ -1,0 +1,8 @@
+
+
+1. arrivaldate
+2. departuredate
+3. numberofguests
+4. roomtype
+5. hotelname
+6. specialrequests

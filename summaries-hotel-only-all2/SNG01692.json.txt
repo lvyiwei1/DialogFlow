@@ -1,0 +1,7 @@
+
+
+1. The customer expresses a need for a place to stay.
+2. The customer specifies that they would like a guesthouse with free parking.
+3. The customer gives a preference for price range and area.
+4. The customer makes a booking for 8 people for 3 nights.
+5. The customer expresses thanks and leaves.

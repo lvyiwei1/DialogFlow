@@ -1,0 +1,9 @@
+
+
+1. Find out the area where the customer wants to stay.
+
+2. Find guesthouses in that area that fit the customer's criteria (moderately priced, etc.).
+
+3. Book a room at one of the guesthouses for the customer.
+
+4. Give the customer the reference number for their booking.

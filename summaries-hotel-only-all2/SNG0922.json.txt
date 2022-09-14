@@ -1,0 +1,11 @@
+
+
+1. Find out what type of accommodations the customer is looking for.
+
+2. Find out what the customer's preferences are for the accommodations.
+
+3. Find out what dates the customer is looking to stay.
+
+4. Find out how many people will be staying.
+
+5. Find a hotel that meets the customer's criteria and book it.

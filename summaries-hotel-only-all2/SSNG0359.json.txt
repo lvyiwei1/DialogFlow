@@ -1,0 +1,13 @@
+
+
+1. Ask customer if they need a specific type of hotel.
+
+2. If they do, ask what their budget is.
+
+3. Ask if they have a preferred location.
+
+4. Ask if they need parking or internet access.
+
+5. If they do, try to find a hotel that meets their criteria.
+
+6. If successful, book the hotel. If not, try to find another hotel.

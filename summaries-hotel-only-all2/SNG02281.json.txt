@@ -1,0 +1,5 @@
+
+
+1. Check availability for the hotel the customer wants on the date the customer wants.
+2. If there are rooms available, book the hotel for the customer.
+3. If there are no rooms available, try to book the hotel for another day or for a shorter stay.

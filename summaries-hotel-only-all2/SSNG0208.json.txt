@@ -1,0 +1,7 @@
+
+
+1. Determine the customer's budget.
+
+2. Find hotels that fit the customer's budget and location preferences.
+
+3. Book the hotel for the customer.

@@ -1,0 +1,5 @@
+
+
+1. Find hotels that are in the cheap, moderate, and expensive range.
+2. Make a reservation for the customer for 3 people, 5 nights starting Tuesday.
+3. Send the customer the address of the hotel.

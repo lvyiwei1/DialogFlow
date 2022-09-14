@@ -1,0 +1,11 @@
+
+
+1. Find 18 hotels in the moderate price range.
+
+2. Find a hotel that has free parking or free wifi.
+
+3. Find a hotel that is 3 stars or 4 stars.
+
+4. Book the hotel for the customer.
+
+5. Give the customer the reference number for the hotel.

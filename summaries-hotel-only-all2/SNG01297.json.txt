@@ -1,0 +1,8 @@
+
+
+1. Ask customer for dates and number of people staying
+2. Ask customer for their budget
+3. Ask customer for their preferred location
+4. Provide customer with options that match their preferences
+5. Ask customer to confirm their choice
+6. Make the reservation for the customer

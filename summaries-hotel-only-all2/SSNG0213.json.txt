@@ -1,0 +1,11 @@
+
+
+key steps:
+
+1. Ask the customer which hotel they would like to book.
+
+2. Ask the customer how many people will be staying and for how long.
+
+3. If the hotel is available, book it for the customer. If not, try to find another hotel that meets the customer's needs.
+
+4. Thank the customer for their business.

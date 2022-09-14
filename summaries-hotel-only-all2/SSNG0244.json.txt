@@ -1,0 +1,15 @@
+
+
+
+
+1. Ask the customer if they are looking for a specific type of hotel.
+
+2. Inform the customer of available hotels that match their request.
+
+3. Ask the customer if they have any specific requirements.
+
+4. Ask the customer for their reservation details.
+
+5. Make the reservation for the customer.
+
+6. Thank the customer for their call.

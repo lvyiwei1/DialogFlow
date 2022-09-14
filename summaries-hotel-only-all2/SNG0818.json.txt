@@ -1,0 +1,6 @@
+
+
+1. Find out what kind of hotel the customer is looking for.
+2. Ask the customer for the dates they need the hotel.
+3. Find a hotel that meets the customer's needs.
+4. Book the hotel for the customer.

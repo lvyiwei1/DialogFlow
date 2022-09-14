@@ -1,0 +1,7 @@
+
+
+1. Understand customer requirements
+2. Find hotel matches that meet customer requirements
+3. Book the hotel room
+4. Confirm the booking with the customer
+5. Thank the customer

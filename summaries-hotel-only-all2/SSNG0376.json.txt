@@ -1,0 +1,7 @@
+
+
+1. Ask the customer if they want a guesthouse or hotel.
+2. If they want a hotel, ask when they would like to stay and for how many people.
+3. Book the hotel room according to the customer's specifications.
+4. Give the customer a reference number for the booking.
+5. Thank the customer and wish them a pleasant stay.

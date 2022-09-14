@@ -1,0 +1,7 @@
+
+
+1. Find a hotel that is cheap and has a 4 star rating
+2. Call the hotel to check for availability 
+3. If available, book the hotel room 
+4. Give the customer the reference number for the booking 
+5. Ask if the customer needs anything else

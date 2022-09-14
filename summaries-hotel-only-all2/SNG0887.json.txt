@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what type of room they are looking for.
+2. Ask the customer if they have any specific requirements for the room.
+3. Ask the customer what their budget is for the room.
+4. Find a room that meets the customer's requirements and budget.
+5. Book the room for the customer.

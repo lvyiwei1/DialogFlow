@@ -1,0 +1,6 @@
+
+
+1. The customer asks for help finding the Cambridge Belfry.
+2. The service provides the address and phone number for the hotel.
+3. The customer asks the service to book the hotel.
+4. The service books the hotel and provides the customer with a reference number.

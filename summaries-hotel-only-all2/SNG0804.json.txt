@@ -1,0 +1,9 @@
+
+
+1. Get information about the customer's desired hotel, including price range.
+
+2. Determine whether the hotel is available for the customer's desired dates and length of stay.
+
+3. If the hotel is available, book the room for the customer.
+
+4. Thank the customer for booking with you.

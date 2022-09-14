@@ -1,0 +1,7 @@
+
+1. Ask the customer if they need parking.
+2. If they do not need parking, recommend the Avalon.
+3. Ask the customer if they would like to book a room.
+4. If they would like to book a room, get the necessary information from the customer.
+5. Book the room for the customer.
+6. Thank the customer.

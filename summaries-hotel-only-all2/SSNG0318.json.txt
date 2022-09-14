@@ -1,0 +1,7 @@
+
+
+1. Ask for customer preference in regards to hotel type, location, and wifi availability. 
+2. If the customer is fine with any hotel, check for availability of the hotel. 
+3. If the hotel is available, book the customer into the hotel. 
+4. If the hotel is unavailable, check for availability of other hotels. 
+5. Give the customer the reference number for their booking.

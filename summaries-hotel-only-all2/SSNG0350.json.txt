@@ -1,0 +1,6 @@
+
+
+1. The customer expresses a need for a hotel room.
+2. The customer provides dates for their stay.
+3. The customer provides information on desired amenities.
+4. The customer receives a reference number for their reservation.

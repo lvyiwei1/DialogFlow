@@ -1,0 +1,8 @@
+
+
+1. The customer contacts the service.
+2. The service asks the customer for their preferences.
+3. The service checks for available hotels that match the customer's preferences.
+4. The service suggests a hotel to the customer.
+5. The customer confirms their booking.
+6. The service confirms the booking with the customer.

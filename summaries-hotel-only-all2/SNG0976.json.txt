@@ -1,0 +1,6 @@
+
+
+1. Find out the customer's location preference.
+2. Identify available lodging areas that match the customer's preference.
+3. Share information about amenities, ratings, and price.
+4. Help the customer book their room.

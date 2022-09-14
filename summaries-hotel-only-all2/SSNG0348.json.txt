@@ -1,0 +1,17 @@
+
+
+1. Ask for customer's location preferences.
+
+2. Ask for the dates of their stay.
+
+3. Ask for how many people will be staying.
+
+4. Ask if the customer has any hotel preference criteria.
+
+5. Search for hotels that meet the customer's criteria.
+
+6. Give the customer the option to book a hotel.
+
+7. Collect the customer's information and payment.
+
+8. Send the customer a confirmation of their booking.

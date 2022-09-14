@@ -1,0 +1,8 @@
+
+
+1. Determine customer's needs (free wifi, 3 stars).
+2. Offer two hotel options that meet the customer's needs.
+3. Ask the customer for their preferred location.
+4. Ask the customer how many nights they will be staying.
+5. Book the hotel for the customer.
+6. Thank the customer and provide reference information.

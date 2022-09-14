@@ -1,0 +1,9 @@
+
+
+1. Collect customer information including location, price range, number of people, and desired amenities.
+
+2. Find available hotels that match the customer's criteria.
+
+3. Book the hotel for the customer.
+
+4. Give the customer the contact information for the hotel.

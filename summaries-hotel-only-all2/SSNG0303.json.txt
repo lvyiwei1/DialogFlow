@@ -1,0 +1,7 @@
+ 
+
+1. To help a customer book a hotel, first ask if they need parking or internet. 
+2. If they need wifi, find guesthouses located in the south. 
+3. Book a room for the customer according to their desired party size and start date. 
+4. If the booking is unsuccessful, try again with another hotel. 
+5. Give the customer the reference number for the successful booking.

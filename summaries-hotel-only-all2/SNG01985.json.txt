@@ -1,0 +1,5 @@
+
+
+1. Find a hotel that has 4 stars and free parking
+2. Book the hotel for 8 people for 2 nights starting on Saturday
+3. Give the customer the reference number for the booking

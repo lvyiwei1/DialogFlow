@@ -1,0 +1,9 @@
+
+
+1. Gather customer preferences for the hotel stay including price range, wifi availability, and star rating.
+
+2. Ask the customer for their preferred dates and number of nights.
+
+3. If the customer's preferred dates are not available, try to find alternative dates that will work.
+
+4. Once dates are confirmed, book the room and provide the customer with the reference number.

@@ -1,0 +1,7 @@
+
+
+1) Ask if the customer knows what kind of hotel they are looking for.
+2) If the customer does not know, ask if they have a budget or preferred location in mind.
+3) Use that information to find a list of available hotels that match the customer's needs.
+4) Ask the customer to choose one of the available options.
+5) Book the hotel room and give the customer a reference number.

@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what their budget is for the hotel.
+2. Ask the customer if they have any preferred amenities.
+3. Ask the customer their arrival date and how many nights they want to stay.
+4. Ask the customer if they have a preferred hotel chain.
+5. Make the reservation for the customer.

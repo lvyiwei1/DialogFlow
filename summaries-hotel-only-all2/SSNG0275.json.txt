@@ -1,0 +1,6 @@
+
+
+1. Check if the City Centre North B And B is still in business.
+2. If it is, check if there are any available rooms for the customer's stay.
+3. If there are no available rooms, try to find a similar hotel in the same price range.
+4. Make the booking and give the customer the reference number.

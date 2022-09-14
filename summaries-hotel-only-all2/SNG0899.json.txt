@@ -1,0 +1,6 @@
+
+
+1. Inquire about the hotel's name, location, amenities, and ratings.
+2. Ask if the hotel has available rooms for the specified dates and number of guests.
+3. Make a reservation and take note of the reference number.
+4. Advise the customer of the check-in time and any other important information.

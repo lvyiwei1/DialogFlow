@@ -1,0 +1,7 @@
+
+
+1) The customer should have the name, address and phone number of the hotel they wish to book.
+2) The customer should call the hotel and ask for available dates for their stay.
+3) The customer should provide the hotel with the number of people staying and the number of days they will be staying.
+4) The customer should give the hotel their credit card information to hold the reservation.
+5) The hotel will provide the customer with a reference number for their booking.

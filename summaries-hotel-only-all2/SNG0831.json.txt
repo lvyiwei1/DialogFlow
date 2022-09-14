@@ -1,0 +1,9 @@
+
+
+1. Ask the customer if they have any specific requirements for their stay.
+
+2. Find out how many people will be staying and the duration of their stay.
+
+3. Ask the customer if they have a preference for a particular hotel.
+
+4. Book the hotel for the customer.

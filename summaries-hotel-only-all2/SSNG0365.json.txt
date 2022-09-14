@@ -1,0 +1,7 @@
+
+
+1. Get information from customer on what they are looking for in a hotel room.
+
+2. Find hotels that match the customer's criteria.
+
+3. Book the room for the customer.

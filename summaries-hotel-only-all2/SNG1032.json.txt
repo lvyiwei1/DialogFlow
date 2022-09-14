@@ -1,0 +1,6 @@
+
+
+1. Find out customer's preferred location.
+2. Find out customer's parking and rating preferences.
+3. Find hotels that match customer's preferences.
+4. Book the hotel for the customer.

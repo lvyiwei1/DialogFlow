@@ -1,0 +1,11 @@
+
+
+1. Ask the customer if they have any particular requirements for the hotel.
+
+2. If the customer does have particular requirements, Ask the customer if there is a particular area they wish to stay in.
+
+3. Find a hotel that meets the customer's requirements and book it for them.
+
+4. Give the customer the reference number for their booking.
+
+5. Thank the customer for calling and enquiring about booking a hotel.

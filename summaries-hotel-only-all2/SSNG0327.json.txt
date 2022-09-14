@@ -1,0 +1,8 @@
+
+
+1. Customer contacts customer service
+2. Customer provides hotel preferences
+3. Customer service looks for hotels that match the customer's preferences
+4. Customer service makes a booking for the customer
+5. Customer service provides the customer with the Reference number for the booking
+6. Customer expresses gratitude

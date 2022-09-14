@@ -1,0 +1,11 @@
+
+
+1. The customer service representative should ask the customer what type of hotel they are looking for in terms of price.
+
+2. The customer service representative should look up hotels in the center of town that match the customer's preferred price range.
+
+3. The customer service representative should check to see if the customer's preferred hotel is available for the dates they have requested.
+
+4. If the customer's preferred hotel is available, the customer service representative should book the hotel for them.
+
+5. If the customer's preferred hotel is not available, the customer service representative should work with the customer to find an alternative hotel or dates that will work for them.

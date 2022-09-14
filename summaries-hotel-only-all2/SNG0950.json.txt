@@ -1,0 +1,5 @@
+
+
+1. Finding information about the Allenbell hotel.
+2. Booking the hotel for 6 people and 4 nights starting from Monday.
+3. Successfully booking the hotel with a reference number.

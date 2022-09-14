@@ -1,0 +1,8 @@
+
+
+1. Get customer's location preference.
+2. Get customer's price preference.
+3. Suggest a hotel that meets the customer's location and price preferences.
+4. Make a reservation for the customer at the chosen hotel.
+5. Provide the customer with the reservation reference number.
+6. Thank the customer and offer additional assistance if needed.

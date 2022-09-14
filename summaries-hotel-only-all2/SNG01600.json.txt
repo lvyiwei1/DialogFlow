@@ -1,0 +1,9 @@
+
+
+1. The customer asks for a hotel in the north with a 4-star rating.
+2. The service tells the customer that there are no hotels with that specification in the north.
+3. The customer asks for a guesthouse with that specification.
+4. The service tells the customer about two guesthouses and asks which price range the customer would prefer.
+5. The customer requests the booking for Rosa's Bed and Breakfast.
+6. The service books the hotel and gives the customer the reference number.
+7. The customer thanks the service and says goodbye.

@@ -1,0 +1,6 @@
+
+
+1. Ask if the customer is looking for a specific hotel.
+2. If so, ask for the name of the hotel.
+3. Ask if the customer needs help booking the hotel.
+4. If so, provide the necessary information and help book the hotel.

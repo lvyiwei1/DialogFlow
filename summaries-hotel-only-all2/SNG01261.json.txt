@@ -1,0 +1,7 @@
+
+
+1. Get the customer's preferences for the hotel, including price range, amenities, and location.
+2. Based on the customer's preferences, find hotels that match their needs.
+3. If the customer is unsure of what they want, suggest options that might be a good fit.
+4. Once the customer has decided on a hotel, book the room for them.
+5. Send a confirmation to the customer.

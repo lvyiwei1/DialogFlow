@@ -1,0 +1,11 @@
+
+
+
+
+1. Ask what kind of hotel the customer is looking for.
+2. Ask if the customer has any preferences.
+3. Ask if the customer is looking for a specific type of hotel or location.
+4. Ask if the customer has any specific requirements.
+5. Ask when the customer wants to stay.
+6. Ask how many people the customer is booking for.
+7. Ask if the customer needs anything else.

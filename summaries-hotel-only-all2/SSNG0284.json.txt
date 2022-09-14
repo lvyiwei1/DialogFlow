@@ -1,0 +1,8 @@
+
+
+1. asks the customer if they need a place to stay
+2. inquire about the customer's preferred location
+3. recommend a hotel in the customer's preferred location
+4. ask the customer if they would like to book the hotel
+5. if the hotel is unavailable, recommend another hotel
+6. provide the customer with the reference number for their reservation

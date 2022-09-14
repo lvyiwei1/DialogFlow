@@ -1,0 +1,7 @@
+
+
+1. Ask customer for name of hotel.
+2. Ask customer desired dates of stay.
+3. Ask customer number of people.
+4. Book hotel under customer's name.
+5. Give customer reference number.

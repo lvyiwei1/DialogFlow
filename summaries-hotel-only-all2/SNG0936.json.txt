@@ -1,0 +1,14 @@
+
+
+
+1. Ask customer if they have any particular preferences for the hotel, such as price range, amenities, or location.
+
+2. If they have a preference for price range, narrow down the choices to hotels that fit that criteria.
+
+3. If they have a preference for amenities, narrow down the choices to hotels that fit that criteria.
+
+4. If they have a preference for location, narrow down the choices to hotels that fit that criteria.
+
+5. Ask the customer if they would like to book the hotel for a certain number of people and for how many nights.
+
+6. Book the hotel and give the customer a reference number.

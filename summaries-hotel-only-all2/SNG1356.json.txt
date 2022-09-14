@@ -1,0 +1,6 @@
+
+
+1. helps customer identify a hotel that meets their desired criteria
+2. assists customer in booking the hotel
+3. provides customer with a reference number for the booking
+4. thanks customer for using the help desk

@@ -1,0 +1,6 @@
+
+
+1. The customer contacts the service to inquire about the Gonville Hotel.
+2. The service checks for availability and confirms that there are no rooms available for the customer's requested time frame.
+3. The service recommends a different hotel, the Bridge Guest House, and books a room for the customer.
+4. The customer thanks the service.

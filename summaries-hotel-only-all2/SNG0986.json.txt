@@ -1,0 +1,13 @@
+
+
+1. The customer expresses interest in finding a 0 star hotel in the north area.
+
+2. The customer is given the option of City Centre North B&B.
+
+3. The customer is told that the hotel is in the cheap price range.
+
+4. The customer books a room for one night.
+
+5. The customer is given a reference number for the booking.
+
+6. The customer thanks the service for their help.

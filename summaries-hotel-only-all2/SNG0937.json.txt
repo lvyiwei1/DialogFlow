@@ -1,0 +1,11 @@
+
+
+- Ask what kind of hotel the customer is looking for.
+- Ask what the customer's budget is.
+- Ask what the customer's preferred amenities are.
+- Ask what the customer's dates of stay are.
+- Ask how many people will be staying.
+- Ask if the customer has any preferred areas.
+- Offer a few different options.
+- Get confirmation from the customer.
+- Book the hotel.

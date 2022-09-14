@@ -1,0 +1,9 @@
+
+
+1. Ask the customer what type of room they need and if they need any special amenities such as WiFi or parking.
+
+2. Ask the customer what their budget is for the room.
+
+3. Find a hotel that meets the customer's needs and budget and book the room.
+
+4. Give the customer the reference number for their booking.

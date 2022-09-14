@@ -1,0 +1,7 @@
+
+
+1. Find a hotel in the customer's price range.
+
+2. Book the hotel for the customer.
+
+3. Provide the customer with the reference number for their booking.

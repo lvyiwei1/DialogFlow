@@ -1,0 +1,15 @@
+
+
+1. The customer must specify their location preference (in this case, the north side).
+
+2. The customer must specify their price range preference.
+
+3. Based on the customer's location and price preferences, the service provider identifies the Acorn Guest House as a possible option.
+
+4. The customer must specify their desired dates of stay.
+
+5. Based on the customer's desired dates of stay, the service provider checks the availability of the Acorn Guest House.
+
+6. If the Acorn Guest House is not available for the customer's desired dates of stay, the service provider identifies another possible option that fits the customer's criteria.
+
+7. If the Acorn Guest House is available for the customer's desired dates of stay, the service provider books the room and provides the customer with a reference number.

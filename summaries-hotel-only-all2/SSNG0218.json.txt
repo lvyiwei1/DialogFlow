@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what hotel they are looking for.
+2. Ask the customer if they would like to make a reservation.
+3. Check for available rooms at the hotel.
+4. If there are no available rooms, offer to find another hotel in the same price range.
+5. If there is an available room, book the room and provide the customer with a reference number.

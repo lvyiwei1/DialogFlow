@@ -1,0 +1,8 @@
+
+
+1. ask customer what they need
+2. ask customer what their preferences are
+3. offer a few options that fit the customer's needs
+4. ask the customer to choose one of the options
+5. confirm the details with the customer
+6. book the hotel room for the customer

@@ -1,0 +1,6 @@
+
+
+1. Ask if the customer has a preferred side of town for the hotel.
+2. If not, ask if the customer has a preferred price range for the hotel.
+3. Recommend a hotel based on the customer's preferences.
+4. Book the hotel for the customer.

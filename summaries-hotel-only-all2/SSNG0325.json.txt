@@ -1,0 +1,7 @@
+
+
+1. Ask the customer how many people and how many nights they will be staying.
+2. Get a room with the required number of beds for the customer at the Gonville Hotel.
+3. Give the customer the reference number for the room.
+4. If the customer has any other questions, answer them.
+5. Thank the customer for their business.

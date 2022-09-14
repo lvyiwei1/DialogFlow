@@ -1,0 +1,7 @@
+
+
+1. The customer provides the name of the hotel they wish to stay at.
+2. The customer provides the dates they wish to stay at the hotel.
+3. The customer provides the number of people staying at the hotel.
+4. The customer provides their contact information.
+5. The customer completes the booking process.

@@ -1,0 +1,6 @@
+
+
+1. The customer contacts the service with a request for a guest house.
+2. The service provides a list of options to the customer.
+3. The customer selects their preferred option.
+4. The service books the hotel for the customer.

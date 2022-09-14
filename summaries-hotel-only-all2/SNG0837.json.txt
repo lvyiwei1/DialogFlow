@@ -1,0 +1,6 @@
+
+
+-Ask the customer what their preferences are for the hotel
+-Suggest the Alexander Bed and Breakfast as a possible option
+-Confirm with the customer that the Alexander Bed and Breakfast is what they want
+-Book the hotel for the customer

@@ -1,0 +1,9 @@
+
+
+1. Ask the customer if they need help.
+
+2. Ask the customer where they would like to stay and for how long.
+
+3. Book the hotel for the customer.
+
+4. Give the customer the reference number for their booking.

@@ -1,0 +1,5 @@
+
+
+1. Identify customer's needs (free parking, moderate price, 4 star rating).
+2. Find hotels that meet customer's needs.
+3. Book hotel for customer.

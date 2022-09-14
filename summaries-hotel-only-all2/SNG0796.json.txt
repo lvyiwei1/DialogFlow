@@ -1,0 +1,11 @@
+
+
+1. Customer contacts service.
+
+2. Service asks customer for desired location, stars, and type of accommodation.
+
+3. Customer requests a specific hotel in the north with free wifi and parking.
+
+4. Service books the hotel for the customer and provides reference number.
+
+5. Customer thanks service and ends call.

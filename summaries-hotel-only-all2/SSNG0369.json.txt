@@ -1,0 +1,6 @@
+
+1. Ask customer for their needs in a hotel
+2. Ask if they have any preferred areas
+3. Suggest hotels that match their needs
+4. Ask when they plan to stay and for how long
+5. Book the hotel for the customer

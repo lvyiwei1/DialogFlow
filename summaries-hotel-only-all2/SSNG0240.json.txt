@@ -1,0 +1,7 @@
+
+
+1. Decide on the location of the hotel.
+2. Find a hotel that is ranked by 4 stars.
+3. Book the hotel.
+4. Get the reference number for the hotel.
+5. Send the customer the address and phone number of the hotel.

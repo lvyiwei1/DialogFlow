@@ -1,0 +1,6 @@
+
+
+1. Determine the customer's needs.
+2. Locate hotels that meet the customer's criteria.
+3. Book the hotel for the customer.
+4. Get a reference number for the reservation.

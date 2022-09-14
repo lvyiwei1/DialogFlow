@@ -1,0 +1,9 @@
+
+
+- Ask the customer which hotel they are interested in.
+- Ask the customer how many people will be staying in the room.
+- Ask the customer for how many nights they will need the room.
+- Ask the customer what day they will be checking in.
+- Find the hotel in the system.
+- Book the room for the customer.
+- Give the customer the reference number for their reservation.

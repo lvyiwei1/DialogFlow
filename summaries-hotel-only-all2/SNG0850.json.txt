@@ -1,0 +1,6 @@
+
+
+1. Find hotels with 3 star ratings
+2. Find hotels that are available on the date and for the length of stay that the customer wants
+3. Give the customer more information about the hotels that are available
+4. Book the hotel for the customer

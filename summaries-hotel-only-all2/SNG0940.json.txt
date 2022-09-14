@@ -1,0 +1,8 @@
+
+
+1. Ask customer what type of place they are looking for.
+2. Ask customer if they have a price range.
+3. Ask customer what their other needs are.
+4. Find a place that fits the customer's needs.
+5. Book the room for the customer.
+6. Give the customer a reference number.

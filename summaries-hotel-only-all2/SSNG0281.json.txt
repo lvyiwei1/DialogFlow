@@ -1,0 +1,11 @@
+
+
+1. Find a place to stay in the cheap price range with free parking
+2. Find the 10 places matching the customer's request
+3. Ask the customer which part of town they prefer
+4. Find the two guesthouses available in the preferred part of town
+5. Ask the customer if they would like to book one of the guesthouses
+6. If the customer would like to book a guesthouse, try to book it
+7. If the customer is unable to book a guesthouse, try something else
+8. Book the room for the customer
+9. Thank the customer for their business

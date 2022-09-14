@@ -1,0 +1,6 @@
+
+
+1. The customer provides location, price range, and parking requirements.
+2. The service recommends a hotel in the north that has free parking.
+3. The customer books the hotel for 3 people and 3 nights starting from Wednesday.
+4. The service confirms the booking and provides a reference number.

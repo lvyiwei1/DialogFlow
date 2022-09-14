@@ -1,0 +1,8 @@
+
+
+1. Ask if the customer needs help booking a hotel.
+2. Ask for the customer's preferred location.
+3. Ask for the customer's preferred hotel type.
+4. Ask for the customer's preferred room type.
+5. Ask if the customer needs help with anything else.
+6. Provide the customer with a reference number for their booking.

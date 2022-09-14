@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what their budget is for the hotel room.
+2. Ask the customer what dates they are looking to stay at the hotel.
+3. Ask the customer if they have any specific requirements for the hotel room (e.g. free wifi, number of people that can stay in the room).
+4. Search for hotels that match the customer's budget and requirements.
+5. Book the hotel room for the customer.

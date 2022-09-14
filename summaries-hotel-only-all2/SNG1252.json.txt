@@ -1,0 +1,7 @@
+
+
+1. Ask the customer for information on their booking, such as how many people will be staying and for how long.
+2. Look up the requested information and provide it to the customer.
+3. Ask the customer if they would like to go ahead and book the hotel.
+4. Once the customer has confirmed, make the booking and provide the customer with a reference number.
+5. Ask the customer if they need any further assistance.

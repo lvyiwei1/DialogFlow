@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what their needs are for the hotel.
+2. Suggest a hotel that meets the customer's needs.
+3. Provide additional information about the hotel if requested.
+4. Book the customer's stay at the hotel.
+5. Thank the customer and say goodbye.

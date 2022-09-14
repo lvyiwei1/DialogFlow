@@ -1,0 +1,7 @@
+
+
+1. Ask the customer for their name and contact information.
+2. Ask the customer for their desired dates of stay.
+3. Ask the customer for the number of people in their party.
+4. Make the reservation for the customer.
+5. Give the customer the reference number for their reservation.

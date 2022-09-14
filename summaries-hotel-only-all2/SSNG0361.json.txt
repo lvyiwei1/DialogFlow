@@ -1,0 +1,6 @@
+
+
+1. Help customer find a hotel that meets their needs (e.g. free parking, 2 star rating, etc.)
+2. Book the room for the customer
+3. Confirm the details of the booking with the customer
+4. Provide the customer with a reference number for the booking

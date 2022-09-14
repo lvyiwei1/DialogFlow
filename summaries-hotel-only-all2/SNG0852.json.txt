@@ -1,0 +1,8 @@
+
+
+1. The customer contacts the service to request help in finding a 4 star lodging on the south end.
+2. The service provides the customer with two options, the aylesbray lodge guest house or rosa's bed and breakfast.
+3. The customer asks if either of the lodgings are cheap and the service responds that rosa's bed and breakfast is in the cheap price range.
+4. The customer decides to book a room at rosa's bed and breakfast for three nights starting on Friday.
+5. The service reserves the room and provides the customer with a reference number.
+6. The customer confirms that there is nothing else they need and the service ends the conversation.

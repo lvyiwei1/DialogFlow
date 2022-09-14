@@ -1,0 +1,10 @@
+
+
+The customer service representative should ask the customer:
+1. What type of hotel they are looking for 
+2. If they have a preferred location 
+3. The dates they are looking to stay 
+4. How many people will be staying 
+5. If they have any other specific requirements 
+
+After the customer service representative has gathered all of this information, they should search for hotels that meet the customer's criteria and provide the customer with a list of options. The customer can then choose the hotel they would like to stay in and the representative can book the room for them.

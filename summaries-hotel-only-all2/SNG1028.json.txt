@@ -1,0 +1,10 @@
+
+
+1. The customer contacts the service.
+2. The service asks the customer for their preferred hotel features.
+3. The customer requests a hotel with free wifi.
+4. The service provides a list of available hotels.
+5. The customer selects a hotel.
+6. The service books the hotel.
+7. The customer confirms the booking.
+8. The service thanks the customer.

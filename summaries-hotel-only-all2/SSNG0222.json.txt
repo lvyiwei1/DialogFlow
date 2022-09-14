@@ -1,0 +1,5 @@
+
+
+1. Find a hotel that meets the customer's criteria.
+2. Check the prices of the hotel.
+3. Book the hotel for the customer.

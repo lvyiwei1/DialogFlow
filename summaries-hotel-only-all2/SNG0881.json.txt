@@ -1,0 +1,8 @@
+
+
+1. The customer provides their location and says they need a hotel for the night.
+2. The service provides several options for hotels in the area, including price ranges.
+3. The customer chooses the hotel they would like to stay at and books it.
+4. The service confirms the booking and provides the reference number.
+5. The customer double-checks the reference number and confirms that the hotel has free wifi.
+6. The service thanks the customer and tells them to enjoy their stay in Cambridge.

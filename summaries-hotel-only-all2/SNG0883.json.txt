@@ -1,0 +1,9 @@
+
+
+1. Check for available hotels in the area that the customer prefers.
+
+2. Choose a hotel based on the customer's preferred price range.
+
+3. Book the hotel room for the customer.
+
+4. Confirm the booking with the customer.

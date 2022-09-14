@@ -1,0 +1,5 @@
+
+1. Find a 3-star hotel that is moderately priced.
+2. Determine if the customer needs internet or parking.
+3. Choose a location for the hotel.
+4. Book the hotel.

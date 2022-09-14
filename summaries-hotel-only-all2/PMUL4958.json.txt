@@ -1,0 +1,9 @@
+
+
+1.The customer said they wanted an expensive hotel with 3 stars 
+2.The service provider found the gonville hotel 
+3.The customer asked if the hotel had free wifi 
+4.The service provider said it did and asked if they wanted to book a room 
+5.The customer said yes and booked a room for 6 people for 2 nights starting from Saturday 
+6.The service provider gave the customer a reference number 
+7.The customer thanked the service provider

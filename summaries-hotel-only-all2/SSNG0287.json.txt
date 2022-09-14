@@ -1,0 +1,7 @@
+
+
+1. Ask the customer what their budget is.
+
+2. Find a hotel in the customer's budget.
+
+3. Book a reservation for the customer.

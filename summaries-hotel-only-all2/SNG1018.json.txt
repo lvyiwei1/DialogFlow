@@ -1,0 +1,6 @@
+
+
+1. Customer asks for a hotel called the Arbury Lodge Guesthouse.
+2. Service checks for the hotel in their records and finds it.
+3. Customer asks to book the hotel for 8 people for 5 nights starting Monday.
+4. Service books the hotel and gives the customer the reference number.

@@ -1,0 +1,7 @@
+
+
+1. Find out the customer's preferences for their hotel stay.
+
+2. Based on the customer's preferences, recommend several hotels that may be suitable.
+
+3. Help the customer to book a room at their chosen hotel.

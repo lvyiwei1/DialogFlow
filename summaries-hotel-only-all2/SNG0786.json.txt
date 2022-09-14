@@ -1,0 +1,6 @@
+
+
+1. Find out what dates the customer needs to stay.
+2. Find out how many people need to stay.
+3. Find out what type of room the customer needs.
+4. Book the hotel room for the customer.

@@ -1,0 +1,5 @@
+
+1. Determine customer's preferred area.
+2. Identify a 4 star hotel in the area with free parking.
+3. Book the hotel starting on Tuesday for 4 nights for 7 people.
+4. Thank the customer for using our system.

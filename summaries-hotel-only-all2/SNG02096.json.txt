@@ -1,0 +1,8 @@
+
+
+- identfy the customer's needs
+- clarify the details of the customer's request
+- attempt to book the hotel according to the customer's request
+- if the first attempt is unsuccessful, try again with different dates or a different number of guests
+- confirm the booking details with the customer
+- provide the customer with a reference number for the booking

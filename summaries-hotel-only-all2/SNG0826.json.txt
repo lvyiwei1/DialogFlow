@@ -1,0 +1,7 @@
+
+
+1. Ask if the customer knows what kind of hotel they are looking for.
+2. Get clarification on the number of people in the party and the dates of stay.
+3. Book the hotel according to the customer's specifications.
+4. Give the customer a reference number for the booking.
+5. Thank the customer and bid them farewell.

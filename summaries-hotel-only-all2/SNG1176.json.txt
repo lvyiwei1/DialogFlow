@@ -1,0 +1,9 @@
+
+
+1. Ask the customer if they have a preference on area.
+2. If the customer does not have a preference on area, ask the customer if they would like a 4-star guesthouse.
+3. If the customer would like a 4-star guesthouse, book the home from home guesthouse in the north for the customer.
+4. Ask the customer how many people will be staying at the hotel.
+5. Book the hotel for the customer.
+6. Give the customer the reference number for the booking.
+7. Ask the customer if there is anything else that you can assist them with.

@@ -1,0 +1,5 @@
+
+
+1. Find a list of cheap guesthouses that fit the customer's criteria.
+2. Recommend the Autumn House to the customer.
+3. If the Autumn House is full, try to book one of the other recommended guesthouses.

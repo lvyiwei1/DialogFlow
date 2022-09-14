@@ -1,0 +1,11 @@
+
+
+1) Identify the customer's preferred location.
+
+2) Identify the customer's preferred price range.
+
+3) Identify the customer's preferred amenities.
+
+4) Identify available hotels that meet the customer's preferences.
+
+5) Book the hotel for the customer.

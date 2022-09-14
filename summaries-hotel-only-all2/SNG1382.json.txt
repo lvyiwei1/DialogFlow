@@ -1,0 +1,7 @@
+
+
+1. Identify what type of accommodation the customer is looking for.
+2. Find out the customer's preferred location.
+3. Suggest suitable accommodation options to the customer.
+4. Help the customer to make a booking.
+5. Provide the customer with the booking confirmation details.

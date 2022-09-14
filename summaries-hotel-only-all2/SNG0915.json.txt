@@ -1,0 +1,7 @@
+
+
+1. Find Cityroomz hotel in the centre of town.
+
+2. Call Cityroomz hotel to book a room for Saturday arrival.
+
+3. Provide the reference number to the customer.

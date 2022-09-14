@@ -1,0 +1,8 @@
+
+
+1. The customer contacts the service.
+2. The service asks the customer for their preferred location, star rating, and price range.
+3. The service recommends three hotels that meet the customer's requirements.
+4. The customer chooses one of the hotels and provides the number of days they will stay and the number of people in their party.
+5. The service books the hotel for the customer and provides a reference number.
+6. The customer thanks the service and ends the call.

@@ -1,0 +1,5 @@
+
+
+- Ask customer for desired location 
+- Book the hotel 
+- Give customer reference number

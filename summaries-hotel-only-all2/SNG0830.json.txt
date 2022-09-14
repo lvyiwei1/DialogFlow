@@ -1,0 +1,7 @@
+
+
+1. Find a hotel that offers the amenities the customer is looking for.
+
+2. Make a reservation for the customer.
+
+3. Provide the customer with the details of the reservation.

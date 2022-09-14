@@ -1,0 +1,7 @@
+
+
+1. Ask the customer if they would prefer a hotel or guesthouse.
+2. If the customer prefers a hotel, ask them for their preferred price range and star rating.
+3. Find a hotel that meets the customer's preferences and check for availability.
+4. If the hotel is available, book the room and provide the customer with the reference number.
+5. Thank the customer for their business.

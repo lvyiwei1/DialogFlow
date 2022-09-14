@@ -1,0 +1,7 @@
+
+
+1. Look up the Warkworth House hotel and find that it is fully booked.
+2. Look for another hotel in the same price range as the Warkworth House.
+3. Find two hotels that match the customer's criteria in the east area.
+4. Ask the customer if they have a preference for the two hotels.
+5. Book the customer at the hotel of their choice and provide the reference number.

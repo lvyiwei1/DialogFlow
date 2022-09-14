@@ -1,0 +1,16 @@
+
+
+1. 
+The customer contacts the service to inquire about 4-star guesthouses in town.
+
+2. 
+The service provides a list of 18 matching options, and asks if the customer has any preferences.
+
+3. 
+The customer narrows down the options to two guesthouses, one located in the south part of town and one with wifi.
+
+4. 
+The customer decides to book Rosa's Bed and Breakfast for 3 nights, starting Friday, for a total of 8 people.
+
+5. 
+The service confirms the booking and provides the customer with a reference number.

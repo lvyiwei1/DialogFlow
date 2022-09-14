@@ -1,0 +1,11 @@
+
+
+1. The customer should express the need for a moderately priced hotel.
+
+2. The customer should request a hotel in the North part of town.
+
+3. The customer should request a hotel that is available for booking on Monday for 4 nights.
+
+4. The customer should request a hotel that can accommodate 6 people.
+
+5. The customer should request the reference number for the successful booking.

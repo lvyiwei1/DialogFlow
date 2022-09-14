@@ -1,0 +1,6 @@
+
+
+1. Find hotels with free wifi in the moderate price range.
+2. Find hotels with availability for 7 people for 2 nights starting on Saturday.
+3. Book the Hamilton Lodge for the customer.
+4. Provide the customer with the reference number for their booking.

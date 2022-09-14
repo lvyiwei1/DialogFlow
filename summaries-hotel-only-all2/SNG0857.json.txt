@@ -1,0 +1,13 @@
+
+
+1. The customer contact the service to request for a 4 star guesthouse hotel.
+
+2. The service provides a list of 21 4 star places for the customer to choose from.
+
+3. The customer requests for a specific location, in this case, the north part of town.
+
+4. The service provides a list of options for the customer to choose from.
+
+5. The customer selects Kirkwood House and requests for a booking.
+
+6. The service confirms the booking and provides the customer with a reference number.

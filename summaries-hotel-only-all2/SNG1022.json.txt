@@ -1,0 +1,8 @@
+
+
+1. Determine the customer's desired hotelStay dates and party size.
+2. Locate Cityroomz hotel in the city center.
+3. Check for availability of the customer's desired dates.
+4. If Cityroomz is unavailable, check for availability of other hotels in the same area.
+5. If other hotels are unavailable, try shorter stays or different dates.
+6. Book the room and give the customer the reference number.

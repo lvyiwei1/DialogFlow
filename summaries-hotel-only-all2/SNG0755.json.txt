@@ -1,0 +1,12 @@
+
+
+The customer should specify:
+- the number of people
+- the dates of their stay
+- their preferred price range
+
+The service should then:
+- look for hotels that match the customer's criteria
+- provide the customer with a list of options
+- help the customer to book the hotel
+- provide the customer with a reference number

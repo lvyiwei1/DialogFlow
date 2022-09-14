@@ -1,0 +1,5 @@
+
+
+1. Gather customer's needs: star rating, price range, number of nights, number of people.
+2. Recommend a hotel that meets the customer's needs: Avalon.
+3. Book the hotel for the customer: Reference number is DR0ZGF0P.

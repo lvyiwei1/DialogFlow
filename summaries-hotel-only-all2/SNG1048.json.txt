@@ -1,0 +1,11 @@
+
+
+1. Gather customer preferences including price range, star rating, and type of lodging.
+
+2. Find available hotels that match the customer's preferences.
+
+3. Make a reservation for the customer at the chosen hotel.
+
+4. Provide the customer with the reservation reference number.
+
+5. Thank the customer and offer any additional assistance.

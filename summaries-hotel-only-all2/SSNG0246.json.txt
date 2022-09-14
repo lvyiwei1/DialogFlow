@@ -1,0 +1,6 @@
+
+
+1. Find out the customer's desired location.
+2. Ask if they need help making a reservation.
+3. Get the necessary information from the customer to make a reservation.
+4. If available, make a reservation for the customer. If not available, recommend a different hotel.

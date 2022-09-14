@@ -1,0 +1,7 @@
+
+
+1. Customer states they are looking for a hotel 
+2. Service finds a hotel that matches the customer's request 
+3. Customer confirms they would like to book the room 
+4. Service books the room and gives the customer the reference number 
+5. Customer thanks the service

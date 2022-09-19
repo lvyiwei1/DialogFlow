@@ -2,8 +2,9 @@
 
 ## ground truth final states, slots, and binary dict and arrays
 
-Under "hotel-final-slots.json", for each hotel-booking only dialog, we have "dialog" which is the processed merged dialog, "steps-summary" which is the summarized steps of the dialog by InstructGPT, "final-state" which is the final ground truth state dictionary (from the dataset), "binary-dict" which is the slots converted to binary stored in a dictionary, and "binary-array" which is the binary values in binary-dict listed in an array.
+Under 'hotel-final-slots.json`, for each hotel-booking only dialog, we have `dialog` which is the processed merged dialog, `steps-summary` which is the summarized steps of the dialog by InstructGPT, `final-state` which is the final ground truth state dictionary (from the dataset), `binary-dict` which is the slots converted to binary stored in a dictionary, and `binary-array` which is the binary values in binary-dict listed in an array.
 
+Under `hotel-slot-changes.json`, for each hotel-booking dialog, we record the ground truth slot information change every time it's service's turn to speak. They are derived from the ground truth dialog state annotations.
 
 ## InstructGPT generated summaries
 
